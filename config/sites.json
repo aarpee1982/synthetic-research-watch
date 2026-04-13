@@ -1,0 +1,162 @@
+{
+  "global": {
+    "request_timeout_seconds": 10,
+    "max_seed_urls_per_site": 5,
+    "max_discovered_links_per_site": 20,
+    "max_pages_to_fetch_per_site": 8,
+    "user_agent": "ai-market-watch/1.0"
+  },
+  "sites": [
+    {
+      "name": "Voxpopme",
+      "homepage": "https://www.voxpopme.com/",
+      "seed_urls": [
+        "https://www.voxpopme.com/"
+      ]
+    },
+    {
+      "name": "Artificial Societies",
+      "homepage": "https://www.artificialsocieties.com/",
+      "seed_urls": [
+        "https://www.artificialsocieties.com/"
+      ]
+    },
+    {
+      "name": "Conveo",
+      "homepage": "https://conveo.ai/",
+      "seed_urls": [
+        "https://conveo.ai/"
+      ]
+    },
+    {
+      "name": "Ditto",
+      "homepage": "https://askditto.io/",
+      "seed_urls": [
+        "https://askditto.io/",
+        "https://askditto.io/news"
+      ]
+    },
+    {
+      "name": "Entropik",
+      "homepage": "https://www.entropik.io/",
+      "seed_urls": [
+        "https://www.entropik.io/"
+      ]
+    },
+    {
+      "name": "Evidenza",
+      "homepage": "https://www.evidenza.ai/",
+      "seed_urls": [
+        "https://www.evidenza.ai/"
+      ]
+    },
+    {
+      "name": "Fairgen",
+      "homepage": "https://www.fairgen.ai/",
+      "seed_urls": [
+        "https://www.fairgen.ai/",
+        "https://www.fairgen.ai/blog"
+      ]
+    },
+    {
+      "name": "GetWhy",
+      "homepage": "https://www.getwhy.io/",
+      "seed_urls": [
+        "https://www.getwhy.io/"
+      ]
+    },
+    {
+      "name": "Lakmoos",
+      "homepage": "https://lakmoos.agency/",
+      "seed_urls": [
+        "https://lakmoos.agency/"
+      ]
+    },
+    {
+      "name": "Listen Labs",
+      "homepage": "https://listenlabs.ai/",
+      "seed_urls": [
+        "https://listenlabs.ai/",
+        "https://listenlabs.ai/founders-letter"
+      ]
+    },
+    {
+      "name": "Outset",
+      "homepage": "https://www.outset.ai/",
+      "seed_urls": [
+        "https://www.outset.ai/",
+        "https://www.outset.ai/blog"
+      ]
+    },
+    {
+      "name": "Qualtrics",
+      "homepage": "https://www.qualtrics.com/",
+      "seed_urls": [
+        "https://www.qualtrics.com/",
+        "https://www.qualtrics.com/blog/"
+      ]
+    },
+    {
+      "name": "Quantilope",
+      "homepage": "https://www.quantilope.com/",
+      "seed_urls": [
+        "https://www.quantilope.com/",
+        "https://www.quantilope.com/resources/"
+      ]
+    },
+    {
+      "name": "Remesh",
+      "homepage": "https://www.remesh.ai/",
+      "seed_urls": [
+        "https://www.remesh.ai/",
+        "https://www.remesh.ai/resources"
+      ]
+    },
+    {
+      "name": "Simile",
+      "homepage": "https://www.simile.ai/",
+      "seed_urls": [
+        "https://www.simile.ai/"
+      ]
+    },
+    {
+      "name": "Synthetic Users",
+      "homepage": "https://www.syntheticusers.com/",
+      "seed_urls": [
+        "https://www.syntheticusers.com/"
+      ]
+    },
+    {
+      "name": "Toluna",
+      "homepage": "https://www.tolunacorporate.com/",
+      "seed_urls": [
+        "https://www.tolunacorporate.com/"
+      ]
+    },
+    {
+      "name": "Yabble",
+      "homepage": "https://www.yabble.com/",
+      "seed_urls": [
+        "https://www.yabble.com/",
+        "https://www.yabble.com/blog"
+      ]
+    },
+    {
+      "name": "YouGov",
+      "homepage": "https://business.yougov.com/",
+      "seed_urls": [
+        "https://business.yougov.com/",
+        "https://business.yougov.com/content"
+      ]
+    },
+    {
+      "name": "Zappi",
+      "homepage": "https://www.zappi.io/",
+      "seed_urls": [
+        "https://www.zappi.io/",
+        "https://www.zappi.io/web/blog",
+        "https://www.zappi.io/web/news"
+      ]
+    }
+  ]
+}

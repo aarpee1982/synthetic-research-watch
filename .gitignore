@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+output/report.md
+output/summary.json

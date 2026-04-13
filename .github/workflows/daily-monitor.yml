@@ -1,0 +1,76 @@
+name: AI Market Watch
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run monitor
+        run: python scripts/monitor.py
+
+      - name: Export summary
+        id: summary
+        shell: bash
+        run: |
+          echo "has_changes=$(python - <<'PY'
+          import json
+          from pathlib import Path
+          data = json.loads(Path('output/summary.json').read_text(encoding='utf-8'))
+          print(str(data['has_changes']).lower())
+          PY
+          )" >> "$GITHUB_OUTPUT"
+          echo "report_date=$(python - <<'PY'
+          import json
+          from pathlib import Path
+          data = json.loads(Path('output/summary.json').read_text(encoding='utf-8'))
+          print(data['generated_at'][:10])
+          PY
+          )" >> "$GITHUB_OUTPUT"
+
+      - name: Create issue
+        if: steps.summary.outputs.has_changes == 'true'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: AI Market Watch - ${{ steps.summary.outputs.report_date }}
+          content-filepath: output/report.md
+          labels: |
+            ai-market-watch
+            monitoring
+          assignees: ${{ github.actor }}
+          token: ${{ secrets.GH_PAT != '' && secrets.GH_PAT || github.token }}
+
+      - name: Commit refreshed state
+        shell: bash
+        run: |
+          if git diff --quiet -- state/site_state.json; then
+            echo "No state changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/site_state.json
+          git commit -m "chore: refresh monitor state"
+          git push
