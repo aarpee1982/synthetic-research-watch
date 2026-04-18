@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-17T06:57:28+00:00",
+  "generated_at": "2026-04-18T06:12:37+00:00",
   "sites": {
     "Voxpopme": {
       "name": "Voxpopme",
       "homepage": "https://www.voxpopme.com/",
-      "checked_at": "2026-04-17T06:57:02+00:00",
+      "checked_at": "2026-04-18T06:12:03+00:00",
       "seed_urls": [
         "https://www.voxpopme.com/"
       ],
@@ -19,7 +19,7 @@
           "signal_hash": "a1298ed5a1fbf4fc698122c92b6d2bd018a9fb6be402da944e88a0395a05e82b",
           "text_hash": "b61dbdf26cf531b5c4097a6b23b6df9c93e1917ba171b3529821663904c13baa",
           "text_sample": "Qualitative Research Platform for Video & AI Insights | Voxpopme Skip to main content Login Product Voxpopme Platform Platform Overview One platform. Zero compromise. Our Community The right people. The real answer. Voxpopme Trust Centre ISO 27001 and 9001 Certified. Products Video Survey Replace as",
-          "fetched_at": "2026-04-17T06:57:01+00:00",
+          "fetched_at": "2026-04-18T06:12:02+00:00",
           "status_code": 200
         },
         "https://www.voxpopme.com/pricing": {
@@ -31,7 +31,7 @@
           "signal_hash": "62d7ae73a36c4f1f11f660ef68d5d330995359f42743383ec3d5b7a1012de027",
           "text_hash": "e2e716ab6b4840c631a447074f22d498a5d0146c36551eec376017d710603721",
           "text_sample": "Pricing | Qualitative Research Platform Plans | Voxpopme Skip to main content Login Product Voxpopme Platform Platform Overview One platform. Zero compromise. Our Community The right people. The real answer. Voxpopme Trust Centre ISO 27001 and 9001 Certified. Products Video Survey Replace assumption",
-          "fetched_at": "2026-04-17T06:57:01+00:00",
+          "fetched_at": "2026-04-18T06:12:02+00:00",
           "status_code": 200
         },
         "https://www.voxpopme.com/learn/blog": {
@@ -43,7 +43,7 @@
           "signal_hash": "e31a32041c8392f9932864222f7e63bf0f58e58595986bd3f6bb858782662174",
           "text_hash": "53611d533fcba97535a007705e2a474e05e1a38567972fdf3e19cd49e078b9ee",
           "text_sample": "Blog - Voxpopme Skip to main content Login Product Voxpopme Platform Platform Overview One platform. Zero compromise. Our Community The right people. The real answer. Voxpopme Trust Centre ISO 27001 and 9001 Certified. Products Video Survey Replace assumptions with customer truth. Live Interviews Co",
-          "fetched_at": "2026-04-17T06:57:02+00:00",
+          "fetched_at": "2026-04-18T06:12:03+00:00",
           "status_code": 200
         }
       },
@@ -94,7 +94,7 @@
     "Artificial Societies": {
       "name": "Artificial Societies",
       "homepage": "https://www.artificialsocieties.com/",
-      "checked_at": "2026-04-17T06:57:03+00:00",
+      "checked_at": "2026-04-18T06:12:04+00:00",
       "seed_urls": [
         "https://www.artificialsocieties.com/"
       ],
@@ -109,7 +109,7 @@
           "signal_hash": "a568f566fe0848db8814e95ebad82d49b601341a737e94388acec6e06a383bb0",
           "text_hash": "e9ca3405c45c004a16b51a898dbc04aa74af9651faa310eda0b932953239d1b8",
           "text_sample": "Artificial Societies",
-          "fetched_at": "2026-04-17T06:57:03+00:00",
+          "fetched_at": "2026-04-18T06:12:04+00:00",
           "status_code": 200
         }
       },
@@ -125,7 +125,7 @@
     "Conveo": {
       "name": "Conveo",
       "homepage": "https://conveo.ai/",
-      "checked_at": "2026-04-17T06:57:04+00:00",
+      "checked_at": "2026-04-18T06:12:07+00:00",
       "seed_urls": [
         "https://conveo.ai/"
       ],
@@ -140,7 +140,7 @@
           "signal_hash": "38e3d6bdfdf84efb62c0805dea39443ed04942cda39e14d0ee49074bba08c93b",
           "text_hash": "8ee434bb822aacdc73e33b73f91c8f42eb4484361c18628b84a7934ff2ca2626",
           "text_sample": "Conveo | Confident decisions in days with AI-led interviews. Product For whom Industries Resources Docs Careers Sign in Book a demo Book a demo The only AI interviewer that captures every human signal. Your entire qualitative research, all in one platform. Conveo's AI designs expert studies, intervi",
-          "fetched_at": "2026-04-17T06:57:03+00:00",
+          "fetched_at": "2026-04-18T06:12:05+00:00",
           "status_code": 200
         },
         "https://conveo.ai/industries/consumer-services": {
@@ -152,7 +152,7 @@
           "signal_hash": "0a580801a7d9a817e116f65311dfab2f27a28f8b233a7b7724b5ed1bf0cb6a0e",
           "text_hash": "a38996a26a6f93c541a7af8c05bf362432393a2ffa66e9ba4ad18be18301642c",
           "text_sample": "Conveo | Consumer services Product For whom Industries Resources Docs Careers Sign in Book a demo Book a demo Consumer Services Trade assumptions for real understanding Churn is a metric. Frustration isn\u00e2\u0080\u0099t. Net Promoter tells you how people rate you. Not why they leave. Customer journeys are mappe",
-          "fetched_at": "2026-04-17T06:57:03+00:00",
+          "fetched_at": "2026-04-18T06:12:05+00:00",
           "status_code": 200
         },
         "https://conveo.ai/product": {
@@ -164,7 +164,7 @@
           "signal_hash": "b81fea808d21d453c10785cb5b9517b4db526121b4ea08a8c05ae702bfd0c3d7",
           "text_hash": "d4b1850730cf2f509435f2957d4bf7058a57dfa62aae9bfd096128cd36de2837",
           "text_sample": "Conveo | Product Product For whom Industries Resources Docs Careers Sign in Book a demo Book a demo Product overview AI-led video interviews: the researcher\u00e2\u0080\u0099s holy grail. Conveo is a fully AI-powered video interview platform for modern qual: research study design, recruitment, interviews, analysis",
-          "fetched_at": "2026-04-17T06:57:03+00:00",
+          "fetched_at": "2026-04-18T06:12:05+00:00",
           "status_code": 200
         },
         "https://conveo.ai/teams/business/product-and-innovation": {
@@ -176,7 +176,7 @@
           "signal_hash": "34a2e2a1a5886ae20e01e384ba2d9fe702555104a0f247068c2cc52de4b05919",
           "text_hash": "da69b7ec0de0e1926eee76882a22809442e3d8d2e1db727e56e6a221c4c18fc4",
           "text_sample": "Conveo | Built for Product & Innovation Teams Product For whom Industries Resources Docs Careers Sign in Book a demo Book a demo Product & Innovation Built for Product & Innovation teams who can\u00e2\u0080\u0099t afford to build the wrong thing Get fast, in-depth feedback on ideas, prototypes and concepts before ",
-          "fetched_at": "2026-04-17T06:57:04+00:00",
+          "fetched_at": "2026-04-18T06:12:05+00:00",
           "status_code": 200
         },
         "https://conveo.ai/teams/insights-teams/cmi": {
@@ -188,7 +188,7 @@
           "signal_hash": "1bf5b0fa1e3fa491ec6fd6b88270bc49dbc8d115e74f759a87b2331b232f4ff6",
           "text_hash": "f910d99a8768c78b45bd7a3eea6e5745b6e6ee7afbed4a42280f3b1b791ba57a",
           "text_sample": "Conveo | Built By & For CMI Teams Product For whom Industries Resources Docs Careers Sign in Book a demo Book a demo CMI Built for CMI teams who need deeper consumer understanding faster Multimodal. Panel-agnostic. Insight-rich. Multimodal. Panel-agnostic. Insight-rich. Conveo helps Consumer & Marke",
-          "fetched_at": "2026-04-17T06:57:04+00:00",
+          "fetched_at": "2026-04-18T06:12:06+00:00",
           "status_code": 200
         },
         "https://conveo.ai/teams/insights-teams/cx": {
@@ -200,7 +200,7 @@
           "signal_hash": "172d389127f51d7df8107e148fd1bcd0e6c311bf57a65059939defed22a2b935",
           "text_hash": "b3c724502af0b3d4c4d052ae9b89294b2e37b516a1e3a6e2f0b23cc27effc689",
           "text_sample": "Conveo | Built for CX Teams Product For whom Industries Resources Docs Careers Sign in Book a demo Book a demo CX Built for CX teams who want to close the loop between insight and action Multimodal. Panel-agnostic. Human-centered. Multimodal. Panel-agnostic. Human-centered. Conveo helps CX teams go ",
-          "fetched_at": "2026-04-17T06:57:04+00:00",
+          "fetched_at": "2026-04-18T06:12:06+00:00",
           "status_code": 200
         },
         "https://conveo.ai/use-cases/brand-positioning-equity-insight": {
@@ -212,7 +212,7 @@
           "signal_hash": "2e1e1f3e008287630580dd50156e4e229147a96b545f202a95f2d05a772b8d71",
           "text_hash": "422369f07870f5a25c5e6d3977c760c3523e7d1b34caf8b4886ed07569984670",
           "text_sample": "Conveo | For Brand Positioning & Equity Insight Product For whom Industries Resources Docs Careers Sign in Book a demo Book a demo Brand Positioning & Equity Insight Clarity on your brand, straight from the people who matter Go beyond metrics. Hear how real people perceive your brand, assets, and me",
-          "fetched_at": "2026-04-17T06:57:04+00:00",
+          "fetched_at": "2026-04-18T06:12:06+00:00",
           "status_code": 200
         },
         "https://conveo.ai/docs/get-started": {
@@ -224,7 +224,7 @@
           "signal_hash": "2654a50d46f0e9cdd4ef81db4e6a75dcae0fd4cdf213a51984bdb018dc1aa6ba",
           "text_hash": "548f2273efb510ee456eb2255093c0415a57af4682290d607cac15c31804d5bc",
           "text_sample": "Conveo Documentation - AI Qualitative Research Platform Skip to main content Conveo home page Search... \u2318 K Ask AI Support Dashboard Dashboard Search... Navigation Get Started Welcome Conveo Website Spread the Love \u2764\ufe0f Get Started Welcome Studies Overview Research setup Setting Up Your Topic Guide De",
-          "fetched_at": "2026-04-17T06:57:04+00:00",
+          "fetched_at": "2026-04-18T06:12:07+00:00",
           "status_code": 200
         }
       },
@@ -275,7 +275,7 @@
     "Ditto": {
       "name": "Ditto",
       "homepage": "https://askditto.io/",
-      "checked_at": "2026-04-17T06:57:05+00:00",
+      "checked_at": "2026-04-18T06:12:07+00:00",
       "seed_urls": [
         "https://askditto.io/",
         "https://askditto.io/news"
@@ -291,7 +291,7 @@
           "signal_hash": "059577f529c6c3220233740286ee6c950c159a75e13f0432126c6c7d2e4ca6dd",
           "text_hash": "98d186ac44e215c3d630b4002a98d16b9dbc641b68896856a3c0974e3c4d80bc",
           "text_sample": "Agricultural & Food Consumer Research | Ag Market Research - 6 Seeds Strategic Communications Research Research Studies How It Works News Insights Contact Get in Touch Case Studies About Us About Saskia About Andreas Strategic Communications Research \u25bc Research Studies How It Works News Insights Con",
-          "fetched_at": "2026-04-17T06:57:05+00:00",
+          "fetched_at": "2026-04-18T06:12:07+00:00",
           "status_code": 200
         }
       },
@@ -307,7 +307,7 @@
     "Entropik": {
       "name": "Entropik",
       "homepage": "https://www.entropik.io/",
-      "checked_at": "2026-04-17T06:57:07+00:00",
+      "checked_at": "2026-04-18T06:12:10+00:00",
       "seed_urls": [
         "https://www.entropik.io/"
       ],
@@ -322,7 +322,7 @@
           "signal_hash": "42cadf970ea7c3429aa44c39d8c76181af35ffdaaf15fa082ed94e1df89f44ed",
           "text_hash": "466198f8a18dced611195e315d687fbb795d7bd47ad7ea4aaea7e047e56d334a",
           "text_sample": "Entropik | Decode Unified Insights Platform Platform Solutions Technology Resources Product Tour Sign Up Today New Decode 2.0 New Decode 2.0 New Decode 2.0 Replace traditional market research with AI powered consumer behavior analysis Replace traditional market research with AI powered consumer beha",
-          "fetched_at": "2026-04-17T06:57:06+00:00",
+          "fetched_at": "2026-04-18T06:12:08+00:00",
           "status_code": 200
         },
         "https://www.entropik.io/platforms/ai-creative-insights": {
@@ -334,7 +334,7 @@
           "signal_hash": "665aa29d4c349645afc2d7386cccdeffca5f440793b6d017c32b348dfd4d1e4e",
           "text_hash": "3d2ed562c9d6aca38c5f1c917df1ef88356a6d97cf0f0f76d4ea882b43f8de5a",
           "text_sample": "Entropik | Decode Unified Insights Platform Platform Solutions Technology Resources Product Tour Sign Up Today AI Creative Insights Predict Creative Winners Before You Spend Predict Creative Winners Before You Spend Predict Creative Winners Before You Spend Test your creatives with Neuro AI to predi",
-          "fetched_at": "2026-04-17T06:57:06+00:00",
+          "fetched_at": "2026-04-18T06:12:09+00:00",
           "status_code": 200
         },
         "https://www.entropik.io/platforms/ai-moderator": {
@@ -346,7 +346,7 @@
           "signal_hash": "f24fb592d3cd93b209e0d337d910d25e5a27043283a50825a40b5a24e8ba2bd3",
           "text_hash": "f0ccc1101e0b9c6508a8746df7a065a075baf457e7cb8c6f65c78ba18c40b139",
           "text_sample": "Entropik | Decode Unified Insights Platform Platform Solutions Technology Resources Product Tour Sign Up Today New AI - Powered Qualitative Research New Decode AI Moderator Decode AI Moderator Decode AI Moderator AI moderated qualitative interviews that adapt in real time and deliver structured insi",
-          "fetched_at": "2026-04-17T06:57:06+00:00",
+          "fetched_at": "2026-04-18T06:12:09+00:00",
           "status_code": 200
         },
         "https://www.entropik.io/platforms/consumer-insights": {
@@ -358,7 +358,7 @@
           "signal_hash": "63212f7abc453616d1f76fd5be20d142dfff1389c4c74bb2e4d3da4a804b9cb3",
           "text_hash": "e4f2fa5ec5d5173b394ac412d97ade9025a4ab2867e16e1233e6de2aaea39eb2",
           "text_sample": "Entropik | Decode Unified Insights Platform Platform Solutions Technology Resources Product Tour Sign Up Today Consumer Insights Move Beyond Opinions. Uncover What Consumers Truly Feel . Move Beyond Opinions. Uncover What Consumers Truly Feel . Move Beyond Opinions. Uncover What Consumers Truly Feel",
-          "fetched_at": "2026-04-17T06:57:06+00:00",
+          "fetched_at": "2026-04-18T06:12:09+00:00",
           "status_code": 200
         },
         "https://www.entropik.io/platforms/insights-hub": {
@@ -370,7 +370,7 @@
           "signal_hash": "9a6095cc80563baff206eb9b7e33af8187507c798b27042796830097f689d43d",
           "text_hash": "fa4d033fca68f4b296e659ae5be323edaaa0ef901aa628930bc5ac6d4d0e8336",
           "text_sample": "Entropik | Decode Unified Insights Platform Platform Solutions Technology Resources Product Tour Sign Up Today Insights Hub One Hub for Every Insight. Powered by Emotion, Behaviour & AI. One Hub for Every Insight. Powered by Emotion, Behaviour & AI. One Hub for Every Insight. Powered by Emotion, Beh",
-          "fetched_at": "2026-04-17T06:57:07+00:00",
+          "fetched_at": "2026-04-18T06:12:09+00:00",
           "status_code": 200
         },
         "https://www.entropik.io/platforms/product-tour": {
@@ -382,7 +382,7 @@
           "signal_hash": "0e5230ec8d6ea59fb57aa7e474ec8d8c1131fe1a1b2ba67c5f66d3c88f6a86e0",
           "text_hash": "bc99eafb807e8322cf2a1b475ed58b45331772b826d5230850345bd8f056281c",
           "text_sample": "Entropik | Decode Unified Insights Platform Platform Solutions Technology Resources Product Tour Sign Up Today Product Tour See the Platform in Action See the Platform in Action See the Platform in Action Explore interactive demos for every product. Test features, compare workflows, and experience h",
-          "fetched_at": "2026-04-17T06:57:07+00:00",
+          "fetched_at": "2026-04-18T06:12:09+00:00",
           "status_code": 200
         },
         "https://www.entropik.io/platforms/user-research": {
@@ -394,7 +394,7 @@
           "signal_hash": "f927fb409e4529259e370ff48ba5dd5034b2ade5ec445ca8199c0d594c7b6dc6",
           "text_hash": "a773f401ff0a793b9f203291e88017c5c925d90b01f2541b523bdbeb14394536",
           "text_sample": "Entropik | Decode Unified Insights Platform Platform Solutions Technology Resources Product Tour Sign Up Today User Research See Through Your User's Eyes. Know What They Feel . See Through Your User's Eyes. Know What They Feel . See Through Your User's Eyes. Know What They Feel . Skip the guesswork.",
-          "fetched_at": "2026-04-17T06:57:07+00:00",
+          "fetched_at": "2026-04-18T06:12:10+00:00",
           "status_code": 200
         },
         "https://www.entropik.io/solutions/use-cases/a-b-testing": {
@@ -406,7 +406,7 @@
           "signal_hash": "dbdc8517517a16b86704034a94e9be5eb685f65bdb32009beb1ba1a228fd7616",
           "text_hash": "fe61aaabc6b92e7a0e2c570f49e2d4141c1676acc824b47c04da90174a07cf35",
           "text_sample": "Entropik | Decode Unified Insights Platform Platform Solutions Technology Resources Product Tour Sign Up Today A/B Testing Test Variations with AI-Enhanced Insights Test Variations with AI-Enhanced Insights Test Variations with AI-Enhanced Insights Compare different versions and variations with emot",
-          "fetched_at": "2026-04-17T06:57:07+00:00",
+          "fetched_at": "2026-04-18T06:12:10+00:00",
           "status_code": 200
         }
       },
@@ -457,7 +457,7 @@
     "Evidenza": {
       "name": "Evidenza",
       "homepage": "https://www.evidenza.ai/",
-      "checked_at": "2026-04-17T06:57:08+00:00",
+      "checked_at": "2026-04-18T06:12:11+00:00",
       "seed_urls": [
         "https://www.evidenza.ai/"
       ],
@@ -472,7 +472,7 @@
           "signal_hash": "8fe3a16538a4a11041e9a5c3b9762c06f11dd2ba45017a554dc38d44658a678a",
           "text_hash": "873eb0478c10e88e208b2340a70f5f676bd4b59979064c4e871a7f1379302f2a",
           "text_sample": "Synthetic AI Market Research Platform \u2022 Evidenza Home Product Research About FAQs Contact Book a demo Home Product Research About FAQs Contact AI Market Research for Impossible Audiences Survey AI copies of your customers to get instant answers from any audience. Even the hardest-to-reach B2B buyers",
-          "fetched_at": "2026-04-17T06:57:08+00:00",
+          "fetched_at": "2026-04-18T06:12:10+00:00",
           "status_code": 200
         },
         "https://www.evidenza.ai/research": {
@@ -484,7 +484,7 @@
           "signal_hash": "804fbad2e367054bd548726e3f63d4194bb979217e552c63d4b558ecf7b024e3",
           "text_hash": "8e28b28bf707cc3ad9bd17c255970a4b7183dcdc14c45d980a9c625921184819",
           "text_sample": "AI Market Research Insights & Studies \u2022 Evidenza Home Product Research About FAQs Contact Book a demo Home Product Research About FAQs Contact Research Articles We've spent ten years partnering with leading experts to discover new and more profitable approaches to marketing and sales. Evidenza Lab-G",
-          "fetched_at": "2026-04-17T06:57:08+00:00",
+          "fetched_at": "2026-04-18T06:12:10+00:00",
           "status_code": 200
         },
         "https://www.evidenza.ai/research/can-ai-replace-humans-for-market-research-this-firm-is-doing-it": {
@@ -496,7 +496,7 @@
           "signal_hash": "93fe01286c8f4cc5a5a441172218fe8ad7f8aaebdd340174037d1f57d536cd2b",
           "text_hash": "a2c15d105e31bd71bfbdcff019db7079a180560d4e172e27ba0bcefa69859abb",
           "text_sample": "Can AI Replace Humans for Market Research? This Firm Is Doing It Home Product Research About FAQs Contact Book a demo Home Product Research About FAQs Contact Back to Research Articles Can AI Replace Humans for Market Research? This Firm Is Doing It By Evidenza June 10, 2024 We\u2019re excited to share t",
-          "fetched_at": "2026-04-17T06:57:08+00:00",
+          "fetched_at": "2026-04-18T06:12:10+00:00",
           "status_code": 200
         },
         "https://www.evidenza.ai/research/impersonalization-at-scale": {
@@ -508,7 +508,7 @@
           "signal_hash": "d87b248261f3ab5cb1a14aead1bdb2681679d5fe04f74c0eb86358cfac0ce9f8",
           "text_hash": "2f67dfae71f0022bf7855bf070f28d47d095718e72b4e009c87f6c9b3f0d22fc",
           "text_sample": "Impersonalization at Scale Home Product Research About FAQs Contact Book a demo Home Product Research About FAQs Contact Back to Research Articles Impersonalization at Scale By Peter Weinberg May 6, 2022 Marketers love the idea of certainty. We cling to funnels, journeys, and precision targeting bec",
-          "fetched_at": "2026-04-17T06:57:08+00:00",
+          "fetched_at": "2026-04-18T06:12:10+00:00",
           "status_code": 200
         },
         "https://www.evidenza.ai/research/lab-grown-marketing-the-ai-powered-playbook-for-research-strategy-tactics": {
@@ -520,7 +520,7 @@
           "signal_hash": "b697db4317488d54bef08258bacddda357a0604421b9e93349b40fee0ea317b7",
           "text_hash": "126a151588662b22f69c8c3b4da5298242e4762ec14fda7be8fbc39181ba959c",
           "text_sample": "Lab-Grown Marketing: The AI-Powered Playbook for Research, Strategy & Tactics Home Product Research About FAQs Contact Book a demo Home Product Research About FAQs Contact Back to Research Articles Lab-Grown Marketing: The AI-Powered Playbook for Research, Strategy & Tactics Evidenza October 13, 202",
-          "fetched_at": "2026-04-17T06:57:08+00:00",
+          "fetched_at": "2026-04-18T06:12:11+00:00",
           "status_code": 200
         },
         "https://www.evidenza.ai/research/originality-delusion": {
@@ -530,9 +530,9 @@
           "description": "Marketers have an obsession. A deep, dark, self-destructive obsession. What is the object of this obsession, you ask? In a word: newness. Marketers are absolutely obsessed with new things. New platforms. New products. And, above all else, new ideas. If I had a nickel for every time a client asked me for a never-been-done-before \u201cbig idea,\u201d I could buy a one-bedroom apartment in Manhattan.",
           "headline": "The Originality Delusion",
           "signal_hash": "b839c9542b76da12029c12131142a8c630debcc42e2a1f807fd256eac7048a1e",
-          "text_hash": "dd7eba64613a5eba40db659baf07f5df59b9f8fe1621505a823db6b970b4e74a",
+          "text_hash": "3d5d964bfafd1730d3e6ea5f1713581a94d7771e734ece369146bfc569bf4377",
           "text_sample": "The Originality Delusion Home Product Research About FAQs Contact Book a demo Home Product Research About FAQs Contact Back to Research Articles The Originality Delusion By Peter Weinberg January 4, 2019 Marketers have a problem. They\u2019re obsessed with newness. New platforms. New products. And above ",
-          "fetched_at": "2026-04-17T06:57:08+00:00",
+          "fetched_at": "2026-04-18T06:12:11+00:00",
           "status_code": 200
         },
         "https://www.evidenza.ai/research/performance-branding": {
@@ -544,7 +544,7 @@
           "signal_hash": "8ae1d851ac709e6a047d248faedba7cb3edef808f32a97a6cf08c26f4a354ec6",
           "text_hash": "bdf98260a98191d305314a15421c747dfb68647e6e7fefa2ffc5854cd0d564e9",
           "text_sample": "Performance Branding Home Product Research About FAQs Contact Book a demo Home Product Research About FAQs Contact Back to Research Articles Performance Branding By Evidenza For the last decade, lead generation has ruled B2B marketing. It\u2019s been sold to us as a precise science where every click, eve",
-          "fetched_at": "2026-04-17T06:57:08+00:00",
+          "fetched_at": "2026-04-18T06:12:11+00:00",
           "status_code": 200
         },
         "https://www.evidenza.ai/research/the-click-through-conspiracy": {
@@ -556,7 +556,7 @@
           "signal_hash": "856f256a668bb71ac88042aee41c9d572e4b8e21dfb4dca90b1fbec65b454fde",
           "text_hash": "0530c75c71f6a6ada63fd44a788950a70b9f853c50bb2a87c6b356782c09abce",
           "text_sample": "The Click-Through Conspiracy Home Product Research About FAQs Contact Book a demo Home Product Research About FAQs Contact Back to Research Articles The Click-Through Conspiracy Peter Weinberg August 29, 2019 The most dangerous metric in marketing isn\u2019t cost per lead, or engagement rate, or even imp",
-          "fetched_at": "2026-04-17T06:57:08+00:00",
+          "fetched_at": "2026-04-18T06:12:11+00:00",
           "status_code": 200
         }
       },
@@ -607,7 +607,7 @@
     "Fairgen": {
       "name": "Fairgen",
       "homepage": "https://www.fairgen.ai/",
-      "checked_at": "2026-04-17T06:57:10+00:00",
+      "checked_at": "2026-04-18T06:12:12+00:00",
       "seed_urls": [
         "https://www.fairgen.ai/",
         "https://www.fairgen.ai/blog"
@@ -623,7 +623,7 @@
           "signal_hash": "a390bba463fafc25d0b661da2c1c0281dc477d0405c30232182dff0c85d5cc42",
           "text_hash": "2924639b06314e1581fac75991c922741bdc5c04958d34daaba43e17ad041882",
           "text_sample": "AI & Synthetic Data Research Suite for Reliable Insights | Fairgen Play video Platform Boost Generate niche data for deeper insights Check New! Spot and remove low-quality respondents Impute Coming soon Fill in missing answers to complete your data Twins New! Test ideas faster with premium simulated",
-          "fetched_at": "2026-04-17T06:57:09+00:00",
+          "fetched_at": "2026-04-18T06:12:11+00:00",
           "status_code": 200
         },
         "https://www.fairgen.ai/blog": {
@@ -635,7 +635,7 @@
           "signal_hash": "b0d719d77448db3c7c71fe26a738a84df1cacd3683341c8dd1a340540a247016",
           "text_hash": "3d6a495783072428c2d9a9375647d123d196969b035ac450e9e5e1353980047f",
           "text_sample": "Blog | Fairgen Platform Boost Generate niche data for deeper insights Check New! Spot and remove low-quality respondents Impute Coming soon Fill in missing answers to complete your data Twins New! Test ideas faster with premium simulated audiences Solutions By team Brand Power niche go-to-market str",
-          "fetched_at": "2026-04-17T06:57:09+00:00",
+          "fetched_at": "2026-04-18T06:12:11+00:00",
           "status_code": 200
         },
         "https://www.fairgen.ai/platform/boost": {
@@ -647,7 +647,7 @@
           "signal_hash": "df6026e2d07d5679228e5e71112020e7b0721da47e6454c2eb95a62a42f5a411",
           "text_hash": "a190eb1f4c90c2ec7f484c60f0ff319459dc03633cb9fd8299613af9b8d39cfc",
           "text_sample": "AI Synthetic Respondents for Hard-to-Reach Audiences | Fairgen Boost Platform Boost Generate niche data for deeper insights Check New! Spot and remove low-quality respondents Impute Coming soon Fill in missing answers to complete your data Twins New! Test ideas faster with premium simulated audience",
-          "fetched_at": "2026-04-17T06:57:09+00:00",
+          "fetched_at": "2026-04-18T06:12:11+00:00",
           "status_code": 200
         },
         "https://www.fairgen.ai/platform/check": {
@@ -659,7 +659,7 @@
           "signal_hash": "bf02fd909fd693c7ad06d4a8207c6ed9aa29844285a320ff096803e562d5c137",
           "text_hash": "72c634da1b52e873c52381d4206f3b0230f67ef1b24d8c33bd4387e6bf563c47",
           "text_sample": "AI Survey Fraud Detection & Data Quality Check | Fairgen Check Platform Boost Generate niche data for deeper insights Check New! Spot and remove low-quality respondents Impute Coming soon Fill in missing answers to complete your data Twins New! Test ideas faster with premium simulated audiences Solu",
-          "fetched_at": "2026-04-17T06:57:09+00:00",
+          "fetched_at": "2026-04-18T06:12:11+00:00",
           "status_code": 200
         },
         "https://www.fairgen.ai/solutions/brand": {
@@ -671,7 +671,7 @@
           "signal_hash": "895eca296103215d3ecede1050e5a535ae4f0ff0fe1071d71e1231bbf94ace53",
           "text_hash": "0bee17fd09ae0becbabb7af48c6102ba97835ee4385e0e6c2ffd99df0b39187e",
           "text_sample": "Deliver granular insights at scale with AI-augmented insights - Fairgen Platform Boost Generate niche data for deeper insights Check New! Spot and remove low-quality respondents Impute Coming soon Fill in missing answers to complete your data Twins New! Test ideas faster with premium simulated audie",
-          "fetched_at": "2026-04-17T06:57:10+00:00",
+          "fetched_at": "2026-04-18T06:12:11+00:00",
           "status_code": 200
         },
         "https://www.fairgen.ai/solutions/opinion": {
@@ -683,7 +683,7 @@
           "signal_hash": "688333808995024a38942f4d33a05128a8710e33d46d5fc06830863c05c4c3be",
           "text_hash": "940dca99aa7caebcd399a93b486a22d250fbd7bfcae4040ed60eba5581c0545b",
           "text_sample": "Get a clear read on groups that matter, no matter how niche Platform Boost Generate niche data for deeper insights Check New! Spot and remove low-quality respondents Impute Coming soon Fill in missing answers to complete your data Twins New! Test ideas faster with premium simulated audiences Solutio",
-          "fetched_at": "2026-04-17T06:57:10+00:00",
+          "fetched_at": "2026-04-18T06:12:11+00:00",
           "status_code": 200
         },
         "https://www.fairgen.ai/solutions/post-test": {
@@ -695,7 +695,7 @@
           "signal_hash": "be2e452dca102f0ce275cd6bb53a93dd5591dbdcb3dc776ea150677a610215e1",
           "text_hash": "e4350742ed7f3f214c0589149d27228dc0af11082eb2252b9f050e54637bd3e3",
           "text_sample": "Post-Tests & Ad Testing - Fast, accurate, and now segmented feedback Platform Boost Generate niche data for deeper insights Check New! Spot and remove low-quality respondents Impute Coming soon Fill in missing answers to complete your data Twins New! Test ideas faster with premium simulated audience",
-          "fetched_at": "2026-04-17T06:57:10+00:00",
+          "fetched_at": "2026-04-18T06:12:12+00:00",
           "status_code": 200
         },
         "https://www.fairgen.ai/solutions/research-provider": {
@@ -707,7 +707,7 @@
           "signal_hash": "0b9197db66afa8fd29bf0a67dca1f5a6bdc601f66d23e8afcdb75cdcb9170ffc",
           "text_hash": "0992baa8ad631020a2d6f904ad916c3f54ba23355c60c6879506835485bf95e1",
           "text_sample": "Scale your impact with augmented insights powered by AI Platform Boost Generate niche data for deeper insights Check New! Spot and remove low-quality respondents Impute Coming soon Fill in missing answers to complete your data Twins New! Test ideas faster with premium simulated audiences Solutions B",
-          "fetched_at": "2026-04-17T06:57:10+00:00",
+          "fetched_at": "2026-04-18T06:12:12+00:00",
           "status_code": 200
         }
       },
@@ -758,7 +758,7 @@
     "GetWhy": {
       "name": "GetWhy",
       "homepage": "https://www.getwhy.io/",
-      "checked_at": "2026-04-17T06:57:11+00:00",
+      "checked_at": "2026-04-18T06:12:13+00:00",
       "seed_urls": [
         "https://www.getwhy.io/"
       ],
@@ -769,11 +769,11 @@
           "page_type": "general",
           "title": "GetWhy | AI Qualitative Research for Insights Teams",
           "description": "GetWhy is a strategic qualitative research partner that helps enterprise insight teams influence high-stakes decisions at the speed of the business.",
-          "headline": "AI for Human Insights",
-          "signal_hash": "c899f52a5030a75f05e0cd6573545e1aa8f0ff8ac029a0b6facd25efba99ade7",
-          "text_hash": "238a76b01d25766b0ff89080a693f06291a9d48c12657fb90d7e47fc82332fe9",
-          "text_sample": "GetWhy | AI Qualitative Research for Insights Teams Platform Solutions Customers Resources Company Log in Book a demo AI for Human Insights GetWhy enables enterprises to run AI moderated consumer interviews globally, guided and validated by experts, turning real conversations into trusted, decision ",
-          "fetched_at": "2026-04-17T06:57:10+00:00",
+          "headline": "Insight is only half the story",
+          "signal_hash": "d558a1c559cdc6b4b9a56a1d944be82d1c268bf99041b88c55825e5664c4ea84",
+          "text_hash": "aedd13a265bc50f6e3de9a358efdf29db838e7a4f5f6d60c64a960380edb8e47",
+          "text_sample": "GetWhy | AI Qualitative Research for Insights Teams Platform Solutions Customers Resources Company Log in Book a demo Insight is only half the story GetWhy's AI Moderator runs the interviews, Research Agent mines your library, and AI Storyteller transforms findings into stories your whole organizati",
+          "fetched_at": "2026-04-18T06:12:12+00:00",
           "status_code": 200
         },
         "https://www.getwhy.io/platform": {
@@ -785,7 +785,7 @@
           "signal_hash": "fdedf16b35dac3a4aa3db81283ce4127a8b372d7f47491203a57154979ba5f6e",
           "text_hash": "fdc3bea8a574993b96332eec84e2c6aee1062fd1d734766b88ae3be004f0242e",
           "text_sample": "GetWhy | AI Qualitative Research for Insights Teams Platform Solutions Customers Resources Company Log in Book a demo Platform OVERVIEW The leading AI platform for human insight GetWhy is an end to end AI platform for qualitative research, from study design and recruitment to AI moderated interviews",
-          "fetched_at": "2026-04-17T06:57:10+00:00",
+          "fetched_at": "2026-04-18T06:12:13+00:00",
           "status_code": 200
         },
         "https://www.getwhy.io/product-and-innovation-function": {
@@ -797,7 +797,7 @@
           "signal_hash": "479dbb63cdfdeeafe0eb0053d9c328af35cd26e9853ac125f91e62f40e3bc4ba",
           "text_hash": "ca67e8461360c692137c72a47c129dc6cdfc79eb450874d3ce54f92471bf3c1c",
           "text_sample": "GetWhy | AI Qualitative Research for Insights Teams Platform Solutions Customers Resources Company Log in Book a demo Solutions product and innovation Innovate products based on core customer needs GetWhy helps product and innovation teams decide what is worth progressing before committing to resour",
-          "fetched_at": "2026-04-17T06:57:10+00:00",
+          "fetched_at": "2026-04-18T06:12:13+00:00",
           "status_code": 200
         },
         "https://www.getwhy.io/product-concept-testing": {
@@ -809,7 +809,7 @@
           "signal_hash": "11984a081e042ecb2022f3a7af11008c6cd422eddef2b30bae652ad8a932d5f7",
           "text_hash": "39bcd107e59c3f4e8f0a8195b8410a8395649dea35814c7199805c51d5efc83a",
           "text_sample": "GetWhy | Product Concept Testing for Insights Platform Solutions Customers Resources Company Log in Book a demo Use case product concept testing Test whether product ideas solve a real consumer problem GetWhy helps insight teams run qualitative product concept testing to understand whether ideas spe",
-          "fetched_at": "2026-04-17T06:57:11+00:00",
+          "fetched_at": "2026-04-18T06:12:13+00:00",
           "status_code": 200
         },
         "https://www.getwhy.io/insights-function": {
@@ -821,7 +821,7 @@
           "signal_hash": "f85c69cf101b721869dd64f3b33dc13bb25fb7a0b589343eb88740c02a5f8685",
           "text_hash": "841ba2ffb80bfb03a6f7a79ab7381bb30b0ae9319b4ddfa1dba8a66fa2a4a32a",
           "text_sample": "GetWhy | AI Qualitative Research for Insights Teams Platform Solutions Customers Resources Company Log in Book a demo Solutions Insights function AI qualitative research with academic rigor built for modern insights teams GetWhy helps insights teams bring human understanding into decisions while tho",
-          "fetched_at": "2026-04-17T06:57:11+00:00",
+          "fetched_at": "2026-04-18T06:12:13+00:00",
           "status_code": 200
         }
       },
@@ -857,7 +857,7 @@
     "Lakmoos": {
       "name": "Lakmoos",
       "homepage": "https://lakmoos.agency/",
-      "checked_at": "2026-04-17T06:57:12+00:00",
+      "checked_at": "2026-04-18T06:12:14+00:00",
       "seed_urls": [
         "https://lakmoos.agency/"
       ],
@@ -872,7 +872,7 @@
           "signal_hash": "0cefccfb52c2bfe5b73b2947a6a5efc8066fe95f5f996958c867af90bb56bc83",
           "text_hash": "6b6e37c3c7342929d97cef624a31ada1e29d86bb0f749596bc04cd7e00d0c62b",
           "text_sample": "Lakmoos AI for Reserach Agencies \u00c2\u00b7 Agency Case studies Contact us Sale's ready \u00c2\u00b7 Agency \u00c2\u00b7 Agency world\u00e2\u0080\u0099s first AI research agency AI-first market research agency Get accurate results at a fraction of the usual cost. We market research affordable with AI. Get in touch See you! Get in touch See y",
-          "fetched_at": "2026-04-17T06:57:12+00:00",
+          "fetched_at": "2026-04-18T06:12:14+00:00",
           "status_code": 200
         }
       },
@@ -888,7 +888,7 @@
     "Listen Labs": {
       "name": "Listen Labs",
       "homepage": "https://listenlabs.ai/",
-      "checked_at": "2026-04-17T06:57:13+00:00",
+      "checked_at": "2026-04-18T06:12:16+00:00",
       "seed_urls": [
         "https://listenlabs.ai/",
         "https://listenlabs.ai/founders-letter"
@@ -904,7 +904,7 @@
           "signal_hash": "f0fc5573f5045580b491ea0901030cf1df1e8eef750e1eb4f4e5a48da87b42e3",
           "text_hash": "eed2d659a1f1c652bbb87839e294887d6bfae85a56574868a7bd15819a8bcd8c",
           "text_sample": "Listen Labs | AI-led User Interviews Solutions Features Customers Resources Careers Sign in Demo Announcing our Series B with $100M raised to date \u00e2\u0080\u00a2 Read more Announcing our Series B with $100M raised to date \u00e2\u0080\u00a2 Read more Understand what your users want, and why. Fast. Understand what your users ",
-          "fetched_at": "2026-04-17T06:57:12+00:00",
+          "fetched_at": "2026-04-18T06:12:15+00:00",
           "status_code": 200
         },
         "https://listenlabs.ai/founders-letter": {
@@ -916,7 +916,7 @@
           "signal_hash": "0855d696e8bd1b32b2ad0ccede6c9d4b58110d61761c324fee5c94882fb67f31",
           "text_hash": "8429ab164d086b75e53dc62d93ecab6924a64a0d4db29decbca4956a6b5b0765",
           "text_sample": "Listen Labs Announcing Listen's Series B Announcing Listen's Series B Breakthrough ideas can come from anywhere. But only if you\u00e2\u0080\u0099re listening. \u00e2\u0080\u008bTide Pods. Claude Code. SKIMS shapewear. Sweetgreen\u00e2\u0080\u0099s new Protein Bowl. All the result of listening closely to what consumers are saying. But listenin",
-          "fetched_at": "2026-04-17T06:57:12+00:00",
+          "fetched_at": "2026-04-18T06:12:15+00:00",
           "status_code": 200
         },
         "https://listenlabs.ai/case-studies": {
@@ -928,7 +928,7 @@
           "signal_hash": "24464329175bf726ea2384825d906771ddb761bd54e36cfab26d8c656331811d",
           "text_hash": "06b92769a4a3e214488f1ee0e954f20aeb48ab7364b6d1059f71f2f521ce4398",
           "text_sample": "Customer Stories | Listen Labs Solutions Features Customers Resources Careers Sign in Demo Case Studies Discover how the world's leading enterprises use Listen to understand their customers. Listen Labs & KJT Group Listen Labs & Sweetgreen 5x The speed and scale Listen Labs & McKinney Listen Labs & ",
-          "fetched_at": "2026-04-17T06:57:12+00:00",
+          "fetched_at": "2026-04-18T06:12:16+00:00",
           "status_code": 200
         },
         "https://listenlabs.ai/case-studies/chubbies": {
@@ -940,7 +940,7 @@
           "signal_hash": "ef170468bbddb9b40060dc2a1ca8bc0b6cae118ccc1485f7ece3554ea74d4e74",
           "text_hash": "48ab0b5b924a7fe6fd8a0232a3439a8642ba295b17c444317eceb180cf92417a",
           "text_sample": "Chubbies & Listen Labs | Customer Stories LISTEN CASE STUDY How Chubbies uses Listen Labs to gather deeper customer insights and drive product innovation. Drive product innovation Impact TLDR: 24x increase in youth research participation: Overcame scheduling barriers and grew from 5 to 120 participa",
-          "fetched_at": "2026-04-17T06:57:13+00:00",
+          "fetched_at": "2026-04-18T06:12:16+00:00",
           "status_code": 200
         },
         "https://listenlabs.ai/case-studies/microsoft": {
@@ -952,7 +952,7 @@
           "signal_hash": "cb66c573ece2cf9807c47f2d1d83d3fa3c26e497135527b7448d1a1befdfdaf4",
           "text_hash": "81a793f91618db488aa9c78f8fc1577797f5dc8daa698d4c7b0a6fd384e071b6",
           "text_sample": "Microsoft & Listen Labs | Customer Stories LISTEN CASE STUDY How Microsoft uses Listen Labs to better understand their customers Expand understanding Romani Patel is a Senior Research Manager at Microsoft, where she leads AI strategy for customer research and oversees Microsoft\u00e2\u0080\u0099s in-house Hyper-Ta",
-          "fetched_at": "2026-04-17T06:57:13+00:00",
+          "fetched_at": "2026-04-18T06:12:16+00:00",
           "status_code": 200
         },
         "https://listenlabs.ai/case-studies/simple-modern": {
@@ -964,7 +964,7 @@
           "signal_hash": "0a773e875fc4a95e97eaa5907a66ef1781c2598ca81f7926b4327f86a0aefc43",
           "text_hash": "938e87d999b4ee30912c3a37f65a90b98ed6d8ee6dfe15d1a3b006da392f96f7",
           "text_sample": "Simple Modern & Listen Labs | Customer Stories LISTEN CASE STUDY How Simple Modern uses Listen Labs to give back to customers Deeper than the numbers Impact TLDR: 4x bigger sample sizes with a broader reach Feedback in less than 3 hours Moved from basic market information to the \u00e2\u0080\u009cwhy\u00e2\u0080\u009d behind the",
-          "fetched_at": "2026-04-17T06:57:13+00:00",
+          "fetched_at": "2026-04-18T06:12:16+00:00",
           "status_code": 200
         },
         "https://listenlabs.ai/case-studies/sweetgreen": {
@@ -976,7 +976,7 @@
           "signal_hash": "69b34acb71039b60f6a5a8220d53d6a7f6e3565f38e3b018c0c03a3f7b58220f",
           "text_hash": "40c6543b005bd4fa7816f5a4ec6d1d9cafcca9f3caa7ff2b4de601ccb6a8b1a3",
           "text_sample": "Sweetgreen & Listen Labs | Customer Stories LISTEN CASE STUDY How Sweetgreen uses Listen Labs to listen to every customer Listen Labs & Sweetgreen Impact TLDR: Replaced months-long research cycles with days Scaled research across 300+ US locations to hear from customers in every market Launched wrap",
-          "fetched_at": "2026-04-17T06:57:13+00:00",
+          "fetched_at": "2026-04-18T06:12:16+00:00",
           "status_code": 200
         },
         "https://listenlabs.ai/role/consumer-insights": {
@@ -988,7 +988,7 @@
           "signal_hash": "1e07ffcc61e2e7385891390b3dbb35ea6a8a7045c2ad27fdc40dfc451d9e7521",
           "text_hash": "1ec5dce0f7209a0e56eba90721943271486999eafa6effe1872d27ee44d3f3dd",
           "text_sample": "Listen Labs | AI-led User Interviews CONSUMER INSIGHTS Get actionable insights at scale in hours, not weeks Conduct audio and video interviews with AI moderation. Surface trends, themes, and quotes from raw feedback to iterate fast and inform decisions. Book a Demo AI consumer insights research with",
-          "fetched_at": "2026-04-17T06:57:13+00:00",
+          "fetched_at": "2026-04-18T06:12:16+00:00",
           "status_code": 200
         }
       },
@@ -1039,7 +1039,7 @@
     "Outset": {
       "name": "Outset",
       "homepage": "https://www.outset.ai/",
-      "checked_at": "2026-04-17T06:57:16+00:00",
+      "checked_at": "2026-04-18T06:12:20+00:00",
       "seed_urls": [
         "https://www.outset.ai/",
         "https://www.outset.ai/blog"
@@ -1055,7 +1055,7 @@
           "signal_hash": "3e0d38e4f8a40c2cc8e308ac2ead91cefb7d50ea92beb249d70ddc366617d339",
           "text_hash": "efa0a88ffe270252968ca8edf01e3accecaf4e005588ce3ae9d01020fb90359a",
           "text_sample": "The AI-Moderated Research Platform | Outset Outset just launched the first ever Visual Intelligence suite for AI-moderated research. Read more Platform Use Cases Roles Industries Customers Resources Pricing Book a demo Log in Outset's AI-moderator now has eyes! See more Book a demo Platform Use Case",
-          "fetched_at": "2026-04-17T06:57:14+00:00",
+          "fetched_at": "2026-04-18T06:12:17+00:00",
           "status_code": 200
         },
         "https://www.outset.ai/blog": {
@@ -1067,7 +1067,7 @@
           "signal_hash": "00149f87b1b9bbc8241c210ddac37944473d74e0bbc80c1b8cbbb8da6254a337",
           "text_hash": "8adc9c60e567124904c4a4043b4402100ce8e67f42dd5d3c72b1c5633af5f957",
           "text_sample": "The Insight Scoop | Outset Outset just launched the first ever Visual Intelligence suite for AI-moderated research. Read more Platform Use Cases Roles Industries Customers Resources Pricing Book a demo Log in Outset's AI-moderator now has eyes! See more Book a demo Platform Use Cases Roles Industrie",
-          "fetched_at": "2026-04-17T06:57:14+00:00",
+          "fetched_at": "2026-04-18T06:12:18+00:00",
           "status_code": 200
         },
         "https://www.outset.ai/platform": {
@@ -1079,7 +1079,7 @@
           "signal_hash": "33fdf91d558f927ac5083925b8ac67511b16cb73d460b3796321e2e1b0310cc3",
           "text_hash": "c83f296f4f9d280fbe0ead2c7aad527a2af390c79ad6e6cc4dfc8e4c8aebf9a9",
           "text_sample": "Platform | Outset Outset just launched the first ever Visual Intelligence suite for AI-moderated research. Read more Platform Use Cases Roles Industries Customers Resources Pricing Book a demo Log in Outset's AI-moderator now has eyes! See more Book a demo Platform Use Cases Roles Industries Custome",
-          "fetched_at": "2026-04-17T06:57:14+00:00",
+          "fetched_at": "2026-04-18T06:12:18+00:00",
           "status_code": 200
         },
         "https://www.outset.ai/platform/interviews": {
@@ -1091,7 +1091,7 @@
           "signal_hash": "614061ff96efd039fcc28d9abc30c4df36cb07b501346a66ee37943a8befafcb",
           "text_hash": "7cdc00ad959c030fb751c7c47d17c0c747d86ed2e2688fe15a59f85e8cb1cd50",
           "text_sample": "AI-Moderated Interviews for Qualitative Research at Scale | Outset Outset just launched the first ever Visual Intelligence suite for AI-moderated research. Read more Platform Use Cases Roles Industries Customers Resources Pricing Book a demo Log in Outset's AI-moderator now has eyes! See more Book a",
-          "fetched_at": "2026-04-17T06:57:15+00:00",
+          "fetched_at": "2026-04-18T06:12:18+00:00",
           "status_code": 200
         },
         "https://www.outset.ai/platform/security": {
@@ -1103,7 +1103,7 @@
           "signal_hash": "e949f212e63fe621ce342a88d437bf5d8def4eff813c395b8678ba2576a2fab7",
           "text_hash": "1c16869096554ba92369b4aa847112758bef030667958c2cd81408d04dc497c4",
           "text_sample": "Trust & Safety | Outset Outset just launched the first ever Visual Intelligence suite for AI-moderated research. Read more Platform Use Cases Roles Industries Customers Resources Pricing Book a demo Log in Outset's AI-moderator now has eyes! See more Book a demo Platform Use Cases Roles Industries C",
-          "fetched_at": "2026-04-17T06:57:15+00:00",
+          "fetched_at": "2026-04-18T06:12:19+00:00",
           "status_code": 200
         },
         "https://www.outset.ai/platform/synthesis": {
@@ -1115,7 +1115,7 @@
           "signal_hash": "0cd3a5a783c16640cd85f832f5073e48a0f8044e224b675b5f903c29bea85090",
           "text_hash": "f39490d977e2609e3c09e28bd6664db812097a7f3cde008db2d751e52733dea8",
           "text_sample": "AI-Powered User Interview Synthesis | Outset Outset just launched the first ever Visual Intelligence suite for AI-moderated research. Read more Platform Use Cases Roles Industries Customers Resources Pricing Book a demo Log in Outset's AI-moderator now has eyes! See more Book a demo Platform Use Cas",
-          "fetched_at": "2026-04-17T06:57:15+00:00",
+          "fetched_at": "2026-04-18T06:12:19+00:00",
           "status_code": 200
         },
         "https://www.outset.ai/pricing": {
@@ -1127,7 +1127,7 @@
           "signal_hash": "f47acb56d9a9e359eff90c6635aac57b3c22178066f214eaeceb28f07c17bd46",
           "text_hash": "f1c22ff556bdf99bea827cb97340dca6deed10129c7b29743033287025c2a997",
           "text_sample": "Pricing | Outset Outset just launched the first ever Visual Intelligence suite for AI-moderated research. Read more Platform Use Cases Roles Industries Customers Resources Pricing Book a demo Log in Outset's AI-moderator now has eyes! See more Book a demo Platform Use Cases Roles Industries Customer",
-          "fetched_at": "2026-04-17T06:57:15+00:00",
+          "fetched_at": "2026-04-18T06:12:19+00:00",
           "status_code": 200
         },
         "https://www.outset.ai/resources/stories/away-ai-driven-softside-product-launch": {
@@ -1139,7 +1139,7 @@
           "signal_hash": "23dad3a84cc78ec44d475352b97e9ccb4885175580771cef7a05671bc3cdeb07",
           "text_hash": "048f9dadbfdf226ca6c68358d3d060659e7f84cfe939f2bdcc4804907d944edd",
           "text_sample": "Away Uses AI to Drive Softside Luggage Launch | Outset Outset just launched the first ever Visual Intelligence suite for AI-moderated research. Read more Platform Use Cases Roles Industries Customers Resources Pricing Book a demo Log in Outset's AI-moderator now has eyes! See more Book a demo Platfo",
-          "fetched_at": "2026-04-17T06:57:16+00:00",
+          "fetched_at": "2026-04-18T06:12:20+00:00",
           "status_code": 200
         }
       },
@@ -1190,7 +1190,7 @@
     "Qualtrics": {
       "name": "Qualtrics",
       "homepage": "https://www.qualtrics.com/",
-      "checked_at": "2026-04-17T06:57:17+00:00",
+      "checked_at": "2026-04-18T06:12:23+00:00",
       "seed_urls": [
         "https://www.qualtrics.com/",
         "https://www.qualtrics.com/blog"
@@ -1206,7 +1206,7 @@
           "signal_hash": "59152462b116a9bb10292505fa0966fdb535148733e2db8628cd769b52740b68",
           "text_hash": "cf9dbe8e830dd7b46aaf383f1636404f964fb3bb1b8435d7cb12e5eb88d20a08",
           "text_sample": "Qualtrics XM: The Leading Experience Management Software - Qualtrics Skip to main content The leader in experience management Give every decision the context it deserves Qualtrics makes sense of every signal across your experiences, so you can act when it counts. Stay ahead of your market, earn loya",
-          "fetched_at": "2026-04-17T06:57:16+00:00",
+          "fetched_at": "2026-04-18T06:12:21+00:00",
           "status_code": 200
         },
         "https://www.qualtrics.com/blog": {
@@ -1218,7 +1218,7 @@
           "signal_hash": "06196adbf76e59615a1cf57c4ea5810569cb8d95f5d5dd3c62be5634823f89f8",
           "text_hash": "5729b62aaaae7298d74fcf75b833f7d831b71eca4526a8b0b979c9bb3300751a",
           "text_sample": "Articles & News - Qualtrics Skip to main content Featured Articles & News Article_ The 3 employee experience trends reframing work in 2026 Learn More Article_ 2026 global consumer experience trends revealed Learn More Article_ A major milestone in Qualtrics\u2019 vision to improve the human experience Le",
-          "fetched_at": "2026-04-17T06:57:16+00:00",
+          "fetched_at": "2026-04-18T06:12:21+00:00",
           "status_code": 200
         },
         "https://www.qualtrics.com/customers/servicenow": {
@@ -1230,7 +1230,7 @@
           "signal_hash": "45c0092e35599873d9b1d514155a431e26f1fb3ef0aa7016db65ec069ccdc4d8",
           "text_hash": "44563220f4544939abc027ddd3106a2671d66f4e619ad6464a6534a9943f9acd",
           "text_sample": "ServiceNow + Qualtrics Customer Success Story Skip to main content Customers ServiceNow ServiceNow + Qualtrics Getting feedback to the right team, every time ServiceNow is on a mission to raise the standard for customer experience in the enterprise software category. The first step? They needed to c",
-          "fetched_at": "2026-04-17T06:57:16+00:00",
+          "fetched_at": "2026-04-18T06:12:21+00:00",
           "status_code": 200
         },
         "https://www.qualtrics.com/industries/financial-services": {
@@ -1242,7 +1242,7 @@
           "signal_hash": "23dc66299282378d5555f90c8527d8b48335992376bfa276371745652acaf35e",
           "text_hash": "9aacbcea03d39754a4ce70e337733b032ca06d2cdbd776ea4bb8ee297110e9e6",
           "text_sample": "Financial Services Customer Experience Software\u200b Skip to main content FINANCIAL SERVICES EXPERIENCE MANAGEMENT Turn customer experience into your widest moat Qualtrics unifies every customer signal\u2014across digital, contact center, branch, and advisor channels\u2014giving banks, insurers, asset and wealth ",
-          "fetched_at": "2026-04-17T06:57:16+00:00",
+          "fetched_at": "2026-04-18T06:12:22+00:00",
           "status_code": 200
         },
         "https://www.qualtrics.com/market-research/product-research": {
@@ -1254,7 +1254,7 @@
           "signal_hash": "94ff8236fe3019bc66a261ac0c3d59a142b6b2a8ebc4449b2f34f95a7ce41fec",
           "text_hash": "7046df2a6088c39bf7ffe216841eeba6b0ad86dbd2bd055f60feda5f5bea8525",
           "text_sample": "Product Innovation Research Tools - Qualtrics Skip to main content PRODUCT & INNOVATION RESEARCH Discover what consumers want before you build it Validate concepts before production, optimize features with real market feedback, and nail pricing that drives both adoption and margins\u2014all before you la",
-          "fetched_at": "2026-04-17T06:57:17+00:00",
+          "fetched_at": "2026-04-18T06:12:22+00:00",
           "status_code": 200
         },
         "https://www.qualtrics.com/platform/security": {
@@ -1266,7 +1266,7 @@
           "signal_hash": "fc8bf59ed0faed1b7883308871a7ce25efc3ea4311ae93606f0fe3a4478bccf6",
           "text_hash": "562975d56df358fe6f37385e6815ad06348b7e0707c00029d7ce86074af06791",
           "text_sample": "Qualtrics Security and Privacy Accreditations - Qualtrics Skip to main content Qualtrics Security and Compliance Security proven at the world\u2019s highest standards When the U.S. government and the world\u2019s strictest regulators trust Qualtrics with their most sensitive AI initiatives, it sets the benchm",
-          "fetched_at": "2026-04-17T06:57:17+00:00",
+          "fetched_at": "2026-04-18T06:12:22+00:00",
           "status_code": 200
         },
         "https://www.qualtrics.com/articles/customer-experience/global-consumer-experience-trends": {
@@ -1278,7 +1278,7 @@
           "signal_hash": "f556550f5a679e91fcc846cc0a1d1b8ad5b59ffd7bf3db002539d2c196729f6d",
           "text_hash": "4a68887cf1666539c93141ee3ee7555182d40c67db4d5f3f4ed5380fc2b76bcb",
           "text_sample": "Global Consumer Experience Trends for 2026 Revealed - Qualtrics Skip to main content Articles & News Customer Experience 2026 Consumer Experience Trends 2026 global consumer experience trends revealed Oct 7, 2025 Qualtrics Understanding what drives customer loyalty in 2026 means balancing key contra",
-          "fetched_at": "2026-04-17T06:57:17+00:00",
+          "fetched_at": "2026-04-18T06:12:22+00:00",
           "status_code": 200
         },
         "https://www.qualtrics.com/articles/employee-experience/employee-experience-trends": {
@@ -1288,9 +1288,9 @@
           "description": "Discover the 3 employee experience trends shaping 2026 \u2014 from disruptive AI adoption and organizational change fatigue to the hidden costs of cost-cutting. Get expert insights and actionable advice.",
           "headline": "The 3 employee experience trends reframing work in 2026",
           "signal_hash": "d3b35d2726b57860643b475f9281030a7b6c27c81e763dcbc68ba147fb22f118",
-          "text_hash": "7fca4e721e62337c377b30b1cdbc393a2185ec67804d6c3399368594949f7c8d",
+          "text_hash": "c03a4dfb90595f3e18d1f04aed5ce4c6135a71626e2988bff481002631b8b2a1",
           "text_sample": "Employee Experience Trends Reframing Work in 2026 - Qualtrics Skip to main content Articles & News Employee Experience Employee Experience Trends The 3 employee experience trends reframing work in 2026 Feb 5, 2026 Qualtrics We asked employees in 24 countries, across 5 continents, and all major indus",
-          "fetched_at": "2026-04-17T06:57:17+00:00",
+          "fetched_at": "2026-04-18T06:12:23+00:00",
           "status_code": 200
         }
       },
@@ -1341,7 +1341,7 @@
     "Quantilope": {
       "name": "Quantilope",
       "homepage": "https://www.quantilope.com/",
-      "checked_at": "2026-04-17T06:57:18+00:00",
+      "checked_at": "2026-04-18T06:12:24+00:00",
       "seed_urls": [
         "https://www.quantilope.com/",
         "https://www.quantilope.com/resources"
@@ -1357,7 +1357,7 @@
           "signal_hash": "0b75e3a4245a3e6829708e29ff7066717fd2fd0494e8987a4e5d867a8e5bf44a",
           "text_hash": "1c4d692550e79abdde62ce5fe9e87260839fa8de496c53c1d0772599eb4c8132",
           "text_sample": "quantilope | The Consumer Intelligence Platform for Automated, AI-Powered Research Skip to content CEP Generator Platform CI Advanced CI Tracking Meet quinn Methods A/B Test A/B Pre-Roll Test Conjoint inColor NPS\u00ae Key Driver Analysis MaxDiff Mental Advantage Mental Availability Multi Implicit Penalt",
-          "fetched_at": "2026-04-17T06:57:17+00:00",
+          "fetched_at": "2026-04-18T06:12:23+00:00",
           "status_code": 200
         },
         "https://www.quantilope.com/resources": {
@@ -1369,7 +1369,7 @@
           "signal_hash": "cefb8184d5a2a458998f084c0d34def16740536557a5fa62adb1a4429ac7cff0",
           "text_hash": "4593368642119a9adc2574f73a970979cfd78a761b8fa20cfacfdf193f0c753c",
           "text_sample": "quantilope resources | EN Skip to content CEP Generator Platform CI Advanced CI Tracking Meet quinn Methods A/B Test A/B Pre-Roll Test Conjoint inColor NPS\u00ae Key Driver Analysis MaxDiff Mental Advantage Mental Availability Multi Implicit Penalty Reward Price Sensitivity Segmentation Single Implicit T",
-          "fetched_at": "2026-04-17T06:57:17+00:00",
+          "fetched_at": "2026-04-18T06:12:23+00:00",
           "status_code": 200
         },
         "https://www.quantilope.com/methods/a/b-testing": {
@@ -1381,7 +1381,7 @@
           "signal_hash": "95fa219aa42952a5bf7eff10e59058afabb4aab5cc52cfdc32d0977a8d858466",
           "text_hash": "d3cf35e740cc3a0cb025f6844b47b1677d89c81c014572523b3a0a8bb6f6b897",
           "text_sample": "A/B Test | quantilope Automated Method Skip to content CEP Generator Platform CI Advanced CI Tracking Meet quinn Methods A/B Test A/B Pre-Roll Test Conjoint inColor NPS\u00ae Key Driver Analysis MaxDiff Mental Advantage Mental Availability Multi Implicit Penalty Reward Price Sensitivity Segmentation Sing",
-          "fetched_at": "2026-04-17T06:57:18+00:00",
+          "fetched_at": "2026-04-18T06:12:24+00:00",
           "status_code": 200
         },
         "https://www.quantilope.com/methods/ab-pre-roll-test": {
@@ -1393,7 +1393,7 @@
           "signal_hash": "7f0358b9c02e3d3044fbd4656184756c4d7c07e5db3915abe6453bae21d59502",
           "text_hash": "36f99f4e96eb6f7f41772f88fe88e93ff9e75fb5f6c6aa585ed7a0e67559eb47",
           "text_sample": "A/B Pre-Roll Test | quantilope Automated Method Skip to content CEP Generator Platform CI Advanced CI Tracking Meet quinn Methods A/B Test A/B Pre-Roll Test Conjoint inColor NPS\u00ae Key Driver Analysis MaxDiff Mental Advantage Mental Availability Multi Implicit Penalty Reward Price Sensitivity Segmenta",
-          "fetched_at": "2026-04-17T06:57:18+00:00",
+          "fetched_at": "2026-04-18T06:12:24+00:00",
           "status_code": 200
         },
         "https://www.quantilope.com/methods/choice-based-conjoint-analysis": {
@@ -1405,7 +1405,7 @@
           "signal_hash": "fbdc0a79df1d971294ed990924582797358d2fb47a4d1b26291f412f427dc6c8",
           "text_hash": "1a27ae2bc2478219ff49dda0be8f94929d5cdf5815f564db2c0b27ac7f94d04e",
           "text_sample": "Choice-Based Conjoint Analysis | quantilope Automated Method Skip to content CEP Generator Platform CI Advanced CI Tracking Meet quinn Methods A/B Test A/B Pre-Roll Test Conjoint inColor NPS\u00ae Key Driver Analysis MaxDiff Mental Advantage Mental Availability Multi Implicit Penalty Reward Price Sensiti",
-          "fetched_at": "2026-04-17T06:57:18+00:00",
+          "fetched_at": "2026-04-18T06:12:24+00:00",
           "status_code": 200
         },
         "https://www.quantilope.com/methods/implicit-association-test-siat": {
@@ -1417,7 +1417,7 @@
           "signal_hash": "004edd4b37b03e2eac933dfe4ec11a88f086bab961fd86c192c6a8b3643a22f2",
           "text_hash": "275c95ab02387197ff3b27def485da055e611865ef5985f6f58d9caf360e5f40",
           "text_sample": "Single Implicit Association Test (SIAT) | quantilope Automated Method Skip to content CEP Generator Platform CI Advanced CI Tracking Meet quinn Methods A/B Test A/B Pre-Roll Test Conjoint inColor NPS\u00ae Key Driver Analysis MaxDiff Mental Advantage Mental Availability Multi Implicit Penalty Reward Pric",
-          "fetched_at": "2026-04-17T06:57:18+00:00",
+          "fetched_at": "2026-04-18T06:12:24+00:00",
           "status_code": 200
         },
         "https://www.quantilope.com/methods/implicit-multiple-association-test-mat": {
@@ -1429,7 +1429,7 @@
           "signal_hash": "b6e1290df0fd6093ca646c8702df1e622b34cdce2461985bc6e07d33f3473bff",
           "text_hash": "b72884a38812d1609d64ef6ae08de9758b16cd65e7a9594285fe4fe78eede5e0",
           "text_sample": "Multi Implicit Association Test (MIAT) | quantilope Automated Method Skip to content CEP Generator Platform CI Advanced CI Tracking Meet quinn Methods A/B Test A/B Pre-Roll Test Conjoint inColor NPS\u00ae Key Driver Analysis MaxDiff Mental Advantage Mental Availability Multi Implicit Penalty Reward Price",
-          "fetched_at": "2026-04-17T06:57:18+00:00",
+          "fetched_at": "2026-04-18T06:12:24+00:00",
           "status_code": 200
         },
         "https://www.quantilope.com/methods/incolor": {
@@ -1441,7 +1441,7 @@
           "signal_hash": "73c3edb5be616fa657dbc3c9ae6a65c11f82f610f6ec79b36a3866cd440c9baa",
           "text_hash": "779d9ca13c6bd0ea05950e45a79f8de79c0f4f1f7dec80c6adede963082825e6",
           "text_sample": "quantilope inColor | A Qualitative Online Video Research Solution Skip to content CEP Generator Platform CI Advanced CI Tracking Meet quinn Methods A/B Test A/B Pre-Roll Test Conjoint inColor NPS\u00ae Key Driver Analysis MaxDiff Mental Advantage Mental Availability Multi Implicit Penalty Reward Price Se",
-          "fetched_at": "2026-04-17T06:57:18+00:00",
+          "fetched_at": "2026-04-18T06:12:24+00:00",
           "status_code": 200
         }
       },
@@ -1492,7 +1492,7 @@
     "Remesh": {
       "name": "Remesh",
       "homepage": "https://www.remesh.ai/",
-      "checked_at": "2026-04-17T06:57:19+00:00",
+      "checked_at": "2026-04-18T06:12:25+00:00",
       "seed_urls": [
         "https://www.remesh.ai/",
         "https://www.remesh.ai/resources"
@@ -1508,7 +1508,7 @@
           "signal_hash": "4b4d72c2e20a79b4c7b41c273b04cfa40e421fc1c829358f09f3db24d0a00458",
           "text_hash": "4f7697553304fba0ba8be6aa79061da2c61fc6e3d5c5cf7d33604069e9acf010",
           "text_sample": "Remesh: Insights with Depth, Speed, and Quality Try our AI Agent Remy Free Now! Platform Platform Platform Overview Hybrid Insights at Scale Features Summary Live, Asynchronous, and Video Remy Agentic AI for Research Process Design Build Your Conversation Collect Engage Your Audience Analyze AI-Powe",
-          "fetched_at": "2026-04-17T06:57:18+00:00",
+          "fetched_at": "2026-04-18T06:12:24+00:00",
           "status_code": 200
         },
         "https://www.remesh.ai/resources": {
@@ -1520,7 +1520,7 @@
           "signal_hash": "049aa43454de79361978f6f288106729ede3f021509897b6db3a7532ae0f4a5f",
           "text_hash": "ac8a7b72d8d7c01d853d7c867be6d687ced28cc17031adfe858a3c03666f45a2",
           "text_sample": "Resources for the Modern Researcher | Remesh Try our AI Agent Remy free now! Platform Platform Overview Features Remy AI Design Collect Analyze Approach Approach Overview Research Design Collective Dialogue Company About Us Careers Our Customers Resources Blog Case Studies Support Request a Demo Log",
-          "fetched_at": "2026-04-17T06:57:19+00:00",
+          "fetched_at": "2026-04-18T06:12:25+00:00",
           "status_code": 200
         },
         "https://www.remesh.ai/platform": {
@@ -1532,7 +1532,7 @@
           "signal_hash": "e06bbd98e27d2581bca89928f09de6554565938e7c60eaac4d8f4521dad68ef4",
           "text_hash": "eaef39d5a03c893468ab666c5994e80b022afc12263e0e1875a396d2ccecbc16",
           "text_sample": "Remesh AI Insights Platform Overview Try our AI Agent Remy Free Now! Platform Platform Platform Overview Hybrid Insights at Scale Features Summary Live, Asynchronous, and Video Remy Agentic AI for Research Process Design Build Your Conversation Collect Engage Your Audience Analyze AI-Powered Analysi",
-          "fetched_at": "2026-04-17T06:57:19+00:00",
+          "fetched_at": "2026-04-18T06:12:25+00:00",
           "status_code": 200
         },
         "https://www.remesh.ai/platform/analyze": {
@@ -1544,7 +1544,7 @@
           "signal_hash": "4f389a85d5c787baad3f5ea3d2dc110a01709dec8ad4bcebf5207068c08e56fb",
           "text_hash": "7723f625c06fbd20682a01c5090d0afcb784a948ee54c8e1ded8660df0fd9342",
           "text_sample": "Remesh AI Analysis Tools Try our AI Agent Remy Free Now! Platform Platform Platform Overview Hybrid Insights at Scale Features Summary Live, Asynchronous, and Video Remy Agentic AI for Research Process Design Build Your Conversation Collect Engage Your Audience Analyze AI-Powered Analysis Why Remesh",
-          "fetched_at": "2026-04-17T06:57:19+00:00",
+          "fetched_at": "2026-04-18T06:12:25+00:00",
           "status_code": 200
         },
         "https://www.remesh.ai/platform/collect": {
@@ -1556,7 +1556,7 @@
           "signal_hash": "f206f3bd490bee5ff56047413be095113746f8616bb8df0b81d7a4dadd7caad1",
           "text_hash": "bd1e758d2a4b23d710f5e5f52f44b5d191d154b30076c21c366648ec9d14ba16",
           "text_sample": "Research Moderation & Data Collection with Remesh Try our AI Agent Remy Free Now! Platform Platform Platform Overview Hybrid Insights at Scale Features Summary Live, Asynchronous, and Video Remy Agentic AI for Research Process Design Build Your Conversation Collect Engage Your Audience Analyze AI-Po",
-          "fetched_at": "2026-04-17T06:57:19+00:00",
+          "fetched_at": "2026-04-18T06:12:25+00:00",
           "status_code": 200
         },
         "https://www.remesh.ai/platform/design": {
@@ -1568,7 +1568,7 @@
           "signal_hash": "28533ac4cd74920f2e9daf6695c1fbeb6828a893181ec09a2fb6de451fb29805",
           "text_hash": "558cf7896aad38184c2bab2fd3a3fe6e6376f49d23ac598c938abc142f4ead26",
           "text_sample": "Research Design with Remesh Try our AI Agent Remy Free Now! Platform Platform Platform Overview Hybrid Insights at Scale Features Summary Live, Asynchronous, and Video Remy Agentic AI for Research Process Design Build Your Conversation Collect Engage Your Audience Analyze AI-Powered Analysis Why Rem",
-          "fetched_at": "2026-04-17T06:57:19+00:00",
+          "fetched_at": "2026-04-18T06:12:25+00:00",
           "status_code": 200
         },
         "https://www.remesh.ai/platform/features-summary": {
@@ -1580,7 +1580,7 @@
           "signal_hash": "2ee1016c7af238edf729ddda0fe1c3278f14adb0822f0d714db533d1f70f6de6",
           "text_hash": "133a4e23e1848d1afffc9146738a40b71872122e2e3b731dcc14efd84aeab297",
           "text_sample": "Remesh Features - Dialogue-Based Research Platform Try our AI Agent Remy free now! Platform Platform Overview Features Remy AI Design Collect Analyze Approach Approach Overview Research Design Collective Dialogue Company About Us Careers Our Customers Resources Blog Case Studies Support Request a De",
-          "fetched_at": "2026-04-17T06:57:19+00:00",
+          "fetched_at": "2026-04-18T06:12:25+00:00",
           "status_code": 200
         },
         "https://www.remesh.ai/resources/nestle-captures-early-stage-advertisement-campaign-feedback-for-prelaunch-optimization": {
@@ -1592,7 +1592,7 @@
           "signal_hash": "ef87acd1ca0f2149b5d86aa7a6c00d0724e396d06d6bf275d473deef5c31367e",
           "text_hash": "f00d4cc7b84f637355a0e823d82e062ca02beef85195584a87d0bcc463d2c135",
           "text_sample": "Nestl\u00e9 captures early stage advertisement campaign feedback for prelaunch optimization Try our AI Agent Remy free now! Platform Platform Overview Features Remy AI Design Collect Analyze Approach Approach Overview Research Design Collective Dialogue Company About Us Careers Our Customers Resources Bl",
-          "fetched_at": "2026-04-17T06:57:19+00:00",
+          "fetched_at": "2026-04-18T06:12:25+00:00",
           "status_code": 200
         }
       },
@@ -1643,7 +1643,7 @@
     "Simile": {
       "name": "Simile",
       "homepage": "https://www.simile.ai/",
-      "checked_at": "2026-04-17T06:57:19+00:00",
+      "checked_at": "2026-04-18T06:12:26+00:00",
       "seed_urls": [
         "https://www.simile.ai/"
       ],
@@ -1656,9 +1656,9 @@
           "description": "Simile is a simulation platform for human behavior.",
           "headline": "Simile is a simulation platform for human behavior",
           "signal_hash": "e2277cccc9b5a3c8bd2660a1b848f3ac776b49c1a604adfe96eb1867ff0343de",
-          "text_hash": "489ee5e2898bda0ddc995a9b517c61630b317e632d9a52064ccd68e5522cc984",
+          "text_hash": "916ceee0f27ac8c683770f0845473aa382c33b2639dc52cfa0578126bcb367c7",
           "text_sample": "Home | Simile 12 PM Simile x CVS Health. Learn more about simulations for faster, safer decisions. Read here \u2192 Simile raises $100M Series A. We are excited to announce our Series A funding round led by Index. Learn more \u2192 Join the Simile x Gallup waitlist. Platform Research Customers Careers Blog Re",
-          "fetched_at": "2026-04-17T06:57:19+00:00",
+          "fetched_at": "2026-04-18T06:12:26+00:00",
           "status_code": 200
         },
         "https://www.simile.ai/blog": {
@@ -1670,7 +1670,7 @@
           "signal_hash": "8045cff818a4afa339743d4a7b0d8401d49ec5becf70a14de9598598d05a349b",
           "text_hash": "0e598193bf5d31770a12643923df810d7fe31c17a2d24a66200ce194c75c6a8b",
           "text_sample": "Blog | Simile Simile x CVS Health. Learn more about simulations for faster, safer decisions. Read here \u2192 Simile raises $100M Series A. We are excited to announce our Series A funding round led by Index. Learn more \u2192 Join the Simile x Gallup waitlist. Platform Research Customers Careers Blog Request ",
-          "fetched_at": "2026-04-17T06:57:19+00:00",
+          "fetched_at": "2026-04-18T06:12:26+00:00",
           "status_code": 200
         },
         "https://www.simile.ai/blog/simile-cvs-health": {
@@ -1682,7 +1682,7 @@
           "signal_hash": "01f1404a099ece5b0011055e413874fe6fa2c0b86923c8639a4828c5046e59b7",
           "text_hash": "408f1623da76bec18677051dcb696ad507164aafc55049678267949c4179d3bd",
           "text_sample": "CVS Health x Simile: Simulations for faster, safer decisions | Simile Simile x CVS Health. Learn more about simulations for faster, safer decisions. Read here \u2192 Simile raises $100M Series A. We are excited to announce our Series A funding round led by Index. Learn more \u2192 Join the Simile x Gallup wai",
-          "fetched_at": "2026-04-17T06:57:19+00:00",
+          "fetched_at": "2026-04-18T06:12:26+00:00",
           "status_code": 200
         },
         "https://www.simile.ai/blog/the-simulation-company": {
@@ -1694,7 +1694,7 @@
           "signal_hash": "1b0c83c04a1283c6359f72f72547a47dfffa76ef725c7b3ae276878ed32949ee",
           "text_hash": "e47206574293cc090887092dd19ef3898db842bc83bdf04bdd024dda848edd03",
           "text_sample": "The Simulation Company | Simile Simile x CVS Health. Learn more about simulations for faster, safer decisions. Read here \u2192 Simile raises $100M Series A. We are excited to announce our Series A funding round led by Index. Learn more \u2192 Join the Simile x Gallup waitlist. Platform Research Customers Car",
-          "fetched_at": "2026-04-17T06:57:19+00:00",
+          "fetched_at": "2026-04-18T06:12:26+00:00",
           "status_code": 200
         }
       },
@@ -1725,7 +1725,7 @@
     "Synthetic Users": {
       "name": "Synthetic Users",
       "homepage": "https://www.syntheticusers.com/",
-      "checked_at": "2026-04-17T06:57:20+00:00",
+      "checked_at": "2026-04-18T06:12:27+00:00",
       "seed_urls": [
         "https://www.syntheticusers.com/"
       ],
@@ -1740,7 +1740,7 @@
           "signal_hash": "cf81e12c08f47a8833417c40ac7b18ce327393e8b9a60ab30ba4b57c85fbd7fb",
           "text_hash": "f78f58dff0b2d3b1bb12cc174ce486543af08c90199d99f8ea03a8a982c6c167",
           "text_sample": "Synthetic Users: user research without the headaches Science Tutorials Pricing Investors Sign in Book demo Book demo Science Tutorials Pricing Investors Sign in Download our latest Guide New spring features UX testing, Multi-concept testing\u00e2\u0080\u00a6 User research, without Synthetic Users lets you predict ",
-          "fetched_at": "2026-04-17T06:57:19+00:00",
+          "fetched_at": "2026-04-18T06:12:27+00:00",
           "status_code": 200
         },
         "https://www.syntheticusers.com/pricing": {
@@ -1752,7 +1752,7 @@
           "signal_hash": "29b718f865ff4ff60cf0ba1353c337a291df6ea940666583774eb5e438a96a9d",
           "text_hash": "c921d383b8481811b8fa713bea7d15d76ff85fb653aa5653fd4c5b8b1e1da754",
           "text_sample": "Pricing \u00e2\u0080\u0094 Synthetic Users Science Tutorials Pricing Investors Sign in Book demo Book demo Science Tutorials Pricing Investors Sign in Research that pays for itself. Get to insight in minutes, not weeks, at a fraction of the cost of traditional research. Recruitment Agency Recruitment Agency DIY Re",
-          "fetched_at": "2026-04-17T06:57:20+00:00",
+          "fetched_at": "2026-04-18T06:12:27+00:00",
           "status_code": 200
         },
         "https://www.syntheticusers.com/science-posts/gartner-says-we-lead-thats-kind-of-them": {
@@ -1764,7 +1764,7 @@
           "signal_hash": "9951a854f4e4e5768372a7aefd853859975403421eae99bc21b883d021ef03e4",
           "text_hash": "bb4e8fc17a9bb4092766363441e6945dcd127c2103474798b5cb992d403f9a27",
           "text_sample": "Gartner says we lead. That's kind of them. \u00e2\u0080\u0094 Synthetic Users Science Tutorials Pricing Investors Sign in Book demo Book demo Science Tutorials Pricing Investors Sign in Gartner says we lead. That's kind of them. Gartner\u00e2\u0080\u0099s latest report on AI-powered synthetic user research cites Synthetic Users ",
-          "fetched_at": "2026-04-17T06:57:20+00:00",
+          "fetched_at": "2026-04-18T06:12:27+00:00",
           "status_code": 200
         },
         "https://www.syntheticusers.com/science-posts/how-we-deal-with-bias": {
@@ -1776,7 +1776,7 @@
           "signal_hash": "b66d79e2a723bc35163dab36be6b7bcf78fb4b3fe4925168e533a5d349572184",
           "text_hash": "05ab5db1701d04a8c335c6e104c261d92d8ad9e0eb28ecc06c591e4b0d28c894",
           "text_sample": "How we deal with bias \u00e2\u0080\u0094 Synthetic Users Science Tutorials Pricing Investors Sign in Book demo Book demo Science Tutorials Pricing Investors Sign in How we deal with bias Harnessing the power of AI in our Synthetic Users, we strive for a balance between reflecting reality and ethical responsibility",
-          "fetched_at": "2026-04-17T06:57:20+00:00",
+          "fetched_at": "2026-04-18T06:12:27+00:00",
           "status_code": 200
         },
         "https://www.syntheticusers.com/science-posts/how-we-measure-success": {
@@ -1788,7 +1788,7 @@
           "signal_hash": "3dcee4068444e8ea34e85641169d636626566a735db87dc82e5e3852746c6845",
           "text_hash": "d2def52635392ea8c84577348fcfc958e56cb844395a84e9936f3a18c5a5828b",
           "text_sample": "How we compare interviews to ensure we improve our Synthetic Organic Parity \u00e2\u0080\u0094 85 to 92% \u00e2\u0080\u0094 Synthetic Users Science Tutorials Pricing Investors Sign in Book demo Book demo Science Tutorials Pricing Investors Sign in How we compare interviews to ensure we improve our Synthetic Organic Parity \u00e2\u0080\u0094 85",
-          "fetched_at": "2026-04-17T06:57:20+00:00",
+          "fetched_at": "2026-04-18T06:12:27+00:00",
           "status_code": 200
         }
       },
@@ -1824,7 +1824,7 @@
     "Toluna": {
       "name": "Toluna",
       "homepage": "https://www.tolunacorporate.com/",
-      "checked_at": "2026-04-17T06:57:21+00:00",
+      "checked_at": "2026-04-18T06:12:28+00:00",
       "seed_urls": [
         "https://www.tolunacorporate.com/"
       ],
@@ -1839,7 +1839,7 @@
           "signal_hash": "9ea932165e16d0bd822af2ab052ea2333404423f08902cd45e089e77db50bf46",
           "text_hash": "c68926b5d78bf2ad8d20f9ac6cbff8b0eba405eca7b6c428baf91a7491b2e92e",
           "text_sample": "Toluna About Careers Toluna Start Login Our Solutions Brand & Campaign Advertising Testing\u200b Test & optimize your ads across the creative development process and drive meaningful business results. Media & Campaign Effectiveness Maximize the value of your campaign and media activities in-market and ac",
-          "fetched_at": "2026-04-17T06:57:21+00:00",
+          "fetched_at": "2026-04-18T06:12:28+00:00",
           "status_code": 200
         }
       },
@@ -1855,7 +1855,7 @@
     "Yabble": {
       "name": "Yabble",
       "homepage": "https://www.yabble.com/",
-      "checked_at": "2026-04-17T06:57:22+00:00",
+      "checked_at": "2026-04-18T06:12:30+00:00",
       "seed_urls": [
         "https://www.yabble.com/",
         "https://www.yabble.com/blog"
@@ -1871,7 +1871,7 @@
           "signal_hash": "501698025b3ce6ff200dca859fe5db5581863d13fbfb5e94f8522aa1c7e75761",
           "text_hash": "f57dec666d0e8e963cc84cb402cad84e803adc0668881c4f3cd9f5f9ea0f7a5e",
           "text_sample": "Yabble | Effortless insights are as easy as 1, 2, 3 Yabble. Skip to content Solutions Virtual Audiences | AI Personas Gen | AI Research Agent Summarize | AI Summaries Count | Theming & Sentiment Why Yabble Why Yabble About Us Case Studies Contact Us Resources Blog Events and Recordings Guides and Do",
-          "fetched_at": "2026-04-17T06:57:21+00:00",
+          "fetched_at": "2026-04-18T06:12:29+00:00",
           "status_code": 200
         },
         "https://www.yabble.com/blog": {
@@ -1883,7 +1883,7 @@
           "signal_hash": "0f89212068a50017b76cf4d61857c0a99e108587c6def30a40090042f17cf6a2",
           "text_hash": "a721bef25393a8fefa00c97ccd9e25d0b138097cd3cf001718a6e327f123c711",
           "text_sample": "The Yabble blog Skip to content Solutions Virtual Audiences | AI Personas Gen | AI Research Agent Summarize | AI Summaries Count | Theming & Sentiment Why Yabble Why Yabble About Us Case Studies Contact Us Resources Blog Events and Recordings Guides and Downloads FAQs Pricing Log in Book a demo Book",
-          "fetched_at": "2026-04-17T06:57:21+00:00",
+          "fetched_at": "2026-04-18T06:12:29+00:00",
           "status_code": 200
         },
         "https://www.yabble.com/pricing": {
@@ -1895,7 +1895,7 @@
           "signal_hash": "ce38f4f31b6523b4001d75c526380c5a81fc47a004fe8c3778ec041b01a1777c",
           "text_hash": "062b2690e2f51ec4a41a360b8a2959027182bb4d084c696037aa1410348dcedf",
           "text_sample": "Pricing | Compare which Yabble plan is best for you | Yabble Skip to content Solutions Virtual Audiences | AI Personas Gen | AI Research Agent Summarize | AI Summaries Count | Theming & Sentiment Why Yabble Why Yabble About Us Case Studies Contact Us Resources Blog Events and Recordings Guides and D",
-          "fetched_at": "2026-04-17T06:57:21+00:00",
+          "fetched_at": "2026-04-18T06:12:29+00:00",
           "status_code": 200
         },
         "https://www.yabble.com/blog/7-ways-that-virtual-audiences-can-turbocharge-your-insights": {
@@ -1907,7 +1907,7 @@
           "signal_hash": "3ed2b61e156fcf862a674558c58facd3f7978ca5dc763f6e7e55064dfab4b983",
           "text_hash": "0ab60d62571de149d7232e76b25894ff6f2d9b6e3f799bb8e222e6d3961e1b3d",
           "text_sample": "7 Ways That Virtual Audiences Can Turbocharge Your Insights Skip to content Solutions Virtual Audiences | AI Personas Gen | AI Research Agent Summarize | AI Summaries Count | Theming & Sentiment Why Yabble Why Yabble About Us Case Studies Contact Us Resources Blog Events and Recordings Guides and Do",
-          "fetched_at": "2026-04-17T06:57:21+00:00",
+          "fetched_at": "2026-04-18T06:12:29+00:00",
           "status_code": 200
         },
         "https://www.yabble.com/blog/media-release-yabble-sells-to-global-insights-leader": {
@@ -1919,7 +1919,7 @@
           "signal_hash": "2a9923b386294c7abbf1f4cb033cf178cd3f68612126257119bfd60719ecfdd4",
           "text_hash": "80c60c787c25c790a2c4f7f40423d5b1c5f5b50927e564e863d44ff6e496fd4f",
           "text_sample": "[MEDIA RELEASE] Yabble sells to Global Insights Leader Skip to content Solutions Virtual Audiences | AI Personas Gen | AI Research Agent Summarize | AI Summaries Count | Theming & Sentiment Why Yabble Why Yabble About Us Case Studies Contact Us Resources Blog Events and Recordings Guides and Downloa",
-          "fetched_at": "2026-04-17T06:57:21+00:00",
+          "fetched_at": "2026-04-18T06:12:29+00:00",
           "status_code": 200
         },
         "https://www.yabble.com/blog/virtual-audiences-just-got-even-better": {
@@ -1931,7 +1931,7 @@
           "signal_hash": "b8d11d3029cc625a500cfef0cb3845811acaa2885ba601795c73f01370cf60d9",
           "text_hash": "87cc5ea7c74b022b30ceb32e01936b506efb13969301b2d01e8034d4df7d794a",
           "text_sample": "Virtual Audiences Just Got Even Better Skip to content Solutions Virtual Audiences | AI Personas Gen | AI Research Agent Summarize | AI Summaries Count | Theming & Sentiment Why Yabble Why Yabble About Us Case Studies Contact Us Resources Blog Events and Recordings Guides and Downloads FAQs Pricing ",
-          "fetched_at": "2026-04-17T06:57:21+00:00",
+          "fetched_at": "2026-04-18T06:12:30+00:00",
           "status_code": 200
         },
         "https://www.yabble.com/case-studies": {
@@ -1943,7 +1943,7 @@
           "signal_hash": "000c45cc44290c13d066f7b2d5ffe4f98b731d1532ec84a591237ff60c8f74e0",
           "text_hash": "4bfdd5c73671d3c01023b44ef26f2c21be03592b1610c4af33782ac141e0ad3e",
           "text_sample": "Case Studies | AI for Insights Success Stories | Yabble Skip to content Solutions Virtual Audiences | AI Personas Gen | AI Research Agent Summarize | AI Summaries Count | Theming & Sentiment Why Yabble Why Yabble About Us Case Studies Contact Us Resources Blog Events and Recordings Guides and Downlo",
-          "fetched_at": "2026-04-17T06:57:22+00:00",
+          "fetched_at": "2026-04-18T06:12:30+00:00",
           "status_code": 200
         },
         "https://www.yabble.com/guides-and-downloads": {
@@ -1955,7 +1955,7 @@
           "signal_hash": "d14bad338a58fe1fc7baca52ce0aac700b78fdb48f3fb02fbfded2a03199b1cc",
           "text_hash": "53eea2f4916cadfedcbdc89f919ccd4fb3ececa3d3d30d77649347df3ad38eec",
           "text_sample": "Guides and Downloads | Yabble Skip to content Solutions Virtual Audiences | AI Personas Gen | AI Research Agent Summarize | AI Summaries Count | Theming & Sentiment Why Yabble Why Yabble About Us Case Studies Contact Us Resources Blog Events and Recordings Guides and Downloads FAQs Pricing Log in Bo",
-          "fetched_at": "2026-04-17T06:57:22+00:00",
+          "fetched_at": "2026-04-18T06:12:30+00:00",
           "status_code": 200
         }
       },
@@ -2006,7 +2006,7 @@
     "YouGov": {
       "name": "YouGov",
       "homepage": "https://business.yougov.com/",
-      "checked_at": "2026-04-17T06:57:27+00:00",
+      "checked_at": "2026-04-18T06:12:36+00:00",
       "seed_urls": [
         "https://business.yougov.com/",
         "https://business.yougov.com/content"
@@ -2020,9 +2020,9 @@
           "description": "Explore YouGov's market research and data analytics services for valuable insights. Make informed business decisions with our consumer analysis & intelligence.",
           "headline": "/Research Reality",
           "signal_hash": "e7910e2c28c86f40985cdcb9d265001c152817eaec5fabe8c81852ac3e17bdd2",
-          "text_hash": "54db2f26259763ef79811c66bcbecdb52c467fcd6fc8126d61132c95b37cee5a",
+          "text_hash": "dd435a170eaccd1a626b4eab9bbcf0eb6cf770a2b631cfdb188131c3bf647ed0",
           "text_sample": "YouGov: Data Analytics & Market Research Services Skip to main content INT Select a country United Kingdom United States Deutschland France Espa\u00f1a Italia International Editorial & free data Agencies Agencies Editorial & free data Agencies research Explore public opinion on advertising and more - get",
-          "fetched_at": "2026-04-17T06:57:24+00:00",
+          "fetched_at": "2026-04-18T06:12:33+00:00",
           "status_code": 200
         },
         "https://business.yougov.com/content": {
@@ -2032,9 +2032,9 @@
           "description": "Explore all of YouGov\u2019s expert-written content, from reports to editorial articles.",
           "headline": "All content",
           "signal_hash": "bdd15534f215434f895e284ca8b05d9be1f72f04033af126cdea314b004fb2cb",
-          "text_hash": "4672cd60e92214518a629e89e28d59339f265e47e608d02f1528d40818909638",
+          "text_hash": "f3de47d92e7d3240fe82c281b53388283caeb7a372d53cf66bb23e4946d9bc85",
           "text_sample": "YouGov content: All YouGov editorial & content types Skip to main content INT Select a country United Kingdom United States Deutschland France Espa\u00f1a Italia International Editorial & free data Agencies Agencies Editorial & free data Agencies research Explore public opinion on advertising and more - ",
-          "fetched_at": "2026-04-17T06:57:25+00:00",
+          "fetched_at": "2026-04-18T06:12:34+00:00",
           "status_code": 200
         }
       },
@@ -2055,7 +2055,7 @@
     "Zappi": {
       "name": "Zappi",
       "homepage": "https://www.zappi.io/",
-      "checked_at": "2026-04-17T06:57:28+00:00",
+      "checked_at": "2026-04-18T06:12:37+00:00",
       "seed_urls": [
         "https://www.zappi.io/",
         "https://www.zappi.io/web/blog",
@@ -2072,7 +2072,7 @@
           "signal_hash": "b345f04026ca782ed2c6dcc5997256147f9156379dabeee3a2883cea597b6c2f",
           "text_hash": "3711a440d9e1a1a3baba52b5c723ef7d33185f73cdea5566da2b0bc2f287e632",
           "text_sample": "The consumer insights platform that helps brands win The CPG Mega-Trends report is here The CPG Mega-Trends report is here READ IT NOW Why Zappi? Solutions Who we help Resources Pricing Login / Register Let's talk The consumer insights platform that helps brands win Software that combines the power ",
-          "fetched_at": "2026-04-17T06:57:28+00:00",
+          "fetched_at": "2026-04-18T06:12:37+00:00",
           "status_code": 200
         },
         "https://www.zappi.io/web/blog": {
@@ -2084,7 +2084,7 @@
           "signal_hash": "deccfe26852c3bf0f39d4e636ab017835917b582f4e35f63020d824f2560800b",
           "text_hash": "02724b77e68ec6ab6b4d9fec65aaf0e9b0710fe5e370ac2c8fb9c99355a70ecb",
           "text_sample": "Blog | Zappi The CPG Mega-Trends report is here The CPG Mega-Trends report is here READ IT NOW Why Zappi? Solutions Who we help Resources Pricing Login / Register Let's talk Read all about it The latest from Zappi Blog News Podcast Webinars Events Let's. Do. This. This is the best button on the site",
-          "fetched_at": "2026-04-17T06:57:28+00:00",
+          "fetched_at": "2026-04-18T06:12:37+00:00",
           "status_code": 200
         },
         "https://www.zappi.io/web/news": {
@@ -2096,7 +2096,7 @@
           "signal_hash": "cdee7dfde10af06691448d10455cae75c98f0587d65c1cdd032031544d186a78",
           "text_hash": "d8c35c9c7d2ce6e335fe7f84aff5573b17084299cb564d86cc6253a73c6d41ee",
           "text_sample": "News | Zappi The CPG Mega-Trends report is here The CPG Mega-Trends report is here READ IT NOW Why Zappi? Solutions Who we help Resources Pricing Login / Register Let's talk In the news The latest from Zappi Blog News Podcast Webinars Events Let's. Do. This. This is the best button on the site. It\u2019s",
-          "fetched_at": "2026-04-17T06:57:28+00:00",
+          "fetched_at": "2026-04-18T06:12:37+00:00",
           "status_code": 200
         },
         "https://www.zappi.io/web/customer-stories/walkers-launches-wotsits-giants-to-huge-success": {
@@ -2108,7 +2108,7 @@
           "signal_hash": "de52ac46f391ece3d86095269d32b121bd224d152c1f2762394892cc3d5181c3",
           "text_hash": "3a1d295b9d6239ab3115ddb5fb25b6fce941390acf24c6c4bb6ed92e3df6533e",
           "text_sample": "New Wotsits Giants are a huge success | Zappi The CPG Mega-Trends report is here The CPG Mega-Trends report is here READ IT NOW Why Zappi? Solutions Who we help Resources Pricing Login / Register Let's talk New Wotsits Giants are a huge success When the new product Wotsits Giants launched, it was a ",
-          "fetched_at": "2026-04-17T06:57:28+00:00",
+          "fetched_at": "2026-04-18T06:12:37+00:00",
           "status_code": 200
         },
         "https://www.zappi.io/web/platform": {
@@ -2120,7 +2120,7 @@
           "signal_hash": "5650ae922f0ba9d7c07684cf745dc528a8bdf24969eb4ec65ffc3013c846ddac",
           "text_hash": "c21ad6092e689efae465d85e37588cd16b481d76e0afae22ffa9403a832a171e",
           "text_sample": "Powerful, automated, agile consumer insights platform | Zappi The CPG Mega-Trends report is here The CPG Mega-Trends report is here READ IT NOW Why Zappi? Solutions Who we help Resources Pricing Login / Register Let's talk Say hello to Zappi Need a faster way to provide objective consumer feedback? ",
-          "fetched_at": "2026-04-17T06:57:28+00:00",
+          "fetched_at": "2026-04-18T06:12:37+00:00",
           "status_code": 200
         },
         "https://www.zappi.io/web/pricing": {
@@ -2132,7 +2132,7 @@
           "signal_hash": "7d7e06f14934b4939cf1e195865fab7af939f6c5342ab730d006d2f70762e03f",
           "text_hash": "203907ff16234dd8030f6fa65959a849ef0e7b64bb2ca2199f2504a52df933a2",
           "text_sample": "Product Pricing & Plans | Zappi The CPG Mega-Trends report is here The CPG Mega-Trends report is here READ IT NOW Why Zappi? Solutions Who we help Resources Pricing Login / Register Let's talk PRICING & PACKAGING Simple Pricing What you need to conduct research across every stage of product innovati",
-          "fetched_at": "2026-04-17T06:57:28+00:00",
+          "fetched_at": "2026-04-18T06:12:37+00:00",
           "status_code": 200
         },
         "https://www.zappi.io/web/agile-consumer-insights": {
@@ -2144,7 +2144,7 @@
           "signal_hash": "e59019e635121dd40be507d08b1e60c70f28db12c6fae3e0c0f3a0a2feff9a5d",
           "text_hash": "837e805ab2b31288636e74be5c4f61f5f0e2a934fac2a9a5844729e32584cabc",
           "text_sample": "Faster research. Better research. Agile research. | Zappi The CPG Mega-Trends report is here The CPG Mega-Trends report is here READ IT NOW Why Zappi? Solutions Who we help Resources Pricing Login / Register Let's talk BETTER RESEARCH There\u2019s a smarter way Brands that use consistent, agile insights ",
-          "fetched_at": "2026-04-17T06:57:28+00:00",
+          "fetched_at": "2026-04-18T06:12:37+00:00",
           "status_code": 200
         },
         "https://www.zappi.io/web/customer-stories/grounding-mars-in-consumer-insights": {
@@ -2156,7 +2156,7 @@
           "signal_hash": "14da4953dbbc194da28f9735545856aca214bf04db7f4cf6ba0ab73196191ff1",
           "text_hash": "65c7d914679ce9f1e836b2a61ef3d0a6ab3ff264a18636892df5b3674f9d30b0",
           "text_sample": "Mars Petcare's agile innovation process | Zappi The CPG Mega-Trends report is here The CPG Mega-Trends report is here READ IT NOW Why Zappi? Solutions Who we help Resources Pricing Login / Register Let's talk Mars Petcare's agile innovation process Discover how the Mars Petcare team uses Zappi Scree",
-          "fetched_at": "2026-04-17T06:57:28+00:00",
+          "fetched_at": "2026-04-18T06:12:37+00:00",
           "status_code": 200
         }
       },
