@@ -258,7 +258,10 @@ def fetch_document(
     lowered_type = content_type.lower()
     if "html" not in lowered_type and not (allow_xml and "xml" in lowered_type):
         return None, response.status_code, f"Non-HTML response: {content_type}"
-    return response.text, response.status_code, None
+    encoding = response.encoding
+    if "charset=" not in lowered_type and response.apparent_encoding:
+        encoding = response.apparent_encoding
+    return response.content.decode(encoding or "utf-8", errors="replace"), response.status_code, None
 
 
 def fetch_html(session: requests.Session, url: str, timeout_seconds: int) -> tuple[str | None, int, str | None]:
