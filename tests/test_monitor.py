@@ -13,8 +13,30 @@ from scripts.monitor import (
 )
 
 
+class DummyResponse:
+    status_code = 200
+    encoding = "ISO-8859-1"
+    apparent_encoding = "utf-8"
+    content = "robots can’t resist".encode("utf-8")
+    headers = {"content-type": "text/html"}
+
+
+class DummySession:
+    def get(self, *_args, **_kwargs) -> DummyResponse:
+        return DummyResponse()
+
+
 def test_canonicalize_url_removes_query_and_fragment() -> None:
     assert canonicalize_url("HTTPS://Example.com/path/?utm=x#top") == "https://example.com/path"
+
+
+def test_fetch_document_uses_apparent_encoding_without_charset() -> None:
+    from scripts.monitor import fetch_document
+
+    text, status_code, error = fetch_document(DummySession(), "https://example.com", 10)
+    assert status_code == 200
+    assert error is None
+    assert "can’t" in text
 
 
 def test_extract_links_keeps_same_domain_and_skips_assets() -> None:
