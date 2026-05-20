@@ -1,282 +1,91 @@
 {
-  "generated_at": "2026-05-20T16:05:28+00:00",
+  "generated_at": "2026-05-20T16:32:31+00:00",
   "topic": "generative engine optimization and AI search visibility",
   "sites": {
     "Google Search Central": {
       "name": "Google Search Central",
       "category": "official-search-platform",
       "homepage": "https://developers.google.com/search",
-      "checked_at": "2026-05-20T16:04:21+00:00",
+      "checked_at": "2026-05-20T16:31:21+00:00",
       "seed_urls": [
         "https://developers.google.com/search",
         "https://developers.google.com/search/blog",
         "https://developers.google.com/search/docs/appearance/ai-features"
       ],
       "fetched_seed_count": 1,
-      "pages": {
-        "https://developers.google.com/search": {
-          "url": "https://developers.google.com/search",
-          "page_type": "geo",
-          "title": "Google Search Central (formerly Webmasters) | Web SEO Resources | Google for Developers",
-          "description": "Google Search Central provides SEO resources to help you get your website on Google Search. Learn how to make your website more discoverable today.",
-          "headline": "Google Search Central",
-          "summary": "Google Search Central provides SEO resources to help you get your website on Google Search. Learn how to make your website more discoverable today.",
-          "signal_hash": "8e4330ba91153cde10c28e5dd0efafeec93dae609502b11bdad44bae46520d74",
-          "text_hash": "61d4f83bd064dc9706d22a48dac6c3cbaefd59e502510224aff4b5b459f34016",
-          "fetched_at": "2026-05-20T16:04:17+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, Google Search",
-          "matched_keywords": [
-            "AI search",
-            "Google Search"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://developers.google.com/search/blog": {
-          "url": "https://developers.google.com/search/blog",
-          "page_type": "geo",
-          "title": "Search and SEO Blog | Google Search Central | Google Search Central Blog | Google for Developers",
-          "description": "Subscribe to the Google Search Central Blog for official algorithm updates, announcements of new Google Search features, and SEO best practices.",
-          "headline": "Google Search Central",
-          "summary": "Subscribe to the Google Search Central Blog for official algorithm updates, announcements of new Google Search features, and SEO best practices.",
-          "signal_hash": "d405db9f886e1ca0b1cb4667700c65a9cf17443c4828d887b97e2e03c7cbb551",
-          "text_hash": "624e31cd3a1b85b930cec528d6df3a882295088d8ed4e5af6b70d0f3f9cb92e2",
-          "fetched_at": "2026-05-20T16:04:17+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, Google Search",
-          "matched_keywords": [
-            "AI search",
-            "Google Search"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://developers.google.com/search/docs/appearance/ai-features": {
-          "url": "https://developers.google.com/search/docs/appearance/ai-features",
-          "page_type": "geo",
-          "title": "AI Features and Your Website | Google Search Central | Documentation | Google for Developers",
-          "description": "Google Search's AI features can help users find your website. Learn more about how AI features work in Search and how to approach your content's inclusion in these experiences.",
-          "headline": "AI features and your website",
-          "summary": "Google Search's AI features can help users find your website. Learn more about how AI features work in Search and how to approach your content's inclusion in these experiences.",
-          "signal_hash": "1cd667630e7ede2d243a5430fe8989362ea9114e7219fc64e1ba1e4085a55471",
-          "text_hash": "0825c402061ab6245340dee7bf94705b8df592e667bbab75cae4d4b1f3775ddd",
-          "fetched_at": "2026-05-20T16:04:18+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, Google Search",
-          "matched_keywords": [
-            "AI search",
-            "Google Search"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://developers.google.com/search/case-studies": {
-          "url": "https://developers.google.com/search/case-studies",
-          "page_type": "geo",
-          "title": "SEO Case Studies and Success Stories | Google Search Central | Google for Developers",
-          "description": "Browse SEO case studies and success stories to see first-hand how Google Search can help you reach more people with your website.",
-          "headline": "Google Search Central",
-          "summary": "Browse SEO case studies and success stories to see first-hand how Google Search can help you reach more people with your website.",
-          "signal_hash": "da9e87bf517af3f67cc901feac7915f77d9f910d0bcb965b8922f6d263cc28c1",
-          "text_hash": "2166c5982c02ce7bcdbd2a7e56ba65ce76a1266e6fedf226ddc69661f9e14c5a",
-          "fetched_at": "2026-05-20T16:04:18+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, Google Search",
-          "matched_keywords": [
-            "AI search",
-            "Google Search"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://developers.google.com/search/docs": {
-          "url": "https://developers.google.com/search/docs",
-          "page_type": "geo",
-          "title": "Documentation to Improve SEO | Google Search Central | Google for Developers",
-          "description": "Explore SEO documentation to learn how to improve your site's visibility on Google Search.",
-          "headline": "Google Search Central",
-          "summary": "Explore SEO documentation to learn how to improve your site's visibility on Google Search.",
-          "signal_hash": "8e0aff90705696a1076f3297954ff15d0075d47e3edd04d7ad832463e202f1a3",
-          "text_hash": "d02d97cd5fe671042b20d8605cf17b9b86cb5649e03e11ad5fd402d5270b84e9",
-          "fetched_at": "2026-05-20T16:04:18+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, Google Search",
-          "matched_keywords": [
-            "AI search",
-            "Google Search"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://developers.google.com/search/docs/appearance/favicon-in-search": {
-          "url": "https://developers.google.com/search/docs/appearance/favicon-in-search",
-          "page_type": "geo",
-          "title": "Define Website Favicon for Search Results | Google Search Central | Documentation | Google for Developers",
-          "description": "If your website has a favicon, it can be included in your Google Search results. Follow these favicon SEO instructions to make your site eligible.",
-          "headline": "Define a favicon to show in search results",
-          "summary": "If your website has a favicon, it can be included in your Google Search results. Follow these favicon SEO instructions to make your site eligible.",
-          "signal_hash": "9605e114d40140da6153e81fec367b2fe2927ffb303bdf6866d69bae4d5f9313",
-          "text_hash": "a1137bb683bcd7916888cb23d0e31f8fb48675ce95c0ef85c0965840538949bc",
-          "fetched_at": "2026-05-20T16:04:19+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, Google Search",
-          "matched_keywords": [
-            "AI search",
-            "Google Search"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://developers.google.com/search/docs/appearance/google-images": {
-          "url": "https://developers.google.com/search/docs/appearance/google-images",
-          "page_type": "geo",
-          "title": "Image SEO Best Practices | Google Search Central | Documentation | Google for Developers",
-          "description": "Google Search helps users visually discover information on the web. Explore image SEO best practices such as image captions and badges.",
-          "headline": "Google image SEO best practices",
-          "summary": "Google Search helps users visually discover information on the web. Explore image SEO best practices such as image captions and badges.",
-          "signal_hash": "81e445c05e3a3ea93998bda946c77edb0ff7e38d38dba9474d689de163c0d210",
-          "text_hash": "991200b8cb99b2666025274bf8c26acbab85e5021762b05da824fa21decbb070",
-          "fetched_at": "2026-05-20T16:04:20+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, Google Search",
-          "matched_keywords": [
-            "AI search",
-            "Google Search"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://developers.google.com/search/docs/appearance/snippet": {
-          "url": "https://developers.google.com/search/docs/appearance/snippet",
-          "page_type": "geo",
-          "title": "How to Write Meta Descriptions | Google Search Central | Documentation | Google for Developers",
-          "description": "Learn how to write a quality meta description tag that may be displayed for your page in Google Search results by following these best practices.",
-          "headline": "Control your snippets in search results",
-          "summary": "Learn how to write a quality meta description tag that may be displayed for your page in Google Search results by following these best practices.",
-          "signal_hash": "052865a6339f91c19da65ea13215c27c456fa159d9aaa9f182eae35f9b285ff5",
-          "text_hash": "c03a953fd2b73c5715e47ddc647e69a95e9d263299320a81e9075e439c612ac2",
-          "fetched_at": "2026-05-20T16:04:20+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, Google Search",
-          "matched_keywords": [
-            "AI search",
-            "Google Search"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://developers.google.com/search/docs/appearance/structured-data/search-gallery": {
-          "url": "https://developers.google.com/search/docs/appearance/structured-data/search-gallery",
-          "page_type": "geo",
-          "title": "Structured Data Markup that Google Search Supports | Google Search Central | Documentation | Google for Developers",
-          "description": "Explore the structured data-powered features that can appear in Google Search, including examples of how they appear in search results. Learn how to add structured data to help your site display in rich results on Google Search.",
-          "headline": "Structured data markup that Google Search supports",
-          "summary": "Explore the structured data-powered features that can appear in Google Search, including examples of how they appear in search results. Learn how to add structured data to help your site display in rich results on Google Search.",
-          "signal_hash": "f6044793ade78142c3f3e22502470907b22e069059eb454811a4833ebc54c805",
-          "text_hash": "b6e2ca702ed78ab695020bdf2aff40775d7f46de83101c5aa678f6b2a610fb1f",
-          "fetched_at": "2026-05-20T16:04:21+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, Google Search",
-          "matched_keywords": [
-            "AI search",
-            "Google Search"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://developers.google.com/search/docs/appearance/title-link": {
-          "url": "https://developers.google.com/search/docs/appearance/title-link",
-          "page_type": "geo",
-          "title": "Influencing Title Links in Google Search | Google Search Central | Documentation | Google for Developers",
-          "description": "Learn how you can write an SEO-rich titles for your website pages and Google Search by following these best practices.",
-          "headline": "Influencing your title links in search results",
-          "summary": "Learn how you can write an SEO-rich titles for your website pages and Google Search by following these best practices.",
-          "signal_hash": "637374968fdbc51a33704b92911a329d8e9067973a63afb7963070c8d4a38d83",
-          "text_hash": "bbaf5725efe87f4e67010b286fa6c68e16ed70cf74eee39cf315d1a98152ed65",
-          "fetched_at": "2026-05-20T16:04:21+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, Google Search",
-          "matched_keywords": [
-            "AI search",
-            "Google Search"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        }
-      },
-      "skipped_non_geo": 0,
+      "pages": {},
+      "skipped_non_geo": 10,
       "errors": [],
       "fetch_log": [
         {
           "url": "https://developers.google.com/search",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://developers.google.com/search/blog",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://developers.google.com/search/docs/appearance/ai-features",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://developers.google.com/search/case-studies",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://developers.google.com/search/docs",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://developers.google.com/search/docs/appearance/favicon-in-search",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://developers.google.com/search/docs/appearance/google-images",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://developers.google.com/search/docs/appearance/snippet",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://developers.google.com/search/docs/appearance/structured-data/search-gallery",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://developers.google.com/search/docs/appearance/title-link",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         }
       ]
     },
@@ -284,7 +93,7 @@
       "name": "Google AI Blog",
       "category": "official-ai-platform",
       "homepage": "https://blog.google/technology/ai",
-      "checked_at": "2026-05-20T16:04:23+00:00",
+      "checked_at": "2026-05-20T16:31:24+00:00",
       "seed_urls": [
         "https://blog.google/technology/ai",
         "https://blog.google/products/search"
@@ -300,39 +109,18 @@
           "summary": "Explore the cutting-edge work Google is doing in AI and machine learning.",
           "signal_hash": "b21938a3e9d0918214ca5b0bf674d73b0bdc4c1c6747f7d40142829308bcdd4f",
           "text_hash": "7f2138a35dc129592adaba4d7cdeeb65ddde7fa07512ea136a4cb5da70fc614f",
-          "fetched_at": "2026-05-20T16:04:22+00:00",
+          "fetched_at": "2026-05-20T16:31:22+00:00",
           "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI Mode, Google AI",
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: Google AI",
           "matched_keywords": [
-            "AI Mode",
             "Google AI"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://blog.google/products/search": {
-          "url": "https://blog.google/products/search",
-          "page_type": "geo",
-          "title": "Official Google Search news and updates | Google Blog",
-          "description": "Read the latest news and updates about Google Search, the product that started it all.",
-          "headline": "Search",
-          "summary": "Read the latest news and updates about Google Search, the product that started it all.",
-          "signal_hash": "e61350a7973d60a35824babe261c79736346cb229ae73e62024a23d50018ab92",
-          "text_hash": "4d43a77ad8d93f007134a6d0e6a2489acf580d32bc147f225e5a8adcee755d86",
-          "fetched_at": "2026-05-20T16:04:22+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI Mode, Google Search",
-          "matched_keywords": [
-            "AI Mode",
-            "Google Search"
           ],
           "ai_relevance_checked": false,
           "ai_relevant": null
         }
       },
-      "skipped_non_geo": 8,
+      "skipped_non_geo": 9,
       "errors": [],
       "fetch_log": [
         {
@@ -345,7 +133,8 @@
           "url": "https://blog.google/products/search",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://blog.google/innovation-and-ai",
@@ -408,11 +197,10 @@
     "OpenAI News": {
       "name": "OpenAI News",
       "category": "official-answer-engine",
-      "homepage": "https://openai.com/news",
-      "checked_at": "2026-05-20T16:04:30+00:00",
+      "homepage": "https://openai.com/news/rss.xml",
+      "checked_at": "2026-05-20T16:31:28+00:00",
       "seed_urls": [
-        "https://openai.com/news",
-        "https://openai.com/chatgpt/search"
+        "https://openai.com/news/rss.xml"
       ],
       "fetched_seed_count": 1,
       "pages": {},
@@ -420,19 +208,33 @@
       "errors": [],
       "fetch_log": [
         {
-          "url": "https://openai.com/news",
+          "url": "https://openai.com/news/rss.xml",
+          "status_code": 200,
+          "error": "Non-HTML response: text/xml; charset=utf-8"
+        },
+        {
+          "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
           "status_code": 200,
           "error": null,
           "kept": false,
           "reason": "Skipped: no GEO keyword match."
         },
         {
-          "url": "https://openai.com/chatgpt/search",
-          "status_code": 404,
-          "error": "HTTP error response: text/html; charset=utf-8"
+          "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+          "status_code": 200,
+          "error": null,
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
-          "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+          "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+          "status_code": 200,
+          "error": null,
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
+        },
+        {
+          "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
           "status_code": 200,
           "error": null,
           "kept": false,
@@ -446,42 +248,28 @@
           "reason": "Skipped: no GEO keyword match."
         },
         {
-          "url": "https://openai.com/news/ai-adoption",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt",
           "status_code": 200,
           "error": null,
           "kept": false,
           "reason": "Skipped: no GEO keyword match."
         },
         {
-          "url": "https://openai.com/news/company-announcements",
+          "url": "https://openai.com/signals/research/2026q1-update",
           "status_code": 200,
           "error": null,
           "kept": false,
           "reason": "Skipped: no GEO keyword match."
         },
         {
-          "url": "https://openai.com/news/engineering",
+          "url": "https://openai.com/index/openai-launches-the-deployment-company",
           "status_code": 200,
           "error": null,
           "kept": false,
           "reason": "Skipped: no GEO keyword match."
         },
         {
-          "url": "https://openai.com/news/global-affairs",
-          "status_code": 200,
-          "error": null,
-          "kept": false,
-          "reason": "Skipped: no GEO keyword match."
-        },
-        {
-          "url": "https://openai.com/news/product-releases",
-          "status_code": 200,
-          "error": null,
-          "kept": false,
-          "reason": "Skipped: no GEO keyword match."
-        },
-        {
-          "url": "https://openai.com/news/research",
+          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
           "status_code": 200,
           "error": null,
           "kept": false,
@@ -493,7 +281,7 @@
       "name": "Anthropic News",
       "category": "official-ai-platform",
       "homepage": "https://www.anthropic.com/news",
-      "checked_at": "2026-05-20T16:04:58+00:00",
+      "checked_at": "2026-05-20T16:32:16+00:00",
       "seed_urls": [
         "https://www.anthropic.com/news"
       ],
@@ -578,7 +366,7 @@
       "name": "Microsoft Bing Blogs",
       "category": "official-search-platform",
       "homepage": "https://blogs.bing.com/search",
-      "checked_at": "2026-05-20T16:04:59+00:00",
+      "checked_at": "2026-05-20T16:32:17+00:00",
       "seed_urls": [
         "https://blogs.bing.com/search",
         "https://blogs.bing.com/search-quality-insights"
@@ -664,277 +452,86 @@
       "name": "Search Engine Journal",
       "category": "search-industry",
       "homepage": "https://www.searchenginejournal.com/",
-      "checked_at": "2026-05-20T16:05:05+00:00",
+      "checked_at": "2026-05-20T16:32:22+00:00",
       "seed_urls": [
         "https://www.searchenginejournal.com/",
         "https://www.searchenginejournal.com/category/generative-ai",
         "https://www.searchenginejournal.com/category/seo"
       ],
       "fetched_seed_count": 1,
-      "pages": {
-        "https://www.searchenginejournal.com/": {
-          "url": "https://www.searchenginejournal.com/",
-          "page_type": "geo",
-          "title": "Search Engine Journal - SEO, Search Marketing News and Tutorials",
-          "description": "Search Engine Journal is dedicated to producing the latest search news, the best guides and how-tos for the SEO and marketer community.",
-          "headline": "SEM & SEO News, Insights & How-tos",
-          "summary": "Search Engine Journal is dedicated to producing the latest search news, the best guides and how-tos for the SEO and marketer community.",
-          "signal_hash": "abcbfed210df648db6dbd4ead486582f12dbd34e70ba6835597d2adc5565b034",
-          "text_hash": "0ff69f0ced492c60547e62e66109021fc672e91f1bcc04fff7431a1b97279614",
-          "fetched_at": "2026-05-20T16:05:00+00:00",
-          "status_code": 200,
-          "relevance_score": 2,
-          "relevance_reason": "Matched GEO keywords: AI search, search visibility",
-          "matched_keywords": [
-            "AI search",
-            "search visibility"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.searchenginejournal.com/category/generative-ai": {
-          "url": "https://www.searchenginejournal.com/category/generative-ai",
-          "page_type": "geo",
-          "title": "Generative AI in Search Marketing: News & Expert Guides",
-          "description": "Stay up to date on generative AI developments in search marketing. Explore our news and guides to learn more.",
-          "headline": "Generative AI",
-          "summary": "Stay up to date on generative AI developments in search marketing. Explore our news and guides to learn more.",
-          "signal_hash": "8cfd6f914a513993e7acf8fdf305c7a69d7af859244c77832b57947d02a5120d",
-          "text_hash": "bffb2693aee95771643fd63c2eb770572d90d05763d3f867fed66fcd1a987b65",
-          "fetched_at": "2026-05-20T16:05:01+00:00",
-          "status_code": 200,
-          "relevance_score": 2,
-          "relevance_reason": "Matched GEO keywords: AI search, search visibility",
-          "matched_keywords": [
-            "AI search",
-            "search visibility"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.searchenginejournal.com/category/seo": {
-          "url": "https://www.searchenginejournal.com/category/seo",
-          "page_type": "geo",
-          "title": "Actionable SEO Tips and Strategies That Work",
-          "description": "Your source for all things search engine optimization (SEO), including breaking news, algorithm updates, guides, strategies, tactics, tips, trends, tools, and more!",
-          "headline": "Latest SEO Articles",
-          "summary": "Your source for all things search engine optimization (SEO), including breaking news, algorithm updates, guides, strategies, tactics, tips, trends, tools, and more!",
-          "signal_hash": "e60762e266e3b79e901febf7b47b7b93c9d3b6bb8ff6c12d49a26bb41e46ab66",
-          "text_hash": "d99708325255f3e9f7d74e41389a53024368ba0fa4f8dca13b86769c172b8bc3",
-          "fetched_at": "2026-05-20T16:05:01+00:00",
-          "status_code": 200,
-          "relevance_score": 2,
-          "relevance_reason": "Matched GEO keywords: AI search, search visibility",
-          "matched_keywords": [
-            "AI search",
-            "search visibility"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.searchenginejournal.com/category/agency-marketing": {
-          "url": "https://www.searchenginejournal.com/category/agency-marketing",
-          "page_type": "geo",
-          "title": "Agency Marketing - Marketing & Advertising Strategies For Agencies",
-          "description": "Learn actionable strategies to help promote your agency effectively with the latest digital marketing tactics for agencies.",
-          "headline": "Agency Marketing",
-          "summary": "Learn actionable strategies to help promote your agency effectively with the latest digital marketing tactics for agencies.",
-          "signal_hash": "8b0bd6c8214029e1abde17331a8508a70e67b10ac704b26f8706200034f0e114",
-          "text_hash": "0610b99a56532f9e84b63a68a1b255bdf123efa066972e6040f03e771bad1fb8",
-          "fetched_at": "2026-05-20T16:05:02+00:00",
-          "status_code": 200,
-          "relevance_score": 2,
-          "relevance_reason": "Matched GEO keywords: AI search, search visibility",
-          "matched_keywords": [
-            "AI search",
-            "search visibility"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.searchenginejournal.com/category/careers-education": {
-          "url": "https://www.searchenginejournal.com/category/careers-education",
-          "page_type": "geo",
-          "title": "Career Advice For SEO And Marketing Professionals",
-          "description": "Work smarter, not harder. Learn how to grow your skill set and advance your digital marketing career (and make more money) with these tips and educational resources.",
-          "headline": "Careers",
-          "summary": "Work smarter, not harder. Learn how to grow your skill set and advance your digital marketing career (and make more money) with these tips and educational resources.",
-          "signal_hash": "c7945fa337929b4270aefb8dcc8b868a3422c8dc9dbb45c99515610c5bad7ac3",
-          "text_hash": "91a12dbf7bc170de6205bf1798d6df60cd9e3cc03976c19e6182dc093e9072fb",
-          "fetched_at": "2026-05-20T16:05:03+00:00",
-          "status_code": 200,
-          "relevance_score": 2,
-          "relevance_reason": "Matched GEO keywords: AI search, search visibility",
-          "matched_keywords": [
-            "AI search",
-            "search visibility"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.searchenginejournal.com/category/cms/wp": {
-          "url": "https://www.searchenginejournal.com/category/cms/wp",
-          "page_type": "geo",
-          "title": "WordPress News and Latest Updates",
-          "description": "Get the latest WordPress news from Search Engine Journal. Stay up-to-date on WordPress security news, vulnerability news, and the latest WordPress releases.",
-          "headline": "WordPress",
-          "summary": "Get the latest WordPress news from Search Engine Journal. Stay up-to-date on WordPress security news, vulnerability news, and the latest WordPress releases.",
-          "signal_hash": "74f2879b428ba379fa40c51ef6a9e7aefb249d03ea314475c46d165542a27200",
-          "text_hash": "2b5a38c7296ac3c1d9e8645fa772249ef1319ba752a9764301ecbf4a25658040",
-          "fetched_at": "2026-05-20T16:05:03+00:00",
-          "status_code": 200,
-          "relevance_score": 2,
-          "relevance_reason": "Matched GEO keywords: AI search, search visibility",
-          "matched_keywords": [
-            "AI search",
-            "search visibility"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.searchenginejournal.com/category/content": {
-          "url": "https://www.searchenginejournal.com/category/content",
-          "page_type": "geo",
-          "title": "Content Marketing Best Practices, Strategy Guides & Tips",
-          "description": "The content marketing tips, strategies, trends, and updates you need to know to create, promote, and optimize high-quality, relevant, and engaging content for your audience.",
-          "headline": "Content",
-          "summary": "The content marketing tips, strategies, trends, and updates you need to know to create, promote, and optimize high-quality, relevant, and engaging content for your audience.",
-          "signal_hash": "e762c92742618ea24539c7cffbf14f67e71a3743a02d4f0448807d731bc36f0c",
-          "text_hash": "9ad20062bd4ced8cab9681fdfbc13dcc115b5834f61acf9dab297fad152accfc",
-          "fetched_at": "2026-05-20T16:05:04+00:00",
-          "status_code": 200,
-          "relevance_score": 2,
-          "relevance_reason": "Matched GEO keywords: AI search, search visibility",
-          "matched_keywords": [
-            "AI search",
-            "search visibility"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.searchenginejournal.com/category/content/creation": {
-          "url": "https://www.searchenginejournal.com/category/content/creation",
-          "page_type": "geo",
-          "title": "Content Creation & Development",
-          "description": "Learn how to identify topics that will interest your target audience and how to create content that will help you achieve your business objectives.",
-          "headline": "Content Creation",
-          "summary": "Learn how to identify topics that will interest your target audience and how to create content that will help you achieve your business objectives.",
-          "signal_hash": "2f2c429cfce148c7d3812565aefa38aeb4f6712d400682c2818c47777a38d1d9",
-          "text_hash": "63614e8f846b13a74b054616873d60131136bcd8fddde03743872b13b38c4e79",
-          "fetched_at": "2026-05-20T16:05:04+00:00",
-          "status_code": 200,
-          "relevance_score": 2,
-          "relevance_reason": "Matched GEO keywords: AI search, search visibility",
-          "matched_keywords": [
-            "AI search",
-            "search visibility"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.searchenginejournal.com/category/content/strategy": {
-          "url": "https://www.searchenginejournal.com/category/content/strategy",
-          "page_type": "geo",
-          "title": "Content Strategy - Content Marketing Strategy & Advice",
-          "description": "Content strategy is the process of planning out all aspects of your content marketing. Learn how to create an effective content marketing strategy.",
-          "headline": "Content Strategy",
-          "summary": "Content strategy is the process of planning out all aspects of your content marketing. Learn how to create an effective content marketing strategy.",
-          "signal_hash": "127c782dd6b6a5011f297b9b77884d1bed9dab5400e46c72985ca463bbd1dfc4",
-          "text_hash": "6a3724ae1b9682bb634f2d9d9b245e4a5ecaccf1d8bcf85ca0266601f4fb36d1",
-          "fetched_at": "2026-05-20T16:05:04+00:00",
-          "status_code": 200,
-          "relevance_score": 2,
-          "relevance_reason": "Matched GEO keywords: AI search, search visibility",
-          "matched_keywords": [
-            "AI search",
-            "search visibility"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.searchenginejournal.com/category/enterprise-seo-column": {
-          "url": "https://www.searchenginejournal.com/category/enterprise-seo-column",
-          "page_type": "geo",
-          "title": "Enterprise SEO Column Archives - Search Engine Journal",
-          "description": "About Dan Taylor, Our Enterprise SEO Columnist Dan Taylor is an enterprise SEO consultant and Partner & Head of Technical SEO at SALT.agency. A well-respected marketer, Dan also speaks at conferences, and contributes to industry podcasts, webinars, and journals. Dan has a proven track record of aligning enterprise organic marketing strategies with broader company KPIs, and has provided SEO strategy and technical consultancy for leading brands.",
-          "headline": "About Dan Taylor, Our Enterprise SEO Columnist",
-          "summary": "About Dan Taylor, Our Enterprise SEO Columnist Dan Taylor is an enterprise SEO consultant and Partner & Head of Technical SEO at SALT.agency. A well-respected marketer, Dan also speaks at conferences, and contributes to industry podcasts, webinars, and journals. Dan has a proven track record of aligning enterprise organic marketing strategies with broader company KPIs, and has provided SEO strategy and technical consultancy for leading brands.",
-          "signal_hash": "1a6f82ae759dd7f8c6b9dba38b443f7ce61d8a5fa78dfcd92a0c30a6cd1f323e",
-          "text_hash": "2f0e9699d81737f5914e67b2c588f91e9180eb7867b591303299ca0aba750fd8",
-          "fetched_at": "2026-05-20T16:05:05+00:00",
-          "status_code": 200,
-          "relevance_score": 2,
-          "relevance_reason": "Matched GEO keywords: AI search, search visibility",
-          "matched_keywords": [
-            "AI search",
-            "search visibility"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        }
-      },
-      "skipped_non_geo": 0,
+      "pages": {},
+      "skipped_non_geo": 10,
       "errors": [],
       "fetch_log": [
         {
           "url": "https://www.searchenginejournal.com/",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.searchenginejournal.com/category/generative-ai",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.searchenginejournal.com/category/seo",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.searchenginejournal.com/category/agency-marketing",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.searchenginejournal.com/category/careers-education",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.searchenginejournal.com/category/cms/wp",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.searchenginejournal.com/category/content",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.searchenginejournal.com/category/content/creation",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.searchenginejournal.com/category/content/strategy",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.searchenginejournal.com/category/enterprise-seo-column",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         }
       ]
     },
@@ -942,7 +539,7 @@
       "name": "BrightEdge",
       "category": "enterprise-seo-platform",
       "homepage": "https://www.brightedge.com/blog",
-      "checked_at": "2026-05-20T16:05:16+00:00",
+      "checked_at": "2026-05-20T16:32:23+00:00",
       "seed_urls": [
         "https://www.brightedge.com/blog"
       ],
@@ -957,7 +554,7 @@
           "summary": "Unlock Your Brand\u2019s Potential in the New AI Search Era",
           "signal_hash": "0d83baeadcf80094f5d792431466cd9f2cac96f7d97a8082bacfe9465ade7b90",
           "text_hash": "65ad195a7546c0a1d0c209a8ae6d600954cfc90eb601f121c5ef267f491e86e1",
-          "fetched_at": "2026-05-20T16:05:05+00:00",
+          "fetched_at": "2026-05-20T16:32:22+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: AI search",
@@ -976,7 +573,7 @@
           "summary": "The Enterprise Standard for AI Search Intelligence",
           "signal_hash": "fda520cd8c040b6083088fd00f9d341707c97d8dcd7fd4d2cb109d3ee33e9512",
           "text_hash": "751e4e0bc3ecad23bf8bde5bded73a121b96a82108d65d83136e90c67c3bc20e",
-          "fetched_at": "2026-05-20T16:05:06+00:00",
+          "fetched_at": "2026-05-20T16:32:22+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: AI search",
@@ -1064,7 +661,7 @@
       "name": "Authoritas",
       "category": "seo-platform",
       "homepage": "https://www.authoritas.com/blog",
-      "checked_at": "2026-05-20T16:05:18+00:00",
+      "checked_at": "2026-05-20T16:32:24+00:00",
       "seed_urls": [
         "https://www.authoritas.com/blog"
       ],
@@ -1079,7 +676,7 @@
           "summary": "Compare 100+ AI search engine optimisation tools with Authoritas. Get detailed feature comparisons, pricing analysis, and performance insights for AI trackers, SEO tools, and competitor analysis platforms.",
           "signal_hash": "195d132495328934897327ccca7f637184a7dc48e80758ce797527eeb51407ba",
           "text_hash": "99bf4994bbbe3c553a19e2526406653254615808190d24926e0b383cb3788342",
-          "fetched_at": "2026-05-20T16:05:17+00:00",
+          "fetched_at": "2026-05-20T16:32:24+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: AI search",
@@ -1168,7 +765,7 @@
       "name": "seoClarity",
       "category": "enterprise-seo-platform",
       "homepage": "https://www.seoclarity.net/blog",
-      "checked_at": "2026-05-20T16:05:20+00:00",
+      "checked_at": "2026-05-20T16:32:26+00:00",
       "seed_urls": [
         "https://www.seoclarity.net/blog"
       ],
@@ -1183,12 +780,11 @@
           "summary": "Discover some of the most effective SEO strategies that enterprise companies must prioritize. Manage the challenges and gain the insights for solutions to boost your overall search visibility.",
           "signal_hash": "040660e843fef99db0cfe6ed933ecede3cda3f9535c1fbdeac37ddfbd53cba32",
           "text_hash": "804f4a4d0a9b9d5a8829fb6e637b16ed6ea8851a0b9b08649e181ed0bac9a06a",
-          "fetched_at": "2026-05-20T16:05:18+00:00",
+          "fetched_at": "2026-05-20T16:32:25+00:00",
           "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, search visibility",
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: search visibility",
           "matched_keywords": [
-            "AI search",
             "search visibility"
           ],
           "ai_relevance_checked": false,
@@ -1203,7 +799,7 @@
           "summary": "Reveals where your brand shows up across AI search for Google, ChatGPT, AI Overviews, Perplexity, etc\u2014to power your growth in visibility, authority, and trust.",
           "signal_hash": "4ffc94b97e1569f83951a561a6e8608185ef32da4d9feea6dd6e31290a4e94c3",
           "text_hash": "faa0a4a8e9f29b7c6b9d8f663fc80c65b717c5c493fe607f771c4bc3ce96c46e",
-          "fetched_at": "2026-05-20T16:05:18+00:00",
+          "fetched_at": "2026-05-20T16:32:25+00:00",
           "status_code": 200,
           "relevance_score": 8,
           "relevance_reason": "Matched GEO keywords: AI Overview, AI Overviews, AI search, Perplexity",
@@ -1225,7 +821,7 @@
           "summary": "Your visibility data is only valuable if you can act on it. seoClarity drives the momentum for mentions in AI Search Engines and LLMs - from visibility to action.",
           "signal_hash": "8e6a7edb855343acc10d836018b52db2e9a38401f55406792ba1f81912751671",
           "text_hash": "3142431a4e23ba171d60865d5c6fa78458b85cfafd82271671d9a8bc6c074cf2",
-          "fetched_at": "2026-05-20T16:05:19+00:00",
+          "fetched_at": "2026-05-20T16:32:25+00:00",
           "status_code": 200,
           "relevance_score": 4,
           "relevance_reason": "Matched GEO keywords: AI search, search visibility",
@@ -1313,7 +909,7 @@
       "name": "Profound",
       "category": "geo-platform",
       "homepage": "https://www.profound.so/",
-      "checked_at": "2026-05-20T16:05:20+00:00",
+      "checked_at": "2026-05-20T16:32:26+00:00",
       "seed_urls": [
         "https://www.profound.so/",
         "https://www.profound.so/blog"
@@ -1336,7 +932,7 @@
       "name": "Scrunch AI",
       "category": "geo-platform",
       "homepage": "https://www.scrunchai.com/",
-      "checked_at": "2026-05-20T16:05:24+00:00",
+      "checked_at": "2026-05-20T16:32:28+00:00",
       "seed_urls": [
         "https://www.scrunchai.com/",
         "https://www.scrunchai.com/blog"
@@ -1352,14 +948,12 @@
           "summary": "Monitor brand presence in AI search, analyze and optimize your website, and deliver content directly to AI agents with Scrunch.",
           "signal_hash": "e084d24e562556bfebe86834eb4608af8a4b3a668d7363589883b3e5e53c5a86",
           "text_hash": "546eabbb6e030eb3a54c6620f5aba076ea2036f925405dfaa19a92db45a37ae1",
-          "fetched_at": "2026-05-20T16:05:22+00:00",
+          "fetched_at": "2026-05-20T16:32:26+00:00",
           "status_code": 200,
-          "relevance_score": 6,
-          "relevance_reason": "Matched GEO keywords: AI search, citation, citations, search visibility",
+          "relevance_score": 4,
+          "relevance_reason": "Matched GEO keywords: AI search, search visibility",
           "matched_keywords": [
             "AI search",
-            "citation",
-            "citations",
             "search visibility"
           ],
           "ai_relevance_checked": false,
@@ -1374,35 +968,12 @@
           "summary": "Stay up to date on AI search news, trends, tips, and takes to improve brand performance.",
           "signal_hash": "8ba337d13846927c4661023e7ab48fdcd6b285220769e14e760c60e13bc54ad1",
           "text_hash": "0b60381cc3f6c10144309ad263a58c53791769ee7e7edc0911b1f0f1547e4ac4",
-          "fetched_at": "2026-05-20T16:05:22+00:00",
+          "fetched_at": "2026-05-20T16:32:27+00:00",
           "status_code": 200,
-          "relevance_score": 4,
-          "relevance_reason": "Matched GEO keywords: AI search, citation, citations",
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: AI search",
           "matched_keywords": [
-            "AI search",
-            "citation",
-            "citations"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.scrunchai.com/about": {
-          "url": "https://www.scrunchai.com/about",
-          "page_type": "geo",
-          "title": "Scrunch | About",
-          "description": "Get details on Scrunch's mission, founding team, investors, funding, and more.",
-          "headline": "Scrunch home",
-          "summary": "Get details on Scrunch's mission, founding team, investors, funding, and more.",
-          "signal_hash": "851f7f7220bf4e6bd7bc0c37df60bca478586aebdf0b35afb7fd4f71b1617a8b",
-          "text_hash": "e524542e20363303f4309b4e976356358a795cfb8465f10414398f42756bc176",
-          "fetched_at": "2026-05-20T16:05:22+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, citation, citations",
-          "matched_keywords": [
-            "AI search",
-            "citation",
-            "citations"
+            "AI search"
           ],
           "ai_relevance_checked": false,
           "ai_relevant": null
@@ -1416,7 +987,7 @@
           "summary": "Compare the top ai search & answer engine tools: Scrunch, Adobe LLM Optimizer, AirOps, AthenaHQ, Bluefish & more. Side-by-side comparisons, pricing, and reviews to find the right tool.",
           "signal_hash": "adc1e4193e0d3d060638a30f6f4d15edcfc7f65da18ed37004cedd8abb57a317",
           "text_hash": "81fb8d42166417738dd64199b1956e27cdf8d1ae148e0624623c7dabb4f93dda",
-          "fetched_at": "2026-05-20T16:05:22+00:00",
+          "fetched_at": "2026-05-20T16:32:27+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, answer engine",
@@ -1437,56 +1008,12 @@
           "summary": "Scrunch helps agencies deliver for clients with tools designed specifically for agency workflows and multi-brand management.",
           "signal_hash": "2c7e5ba5045d51b207aebe91f1d045bc9c4c785d817957f81f440068a4bf9d6a",
           "text_hash": "cf993d66300337de9a5fbc0214db1efb240b024612575839ef13607641a516a8",
-          "fetched_at": "2026-05-20T16:05:22+00:00",
+          "fetched_at": "2026-05-20T16:32:27+00:00",
           "status_code": 200,
-          "relevance_score": 4,
-          "relevance_reason": "Matched GEO keywords: AI search, citation, citations",
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: AI search",
           "matched_keywords": [
-            "AI search",
-            "citation",
-            "citations"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.scrunchai.com/blog/ai-bot-traffic-questions-answered": {
-          "url": "https://www.scrunchai.com/blog/ai-bot-traffic-questions-answered",
-          "page_type": "geo",
-          "title": "Scrunch | Blog - Your AI bot traffic questions, answered",
-          "description": "Got questions about AI bot traffic? Here are the answers you\u00e2\u0080\u0099re looking for, from tracking bot traffic to tying it to human visits and everything in between.",
-          "headline": "Scrunch home",
-          "summary": "Got questions about AI bot traffic? Here are the answers you\u00e2\u0080\u0099re looking for, from tracking bot traffic to tying it to human visits and everything in between.",
-          "signal_hash": "114ecc1ba901af66181b299be6446f7942acaea165ff88aea0db006444d899d9",
-          "text_hash": "ed33262cbc925d407307588d2bc767f3a4676a89a642f9163fbcabb76d8c4ca0",
-          "fetched_at": "2026-05-20T16:05:23+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, citation, citations",
-          "matched_keywords": [
-            "AI search",
-            "citation",
-            "citations"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.scrunchai.com/blog/ai-search-citation-questions-answered": {
-          "url": "https://www.scrunchai.com/blog/ai-search-citation-questions-answered",
-          "page_type": "geo",
-          "title": "Scrunch | Blog - Your AI search citation questions, answered",
-          "description": "Got questions about AI search citations? Here are the answers you\u00e2\u0080\u0099re looking for, from citation tracking to beating existing sources and everything in between.",
-          "headline": "Scrunch home",
-          "summary": "Got questions about AI search citations? Here are the answers you\u00e2\u0080\u0099re looking for, from citation tracking to beating existing sources and everything in between.",
-          "signal_hash": "b04d3272ea33a092fb11a94d0dbaf866828716404e7425fa23f6b9e9d375048b",
-          "text_hash": "e717aaf2ca6429452269343b8e10a33d824917439f4085a029f10fd0174f2645",
-          "fetched_at": "2026-05-20T16:05:23+00:00",
-          "status_code": 200,
-          "relevance_score": 6,
-          "relevance_reason": "Matched GEO keywords: AI search, citation, citations",
-          "matched_keywords": [
-            "AI search",
-            "citation",
-            "citations"
+            "AI search"
           ],
           "ai_relevance_checked": false,
           "ai_relevant": null
@@ -1500,35 +1027,12 @@
           "summary": "Stay up to date on AI search news, trends, tips, and takes to improve brand performance.",
           "signal_hash": "5a097fad62382b0c7f62caead64b81df5fe5ef870c83cd09fad8916d56feb28f",
           "text_hash": "be70720ff14fda2557fc6c9adc7c726b499c1003d9990dbbad68306d7bcc5381",
-          "fetched_at": "2026-05-20T16:05:23+00:00",
+          "fetched_at": "2026-05-20T16:32:27+00:00",
           "status_code": 200,
-          "relevance_score": 4,
-          "relevance_reason": "Matched GEO keywords: AI search, citation, citations",
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: AI search",
           "matched_keywords": [
-            "AI search",
-            "citation",
-            "citations"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.scrunchai.com/blog/author/michael-iannelli": {
-          "url": "https://www.scrunchai.com/blog/author/michael-iannelli",
-          "page_type": "geo",
-          "title": "Scrunch | Blog - Michael Iannelli",
-          "description": "Stay up to date on AI search news, trends, tips, and takes to improve brand performance.",
-          "headline": "Scrunch home",
-          "summary": "Stay up to date on AI search news, trends, tips, and takes to improve brand performance.",
-          "signal_hash": "1cb0f4d52c495609332d89e97925c5c1ea4ac7e9d7e98634abdd573e23f07033",
-          "text_hash": "6adcd6b9f0ffe001fadf9f077d864bc18bb0b9d6cd2bdf78dea49ec3e0e8fc64",
-          "fetched_at": "2026-05-20T16:05:24+00:00",
-          "status_code": 200,
-          "relevance_score": 4,
-          "relevance_reason": "Matched GEO keywords: AI search, citation, citations",
-          "matched_keywords": [
-            "AI search",
-            "citation",
-            "citations"
+            "AI search"
           ],
           "ai_relevance_checked": false,
           "ai_relevant": null
@@ -1542,12 +1046,49 @@
           "summary": "Stay up to date on AI search news, trends, tips, and takes to improve brand performance.",
           "signal_hash": "2e4e24738beca783eccf8bce9666a36d67558bdc5021f2aef7f66e537cd0745b",
           "text_hash": "4e16f2c8e9caa67c2763f35767b2e5d2eacd7e0879616a1aa09b1d1a484d0ff1",
-          "fetched_at": "2026-05-20T16:05:24+00:00",
+          "fetched_at": "2026-05-20T16:32:28+00:00",
+          "status_code": 200,
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: AI search",
+          "matched_keywords": [
+            "AI search"
+          ],
+          "ai_relevance_checked": false,
+          "ai_relevant": null
+        },
+        "https://www.scrunchai.com/blog/author/sage-stahmer": {
+          "url": "https://www.scrunchai.com/blog/author/sage-stahmer",
+          "page_type": "geo",
+          "title": "Scrunch | Blog - Sage Stahmer",
+          "description": "Stay up to date on AI search news, trends, tips, and takes to improve brand performance.",
+          "headline": "Scrunch home",
+          "summary": "Stay up to date on AI search news, trends, tips, and takes to improve brand performance.",
+          "signal_hash": "949d7518137ed40644621364b1dee10b678de9dce8176372dfcfb887e7aa3655",
+          "text_hash": "d8f3d9ea8308928235b7c0f72e81ec99ff07cf9f30a5fe5f7fc8770c437b38b6",
+          "fetched_at": "2026-05-20T16:32:28+00:00",
+          "status_code": 200,
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: AI search",
+          "matched_keywords": [
+            "AI search"
+          ],
+          "ai_relevance_checked": false,
+          "ai_relevant": null
+        },
+        "https://www.scrunchai.com/blog/linkedin-posts-robots-cant-resist-what-data-says-about-chatgpt-citations": {
+          "url": "https://www.scrunchai.com/blog/linkedin-posts-robots-cant-resist-what-data-says-about-chatgpt-citations",
+          "page_type": "geo",
+          "title": "Scrunch | Blog - LinkedIn posts that robots can\u00e2\u0080\u0099t resist: What the data says about ChatGPT citations",
+          "description": "We analyzed LinkedIn citations in ChatGPT. The takeaway?\u00c2 AI cites for content, not clout\u00e2\u0080\u0094and some popular LinkedIn tactics hurt your odds.",
+          "headline": "Scrunch home",
+          "summary": "We analyzed LinkedIn citations in ChatGPT. The takeaway?\u00c2 AI cites for content, not clout\u00e2\u0080\u0094and some popular LinkedIn tactics hurt your odds.",
+          "signal_hash": "6bcf5fcd04beee87172740660bba29c0bfc3daaf51cbdc242617946536a0006f",
+          "text_hash": "33b42ab56dd34024dec8a79c4a6f159d29227abc26b279f0e52696776a087f2c",
+          "fetched_at": "2026-05-20T16:32:28+00:00",
           "status_code": 200,
           "relevance_score": 4,
-          "relevance_reason": "Matched GEO keywords: AI search, citation, citations",
+          "relevance_reason": "Matched GEO keywords: citation, citations",
           "matched_keywords": [
-            "AI search",
             "citation",
             "citations"
           ],
@@ -1555,7 +1096,7 @@
           "ai_relevant": null
         }
       },
-      "skipped_non_geo": 0,
+      "skipped_non_geo": 2,
       "errors": [],
       "fetch_log": [
         {
@@ -1574,7 +1115,8 @@
           "url": "https://www.scrunchai.com/about",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.scrunchai.com/aeo-tools",
@@ -1592,13 +1134,8 @@
           "url": "https://www.scrunchai.com/blog/ai-bot-traffic-questions-answered",
           "status_code": 200,
           "error": null,
-          "kept": true
-        },
-        {
-          "url": "https://www.scrunchai.com/blog/ai-search-citation-questions-answered",
-          "status_code": 200,
-          "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.scrunchai.com/blog/author/eric-wendt",
@@ -1607,13 +1144,19 @@
           "kept": true
         },
         {
-          "url": "https://www.scrunchai.com/blog/author/michael-iannelli",
+          "url": "https://www.scrunchai.com/blog/author/preston-boling",
           "status_code": 200,
           "error": null,
           "kept": true
         },
         {
-          "url": "https://www.scrunchai.com/blog/author/preston-boling",
+          "url": "https://www.scrunchai.com/blog/author/sage-stahmer",
+          "status_code": 200,
+          "error": null,
+          "kept": true
+        },
+        {
+          "url": "https://www.scrunchai.com/blog/linkedin-posts-robots-cant-resist-what-data-says-about-chatgpt-citations",
           "status_code": 200,
           "error": null,
           "kept": true
@@ -1624,7 +1167,7 @@
       "name": "Peec AI",
       "category": "geo-platform",
       "homepage": "https://www.peec.ai/",
-      "checked_at": "2026-05-20T16:05:26+00:00",
+      "checked_at": "2026-05-20T16:32:29+00:00",
       "seed_urls": [
         "https://www.peec.ai/",
         "https://www.peec.ai/blog"
@@ -1640,7 +1183,7 @@
           "summary": "Peec AI helps marketing teams analyze brand performance across ChatGPT, Perplexity, and Gemini. Track visibility, benchmark competitors, and optimize AI search presence.",
           "signal_hash": "6307260d57aaa6b893cada7ce62927d3985ddd2c45b8968514b5eb87eab8d417",
           "text_hash": "97911779ac9acba220e3ffda6bb007f1fd33346ca231c4bb521f4d1824d968a1",
-          "fetched_at": "2026-05-20T16:05:25+00:00",
+          "fetched_at": "2026-05-20T16:32:29+00:00",
           "status_code": 200,
           "relevance_score": 4,
           "relevance_reason": "Matched GEO keywords: AI search, Perplexity",
@@ -1660,17 +1203,16 @@
           "summary": "Insights, interviews, and how-to guides on AI search analytics, Generative Engine Optimization (GEO), sources/citations, and adapting SEO strategies for AI-driven discovery.",
           "signal_hash": "db99e5b09116d0e86ac0fd4f68a6a25ffde24acbcf03e8571094128a6285ff7f",
           "text_hash": "1908cb043bb373824856cd38f7456f5a814dd09a2a8bee39a5c42ec27aaf855b",
-          "fetched_at": "2026-05-20T16:05:25+00:00",
+          "fetched_at": "2026-05-20T16:32:29+00:00",
           "status_code": 200,
-          "relevance_score": 11,
-          "relevance_reason": "Matched GEO keywords: AI search, citation, citations, generative engine optimization, GEO, search visibility",
+          "relevance_score": 10,
+          "relevance_reason": "Matched GEO keywords: AI search, citation, citations, generative engine optimization, GEO",
           "matched_keywords": [
             "AI search",
             "citation",
             "citations",
             "generative engine optimization",
-            "GEO",
-            "search visibility"
+            "GEO"
           ],
           "ai_relevance_checked": false,
           "ai_relevant": null
@@ -1684,15 +1226,14 @@
           "summary": "AI Mode draws from a different source pool than AI Overviews - and Peec AI tracks your brand across both, separately. Visibility, sentiment, citations, and tips on how to improve.",
           "signal_hash": "e03c67865ce0806091ec4760822e049d48f4bcf1a366b018e99e6890ac63dc2c",
           "text_hash": "1976258623c2c1702039b3b682d098a0bcabbb5e4e141b581df4fae7e1a6da44",
-          "fetched_at": "2026-05-20T16:05:25+00:00",
+          "fetched_at": "2026-05-20T16:32:29+00:00",
           "status_code": 200,
-          "relevance_score": 13,
-          "relevance_reason": "Matched GEO keywords: AI Mode, AI Overview, AI Overviews, AI search, citation, citations",
+          "relevance_score": 12,
+          "relevance_reason": "Matched GEO keywords: AI Mode, AI Overview, AI Overviews, citation, citations, Google AI",
           "matched_keywords": [
             "AI Mode",
             "AI Overview",
             "AI Overviews",
-            "AI search",
             "citation",
             "citations",
             "Google AI"
@@ -1709,14 +1250,12 @@
           "summary": "Peec AI expert guidance to detect brand mention gaps in AI search. Read more on the Peec AI blog.",
           "signal_hash": "d1399bc2b56ae2800d8d386edfa53e974b9da94cf073ed20ddc1189124792507",
           "text_hash": "c4f28450feab271f06db3cfc66417e03a4c165156c8cbe243c96a92700d1c36d",
-          "fetched_at": "2026-05-20T16:05:25+00:00",
+          "fetched_at": "2026-05-20T16:32:29+00:00",
           "status_code": 200,
-          "relevance_score": 4,
-          "relevance_reason": "Matched GEO keywords: AI search, citation, GEO",
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: AI search",
           "matched_keywords": [
-            "AI search",
-            "citation",
-            "GEO"
+            "AI search"
           ],
           "ai_relevance_checked": false,
           "ai_relevant": null
@@ -1730,15 +1269,12 @@
           "summary": "Peec AI expert guide to identify low performing content in AI search Read more on the Peec AI blog.",
           "signal_hash": "60ce391f9c8731961409063437d0ca931e685a0d3429860441631ecfcc1dd1c5",
           "text_hash": "867aa2b49feb2374423baa69c46ff86725906f02c9918aad1d181985bdbd28b3",
-          "fetched_at": "2026-05-20T16:05:25+00:00",
+          "fetched_at": "2026-05-20T16:32:29+00:00",
           "status_code": 200,
-          "relevance_score": 5,
-          "relevance_reason": "Matched GEO keywords: AI search, citation, citations, GEO",
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: AI search",
           "matched_keywords": [
-            "AI search",
-            "citation",
-            "citations",
-            "GEO"
+            "AI search"
           ],
           "ai_relevance_checked": false,
           "ai_relevant": null
@@ -1752,13 +1288,12 @@
           "summary": "ChatGPT shows a strong bias toward English content. Read more on the Peec AI blog.",
           "signal_hash": "e219637d48226ee99bc0e2aa1afc4aafd1a9fcf0041bdcf6fb63c68c9e8685b8",
           "text_hash": "815346e6895a2410945f238a65be99c92781d907bccc26f4272b14bc2924a529",
-          "fetched_at": "2026-05-20T16:05:26+00:00",
+          "fetched_at": "2026-05-20T16:32:29+00:00",
           "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: ChatGPT search, GEO",
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: ChatGPT search",
           "matched_keywords": [
-            "ChatGPT search",
-            "GEO"
+            "ChatGPT search"
           ],
           "ai_relevance_checked": false,
           "ai_relevant": null
@@ -1772,39 +1307,13 @@
           "summary": "Peec AI expert citation analysis on over 1 million AI citations Read more on the Peec AI blog.",
           "signal_hash": "2eb8a588713034d6e32ab164b9683dc9daf7b9860a0c2ba11a1159612115ccb9",
           "text_hash": "f37368f3aed490861f868c62e0108621dabf0cd901db2a33105ba641bfaef9e3",
-          "fetched_at": "2026-05-20T16:05:26+00:00",
+          "fetched_at": "2026-05-20T16:32:29+00:00",
           "status_code": 200,
-          "relevance_score": 9,
-          "relevance_reason": "Matched GEO keywords: AI Mode, AI search, citation, citations, GEO, Google AI",
+          "relevance_score": 4,
+          "relevance_reason": "Matched GEO keywords: citation, citations",
           "matched_keywords": [
-            "AI Mode",
-            "AI search",
             "citation",
-            "citations",
-            "GEO",
-            "Google AI",
-            "Perplexity"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
-        },
-        "https://www.peec.ai/blog/country-analysis-20-million-search-qfos": {
-          "url": "https://www.peec.ai/blog/country-analysis-20-million-search-qfos",
-          "page_type": "geo",
-          "title": "ChatGPT fan-outs have doubled in length in 4 months - Peec AI",
-          "description": "Peec AI expert research on over 20 million ChatGPT fan-outs Read more on the Peec AI blog.",
-          "headline": "ChatGPT fan-outs have doubled in length in 4 months",
-          "summary": "Peec AI expert research on over 20 million ChatGPT fan-outs Read more on the Peec AI blog.",
-          "signal_hash": "94719d82c0af728f3e7923e4cede74425adb28d1c0a8f54fc8112e732eb21fee",
-          "text_hash": "ea48680362043f063bbb9a849d5c0873cfe171cd4f1bf196c94d9bd47cba51c6",
-          "fetched_at": "2026-05-20T16:05:26+00:00",
-          "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, GEO, search visibility",
-          "matched_keywords": [
-            "AI search",
-            "GEO",
-            "search visibility"
+            "citations"
           ],
           "ai_relevance_checked": false,
           "ai_relevant": null
@@ -1818,7 +1327,7 @@
           "summary": "Learn how Mint Position partnered with Peec AI to productize GEO Read more on the Peec AI blog.",
           "signal_hash": "398cce3ac7266329f6d167fe8e61b9df10d0ea19a829773bf72d8d9426cca155",
           "text_hash": "bd0a1e229c169388911abe8b49bb43a15b09fdcfb492f52d3877275842eb2f9d",
-          "fetched_at": "2026-05-20T16:05:26+00:00",
+          "fetched_at": "2026-05-20T16:32:29+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AI search, GEO, search visibility",
@@ -1829,29 +1338,9 @@
           ],
           "ai_relevance_checked": false,
           "ai_relevant": null
-        },
-        "https://www.peec.ai/blog/how-to-choose-the-right-prompts-for-llm-tracking": {
-          "url": "https://www.peec.ai/blog/how-to-choose-the-right-prompts-for-llm-tracking",
-          "page_type": "geo",
-          "title": "How to choose the right prompts for LLM tracking - Peec AI",
-          "description": "How to choose the right prompts for LLM tracking Read more on the Peec AI blog.",
-          "headline": "How to choose the right prompts for LLM tracking",
-          "summary": "How to choose the right prompts for LLM tracking Read more on the Peec AI blog.",
-          "signal_hash": "d0d04368a0bfa7680c0d2f3dfa23eb7951c3bdccd814464eeab0140578e10308",
-          "text_hash": "25087385f6093b7bbd08b2b56e251740ea41741f829ca59abb4622275cfb424c",
-          "fetched_at": "2026-05-20T16:05:26+00:00",
-          "status_code": 200,
-          "relevance_score": 2,
-          "relevance_reason": "Matched GEO keywords: AI search, GEO",
-          "matched_keywords": [
-            "AI search",
-            "GEO"
-          ],
-          "ai_relevance_checked": false,
-          "ai_relevant": null
         }
       },
-      "skipped_non_geo": 0,
+      "skipped_non_geo": 2,
       "errors": [],
       "fetch_log": [
         {
@@ -1900,7 +1389,8 @@
           "url": "https://www.peec.ai/blog/country-analysis-20-million-search-qfos",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.peec.ai/blog/how-mint-position-helps-fintech-clients-unlock-16-more-ai-search-visibility-and-secure-1-search-positions-with-peec-ai",
@@ -1912,7 +1402,8 @@
           "url": "https://www.peec.ai/blog/how-to-choose-the-right-prompts-for-llm-tracking",
           "status_code": 200,
           "error": null,
-          "kept": true
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         }
       ]
     },
@@ -1920,7 +1411,7 @@
       "name": "AthenaHQ",
       "category": "geo-platform",
       "homepage": "https://www.athenahq.ai/",
-      "checked_at": "2026-05-20T16:05:28+00:00",
+      "checked_at": "2026-05-20T16:32:31+00:00",
       "seed_urls": [
         "https://www.athenahq.ai/",
         "https://www.athenahq.ai/blog"
@@ -1936,7 +1427,7 @@
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "d41033c6ada46a23838593c120fb2f8e687ed65413a17e555e09ecd4ef8414a9",
           "text_hash": "68efa95a8df0a0a4a994918ffc40c3d5fdfac5743a96a5f7b4d7a58ebdd53457",
-          "fetched_at": "2026-05-20T16:05:27+00:00",
+          "fetched_at": "2026-05-20T16:32:30+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -1957,7 +1448,7 @@
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "f7384c17188dc2be1f8e0f9246b616775613e37fb22501a8a95f65ad3ff72472",
           "text_hash": "7b193c6fc43aa907892de42500f607b9afe8073438ed5a9aa528107918c4f6ca",
-          "fetched_at": "2026-05-20T16:05:27+00:00",
+          "fetched_at": "2026-05-20T16:32:30+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -1978,7 +1469,7 @@
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "d5dae091e5ed43f04efb0c46b04000b1e020c4fded10eab89fb31f132ec9be6e",
           "text_hash": "1d3661cf499599c51f411539a41f29d6b83be127e8fc1d9de8ca3b278e8ae3a6",
-          "fetched_at": "2026-05-20T16:05:27+00:00",
+          "fetched_at": "2026-05-20T16:32:30+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -1999,7 +1490,7 @@
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "00acd45fe916d5b097e5744c2caf7169a2ad732c8b980a1e9cbf3a81ab2a6ef1",
           "text_hash": "909f3305e934a4b2aee8b334bbfc9ff9911e715f1039df2d96376b20e703c20b",
-          "fetched_at": "2026-05-20T16:05:27+00:00",
+          "fetched_at": "2026-05-20T16:32:30+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -2020,7 +1511,7 @@
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "4461c643cd2127125b475b16a4be05cda45cbe3f6cbb70f528dd5a575d466e96",
           "text_hash": "7a0d4ee9fb2fac6973384ca1f4eadac553132e19d4fe56b7d484a6a9dc6e2493",
-          "fetched_at": "2026-05-20T16:05:27+00:00",
+          "fetched_at": "2026-05-20T16:32:30+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -2041,7 +1532,7 @@
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "caa0e8c1461734a1be282c4e5acef22fd6c87902d8807b8c9b1195e08954f206",
           "text_hash": "8a9d8466bac296f9eeb86361986fca05c880a9cd5a4a032dbb28a1a9fe8e27cc",
-          "fetched_at": "2026-05-20T16:05:28+00:00",
+          "fetched_at": "2026-05-20T16:32:30+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -2062,7 +1553,7 @@
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "4d0dcad0de771abacc41cf48a3b8bbe58d8e37e704dc9f697154f126d8b8b150",
           "text_hash": "a704f847bb66fd594dd1dbd0b8ed3bdab95bc1cc847ecd5e7089d5a162677a0c",
-          "fetched_at": "2026-05-20T16:05:28+00:00",
+          "fetched_at": "2026-05-20T16:32:30+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -2083,7 +1574,7 @@
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "161343b452f5de4cd2de1110baf718bc86b42474fb2481475d46dc9b4f224a97",
           "text_hash": "27e96c5d6c90d508a098e41aa95d9df8ecea591649b3fb3ffea84dfa696b73ac",
-          "fetched_at": "2026-05-20T16:05:28+00:00",
+          "fetched_at": "2026-05-20T16:32:30+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -2104,7 +1595,7 @@
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "4abb92d3f84f1ffc49435e98547e10f99f90254e54a4ef1ee7d6fc5cb755b0dc",
           "text_hash": "a2cda4992b6c07d4e9d9eeac8bc2ef528db59cf19c7129bfdeabc4ea36be3d66",
-          "fetched_at": "2026-05-20T16:05:28+00:00",
+          "fetched_at": "2026-05-20T16:32:31+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -2125,13 +1616,12 @@
           "summary": "Purpose-built AI search optimization for every industry. Explore how Athena delivers custom query libraries, compliance monitoring, and benchmarks tailored to your vertical.",
           "signal_hash": "fc8f5f9b4f17c6aa43e0c5b54981baaf19309d2621e60190b3e360e8546a6349",
           "text_hash": "65b037f63565a6e3d921b14ad4fd35fc2564c5719df9f7473454ab3ac7712b7a",
-          "fetched_at": "2026-05-20T16:05:28+00:00",
+          "fetched_at": "2026-05-20T16:32:31+00:00",
           "status_code": 200,
-          "relevance_score": 3,
-          "relevance_reason": "Matched GEO keywords: AI search, GEO",
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: AI search",
           "matched_keywords": [
-            "AI search",
-            "GEO"
+            "AI search"
           ],
           "ai_relevance_checked": false,
           "ai_relevant": null
