@@ -1,5 +1,9 @@
 __pycache__/
 *.pyc
 .venv/
-output/report.md
-output/summary.json
+.pytest_cache/
+.ruff_cache/
+.env
+.env.*
+!.env.example
+output/
