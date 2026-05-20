@@ -5,6 +5,7 @@ import hashlib
 import json
 import os
 import re
+import warnings
 from collections import defaultdict
 from dataclasses import dataclass, field
 from datetime import UTC, datetime
@@ -13,7 +14,7 @@ from typing import Any
 from urllib.parse import urljoin, urlparse, urlunparse
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "config" / "sites.json"
@@ -21,6 +22,8 @@ STATE_PATH = ROOT / "state" / "site_state.json"
 OUTPUT_DIR = ROOT / "output"
 REPORT_PATH = OUTPUT_DIR / "report.md"
 SUMMARY_PATH = OUTPUT_DIR / "summary.json"
+
+warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
 OPENAI_RESPONSES_URL = "https://api.openai.com/v1/responses"
 DEFAULT_OPENAI_MODEL = "gpt-5.5"
@@ -239,7 +242,12 @@ def normalize_text(text: str) -> str:
     return cleaned.encode("utf-8", errors="ignore").decode("utf-8", errors="ignore")
 
 
-def fetch_html(session: requests.Session, url: str, timeout_seconds: int) -> tuple[str | None, int, str | None]:
+def fetch_document(
+    session: requests.Session,
+    url: str,
+    timeout_seconds: int,
+    allow_xml: bool = False,
+) -> tuple[str | None, int, str | None]:
     try:
         response = session.get(url, timeout=timeout_seconds, allow_redirects=True)
     except requests.RequestException as exc:
@@ -247,23 +255,38 @@ def fetch_html(session: requests.Session, url: str, timeout_seconds: int) -> tup
     content_type = response.headers.get("content-type", "")
     if response.status_code >= 400:
         return None, response.status_code, f"HTTP error response: {content_type}"
-    if "html" not in content_type.lower():
+    lowered_type = content_type.lower()
+    if "html" not in lowered_type and not (allow_xml and "xml" in lowered_type):
         return None, response.status_code, f"Non-HTML response: {content_type}"
     return response.text, response.status_code, None
+
+
+def fetch_html(session: requests.Session, url: str, timeout_seconds: int) -> tuple[str | None, int, str | None]:
+    return fetch_document(session, url, timeout_seconds, allow_xml=False)
 
 
 def extract_links(base_url: str, html: str, site: dict[str, Any] | None = None) -> list[str]:
     soup = BeautifulSoup(html, "html.parser")
     links: list[str] = []
     seen: set[str] = set()
-    for anchor in soup.find_all("a", href=True):
-        href = anchor.get("href", "").strip()
+    candidates: list[str] = []
+    candidates.extend(anchor.get("href", "").strip() for anchor in soup.find_all("a", href=True))
+    candidates.extend(match.strip() for match in re.findall(r"<link[^>]*>(.*?)</link>", html, flags=re.I | re.S))
+    for link_tag in soup.find_all("link"):
+        if link_tag.get("href"):
+            candidates.append(link_tag.get("href", "").strip())
+        elif link_tag.string:
+            candidates.append(link_tag.string.strip())
+
+    for href in candidates:
         if not href:
             continue
         absolute = canonicalize_url(urljoin(base_url, href))
         if not absolute.startswith("http"):
             continue
         if not is_same_domain(base_url, absolute):
+            continue
+        if base_url.lower().endswith(".xml") and urlparse(absolute).path.rstrip("/") in {"", "/news", "/blog"}:
             continue
         if should_skip_url(absolute, site):
             continue
@@ -334,16 +357,12 @@ def prioritize_urls(seed_urls: list[str], discovered_urls: list[str], max_pages:
 
 def keyword_relevance(snapshot: PageSnapshot, keywords: list[str]) -> tuple[int, list[str]]:
     high_weight_text = " ".join([snapshot.url, snapshot.title, snapshot.description, snapshot.headline]).lower()
-    low_weight_text = snapshot.body_sample.lower()
     matched: list[str] = []
     score = 0
     for keyword in keywords:
         keyword_l = keyword.lower()
         if keyword_l in high_weight_text:
             score += 2
-            matched.append(keyword)
-        elif keyword_l in low_weight_text:
-            score += 1
             matched.append(keyword)
     return score, sorted(set(matched), key=str.lower)
 
@@ -479,7 +498,7 @@ def monitor_site(
     fetched_seed_count = 0
 
     for seed_url in seed_urls:
-        html, status_code, error = fetch_html(session, seed_url, timeout_seconds)
+        html, status_code, error = fetch_document(session, seed_url, timeout_seconds, allow_xml=True)
         if error:
             fetch_errors.append({"url": seed_url, "error": error, "status_code": status_code})
             continue

@@ -27,7 +27,6 @@
     "generative engine optimization",
     "GEO",
     "Google AI",
-    "Google Search",
     "LLM visibility",
     "Perplexity",
     "retrieval",
@@ -70,16 +69,18 @@
       "name": "OpenAI News",
       "category": "official-answer-engine",
       "geo_relevance": true,
-      "homepage": "https://openai.com/news/",
+      "homepage": "https://openai.com/news/rss.xml",
       "seed_urls": [
-        "https://openai.com/news/",
-        "https://openai.com/chatgpt/search/"
+        "https://openai.com/news/rss.xml"
       ],
       "include_path_keywords": [
         "chatgpt",
         "search",
         "news",
         "product"
+      ],
+      "exclude_path_keywords": [
+        "openai.com/news"
       ]
     },
     {

@@ -26,6 +26,16 @@ def test_extract_links_keeps_same_domain_and_skips_assets() -> None:
     assert extract_links("https://example.com/", html) == ["https://example.com/blog/ai-search"]
 
 
+def test_extract_links_reads_rss_link_tags() -> None:
+    xml = """
+    <rss><channel>
+      <item><title>AI search</title><link>https://example.com/news/chatgpt-search</link></item>
+      <item><title>Other</title><link>https://other.com/news/chatgpt-search</link></item>
+    </channel></rss>
+    """
+    assert extract_links("https://example.com/news/rss.xml", xml) == ["https://example.com/news/chatgpt-search"]
+
+
 def test_keyword_relevance_accepts_geo_page() -> None:
     snapshot = PageSnapshot(
         url="https://example.com/blog/google-ai-overviews",
@@ -60,6 +70,25 @@ def test_keyword_relevance_rejects_generic_market_research_page() -> None:
         body_sample="Consumer survey panel operations with no search visibility topic.",
     )
     score, matches = keyword_relevance(snapshot, ["AI search", "generative engine optimization", "AI Overviews"])
+    assert score == 0
+    assert matches == []
+
+
+def test_keyword_relevance_rejects_footer_only_matches() -> None:
+    snapshot = PageSnapshot(
+        url="https://example.com/category/agency-marketing",
+        page_type="article",
+        title="Agency Marketing",
+        description="Marketing tactics for agencies.",
+        headline="Agency Marketing",
+        summary="Agency Marketing",
+        signal_hash="a",
+        text_hash="b",
+        fetched_at="2026-01-01T00:00:00+00:00",
+        status_code=200,
+        body_sample="Footer links: AI search, search visibility, generative engine optimization.",
+    )
+    score, matches = keyword_relevance(snapshot, ["AI search", "search visibility", "generative engine optimization"])
     assert score == 0
     assert matches == []
 
