@@ -140,6 +140,58 @@ def test_diff_detects_body_hash_change_even_when_signal_same() -> None:
     assert events[0]["change_type"] == "content"
 
 
+def test_diff_suppresses_seed_page_content_churn() -> None:
+    previous = {
+        "pages": {
+            "https://example.com/blog": {
+                "page_type": "seed",
+                "signal_hash": "same",
+                "text_hash": "old",
+                "title": "Blog",
+            }
+        }
+    }
+    current = {
+        "pages": {
+            "https://example.com/blog": {
+                "page_type": "seed",
+                "signal_hash": "same",
+                "text_hash": "new",
+                "title": "Blog",
+                "summary": "Listing page changed",
+            }
+        }
+    }
+    assert diff_sites(previous, current) == []
+
+
+def test_diff_reports_seed_page_signal_change() -> None:
+    previous = {
+        "pages": {
+            "https://example.com/blog": {
+                "page_type": "seed",
+                "signal_hash": "old",
+                "text_hash": "old",
+                "title": "Blog",
+            }
+        }
+    }
+    current = {
+        "pages": {
+            "https://example.com/blog": {
+                "page_type": "seed",
+                "signal_hash": "new",
+                "text_hash": "new",
+                "title": "AI search blog",
+                "summary": "Listing page retitled",
+            }
+        }
+    }
+    events = diff_sites(previous, current)
+    assert events[0]["event_type"] == "updated_page"
+    assert events[0]["change_type"] == "signal"
+
+
 def test_snapshot_state_excludes_raw_body_sample() -> None:
     snapshot = snapshot_page(
         "https://example.com/blog/ai-search",
