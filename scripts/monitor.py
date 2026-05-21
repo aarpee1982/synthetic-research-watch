@@ -525,8 +525,7 @@ def monitor_site(
         if error:
             fetch_log.append({"url": url, "status_code": status_code, "error": error})
             continue
-        page_kind = page_type if page_type != "seed" else score_url(url, site)[1]
-        snapshot = snapshot_page(url, html, status_code, page_kind)
+        snapshot = snapshot_page(url, html, status_code, page_type)
         if snapshot.text_hash in seen_hashes:
             continue
         seen_hashes.add(snapshot.text_hash)
@@ -584,6 +583,8 @@ def diff_sites(previous: dict[str, Any], current: dict[str, Any]) -> list[dict[s
             continue
         signal_changed = before.get("signal_hash") != page.get("signal_hash")
         content_changed = before.get("text_hash") != page.get("text_hash")
+        if page.get("page_type") == "seed" and content_changed and not signal_changed:
+            continue
         if signal_changed or content_changed:
             events.append(
                 {
