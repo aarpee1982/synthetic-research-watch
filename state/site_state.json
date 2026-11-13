@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T13:31:52+00:00",
+  "generated_at": "2026-11-13T12:51:43+00:00",
   "topic": "generative engine optimization and AI search visibility",
   "sites": {
     "Google Search Central": {
       "name": "Google Search Central",
       "category": "official-search-platform",
       "homepage": "https://developers.google.com/search",
-      "checked_at": "2026-11-12T13:30:54+00:00",
+      "checked_at": "2026-11-13T12:51:03+00:00",
       "seed_urls": [
         "https://developers.google.com/search",
         "https://developers.google.com/search/blog",
@@ -46,13 +46,6 @@
           "reason": "Skipped: no GEO keyword match."
         },
         {
-          "url": "https://developers.google.com/search/case-studies/saramin-case-study",
-          "status_code": 200,
-          "error": null,
-          "kept": false,
-          "reason": "Skipped: no GEO keyword match."
-        },
-        {
           "url": "https://developers.google.com/search/docs",
           "status_code": 200,
           "error": null,
@@ -86,6 +79,13 @@
           "error": null,
           "kept": false,
           "reason": "Skipped: no GEO keyword match."
+        },
+        {
+          "url": "https://developers.google.com/search/docs/appearance/title-link",
+          "status_code": 200,
+          "error": null,
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         }
       ]
     },
@@ -93,7 +93,7 @@
       "name": "Google AI Blog",
       "category": "official-ai-platform",
       "homepage": "https://blog.google/technology/ai",
-      "checked_at": "2026-11-12T13:30:58+00:00",
+      "checked_at": "2026-11-13T12:51:04+00:00",
       "seed_urls": [
         "https://blog.google/technology/ai",
         "https://blog.google/products/search"
@@ -109,7 +109,7 @@
           "summary": "Explore the cutting-edge work Google is doing in AI and machine learning.",
           "signal_hash": "b21938a3e9d0918214ca5b0bf674d73b0bdc4c1c6747f7d40142829308bcdd4f",
           "text_hash": "d1929c449a340a983c08ce8fbc2b3d7b4f9f0484684a7de1dcf3717d0c39360e",
-          "fetched_at": "2026-11-12T13:30:55+00:00",
+          "fetched_at": "2026-11-13T12:51:03+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: Google AI",
@@ -198,7 +198,7 @@
       "name": "OpenAI News",
       "category": "official-answer-engine",
       "homepage": "https://openai.com/news/rss.xml",
-      "checked_at": "2026-11-12T13:30:59+00:00",
+      "checked_at": "2026-11-13T12:51:05+00:00",
       "seed_urls": [
         "https://openai.com/news/rss.xml"
       ],
@@ -243,17 +243,17 @@
           "error": "HTTP error response: text/html; charset=UTF-8"
         },
         {
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "status_code": 403,
+          "error": "HTTP error response: text/html; charset=UTF-8"
+        },
+        {
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "status_code": 403,
+          "error": "HTTP error response: text/html; charset=UTF-8"
+        },
+        {
           "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "status_code": 403,
-          "error": "HTTP error response: text/html; charset=UTF-8"
-        },
-        {
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "status_code": 403,
-          "error": "HTTP error response: text/html; charset=UTF-8"
-        },
-        {
-          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
           "status_code": 403,
           "error": "HTTP error response: text/html; charset=UTF-8"
         }
@@ -263,7 +263,7 @@
       "name": "Anthropic News",
       "category": "official-ai-platform",
       "homepage": "https://www.anthropic.com/news",
-      "checked_at": "2026-11-12T13:31:01+00:00",
+      "checked_at": "2026-11-13T12:51:07+00:00",
       "seed_urls": [
         "https://www.anthropic.com/news"
       ],
@@ -348,7 +348,7 @@
       "name": "Microsoft Bing Blogs",
       "category": "official-search-platform",
       "homepage": "https://blogs.bing.com/search",
-      "checked_at": "2026-11-12T13:31:05+00:00",
+      "checked_at": "2026-11-13T12:51:11+00:00",
       "seed_urls": [
         "https://blogs.bing.com/search",
         "https://blogs.bing.com/search-quality-insights"
@@ -432,7 +432,7 @@
       "name": "Search Engine Journal",
       "category": "search-industry",
       "homepage": "https://www.searchenginejournal.com/",
-      "checked_at": "2026-11-12T13:31:08+00:00",
+      "checked_at": "2026-11-13T12:51:17+00:00",
       "seed_urls": [
         "https://www.searchenginejournal.com/",
         "https://www.searchenginejournal.com/category/generative-ai",
@@ -448,8 +448,8 @@
           "headline": "The AI Search & SEO News That Matters",
           "summary": "Search Engine Journal is the last independent voice in search, sharing the latest AI search, SEO, GEO & AEO news that impact marketing strategy and business growth.",
           "signal_hash": "9a714a8d06ac7a7ccb7598528894359c2c279ad022589ca66e57af6abd07bef6",
-          "text_hash": "493a378571e1b171f512e63153369368307a2834f766ff2e638ff602acb11613",
-          "fetched_at": "2026-11-12T13:31:06+00:00",
+          "text_hash": "146429a9991b9b1867894c2f573001452cf64d1ee0b993899d513260add758ef",
+          "fetched_at": "2026-11-13T12:51:12+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -469,8 +469,8 @@
           "headline": "AI Search",
           "summary": "Stay up to date on generative AI developments in search marketing. Explore our news and guides to learn more.",
           "signal_hash": "94c39ba0e959b2040592dfeaa6dd8e54d7581dc772ba48cf6097f0777ad6668b",
-          "text_hash": "a1e9c4d885a77172bd26a0eb605d1776560fa1e5d210527c9a479ff1889e11a1",
-          "fetched_at": "2026-11-12T13:31:07+00:00",
+          "text_hash": "94a20130831d09b803638bb0a94f166af39fb2deade2dc1fdcba91cde31995c4",
+          "fetched_at": "2026-11-13T12:51:13+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: AI search",
@@ -558,7 +558,7 @@
       "name": "BrightEdge",
       "category": "enterprise-seo-platform",
       "homepage": "https://www.brightedge.com/blog",
-      "checked_at": "2026-11-12T13:31:33+00:00",
+      "checked_at": "2026-11-13T12:51:28+00:00",
       "seed_urls": [
         "https://www.brightedge.com/blog"
       ],
@@ -572,14 +572,77 @@
           "headline": "BrightEdge SEO, AEO, and AI Search Blog",
           "summary": "BrightEdge research, SEO analysis, and AI search insights for enterprise marketing teams. Updated weekly with data from the BrightEdge DataCube.",
           "signal_hash": "d94859d28b1e879f96e31a251ef14643ccdd7418849d0f19f23eaa0a10f66dba",
-          "text_hash": "68002afca6c5c5bbeef42477405c160c55d926a084e5b2c8d1385a629cbc9d19",
-          "fetched_at": "2026-11-12T13:31:09+00:00",
+          "text_hash": "dfb1840535d75f58f672c80d8c673be6d235e5a5efbf0c8270183ed5031876b2",
+          "fetched_at": "2026-11-13T12:51:18+00:00",
           "status_code": 200,
           "relevance_score": 4,
           "relevance_reason": "Matched GEO keywords: AEO, AI search",
           "matched_keywords": [
             "AEO",
             "AI search"
+          ],
+          "ai_relevance_checked": false,
+          "ai_relevant": null
+        },
+        "https://www.brightedge.com/ai-agent-insights": {
+          "url": "https://www.brightedge.com/ai-agent-insights",
+          "page_type": "geo",
+          "title": "AI Agent Insights | BrightEdge",
+          "description": "",
+          "headline": "See How People Use AI Search. Own Your Visibility.",
+          "summary": "See How People Use AI Search. Own Your Visibility.",
+          "signal_hash": "769acfe32d5d4fe2533f45f6c42f5e84187f4b06a303c5a4fc7eba3607e07c5b",
+          "text_hash": "0cf4e7ab5ca1650c6e6c451522cdb1c742cd506b35c29f517a1b8bae43a7b615",
+          "fetched_at": "2026-11-13T12:51:18+00:00",
+          "status_code": 200,
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: AI search",
+          "matched_keywords": [
+            "AI search"
+          ],
+          "ai_relevance_checked": false,
+          "ai_relevant": null
+        },
+        "https://www.brightedge.com/brightedge-google-search-console-reporting": {
+          "url": "https://www.brightedge.com/brightedge-google-search-console-reporting",
+          "page_type": "geo",
+          "title": "BrightEdge Google Search Console Reporting | BrightEdge",
+          "description": "Get all your Google Search Console data in one platform, and the insights Google does not give you, including what AI Overviews are costing your clicks.",
+          "headline": "All Your Search Console Data, With the Insights Google Doesn't Give You",
+          "summary": "Get all your Google Search Console data in one platform, and the insights Google does not give you, including what AI Overviews are costing your clicks.",
+          "signal_hash": "80f6ed61249e6799d522b26072a21c98841cda567672684594e713515fc01414",
+          "text_hash": "5b7b0ed0bd223a53104a9e40ba5763b673a356411dfcb17628b8ed6ac89c2aa1",
+          "fetched_at": "2026-11-13T12:51:18+00:00",
+          "status_code": 200,
+          "relevance_score": 4,
+          "relevance_reason": "Matched GEO keywords: AI Overview, AI Overviews",
+          "matched_keywords": [
+            "AI Overview",
+            "AI Overviews"
+          ],
+          "ai_relevance_checked": false,
+          "ai_relevant": null
+        },
+        "https://www.brightedge.com/optimize-for-google-ai-overviews": {
+          "url": "https://www.brightedge.com/optimize-for-google-ai-overviews",
+          "page_type": "geo",
+          "title": "Optimize for Google AI Overviews and Get Cited | BrightEdge",
+          "description": "Optimize for Google AI Overviews with AEO. See which searches trigger them, who earns the citation and how to get your brand cited in AI search.",
+          "headline": "Optimize for Google AI Overviews",
+          "summary": "Optimize for Google AI Overviews with AEO. See which searches trigger them, who earns the citation and how to get your brand cited in AI search.",
+          "signal_hash": "1ffe57a99d77d7fcf90547b08175d837504b66b8aff960a0191b8a8a666e0469",
+          "text_hash": "7775d2ed40f7d46fc7d65767ff5f586f01e44081b1d1d793eea80b3fee0fa16f",
+          "fetched_at": "2026-11-13T12:51:27+00:00",
+          "status_code": 200,
+          "relevance_score": 12,
+          "relevance_reason": "Matched GEO keywords: AEO, AI Overview, AI Overviews, AI search, citation, Google AI",
+          "matched_keywords": [
+            "AEO",
+            "AI Overview",
+            "AI Overviews",
+            "AI search",
+            "citation",
+            "Google AI"
           ],
           "ai_relevance_checked": false,
           "ai_relevant": null
@@ -593,7 +656,26 @@
           "summary": "Turn AI Search Into a Measurable Growth Channel",
           "signal_hash": "026db1a8185ac21e0ed9bc36643988a20172a7698fb64e8fc90f8264b64665ea",
           "text_hash": "b982f1597eea59330d7a52db06fc1f91c277f2cf3835df0740fddf6858a0cbb0",
-          "fetched_at": "2026-11-12T13:31:09+00:00",
+          "fetched_at": "2026-11-13T12:51:27+00:00",
+          "status_code": 200,
+          "relevance_score": 2,
+          "relevance_reason": "Matched GEO keywords: AI search",
+          "matched_keywords": [
+            "AI search"
+          ],
+          "ai_relevance_checked": false,
+          "ai_relevant": null
+        },
+        "https://www.brightedge.com/products/ai-hyper-cube": {
+          "url": "https://www.brightedge.com/products/ai-hyper-cube",
+          "page_type": "geo",
+          "title": "AI Hyper Cube | BrightEdge",
+          "description": "",
+          "headline": "The Enterprise Standard for AI Search Intelligence",
+          "summary": "The Enterprise Standard for AI Search Intelligence",
+          "signal_hash": "fda520cd8c040b6083088fd00f9d341707c97d8dcd7fd4d2cb109d3ee33e9512",
+          "text_hash": "dd6c10c1bdabf551ff5655205d7631c29b442b83bbd2d299a04e13ed69a84942",
+          "fetched_at": "2026-11-13T12:51:27+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: AI search",
@@ -604,7 +686,7 @@
           "ai_relevant": null
         }
       },
-      "skipped_non_geo": 3,
+      "skipped_non_geo": 4,
       "errors": [],
       "fetch_log": [
         {
@@ -615,23 +697,28 @@
         },
         {
           "url": "https://www.brightedge.com/ai-agent-insights",
-          "status_code": 502,
-          "error": "HTTP error response: text/html"
+          "status_code": 200,
+          "error": null,
+          "kept": true
         },
         {
           "url": "https://www.brightedge.com/brightedge-google-search-console-reporting",
-          "status_code": 502,
-          "error": "HTTP error response: text/html"
+          "status_code": 200,
+          "error": null,
+          "kept": true
         },
         {
           "url": "https://www.brightedge.com/connect-content-and-seo",
-          "status_code": 502,
-          "error": "HTTP error response: text/html"
+          "status_code": 200,
+          "error": null,
+          "kept": false,
+          "reason": "Skipped: no GEO keyword match."
         },
         {
           "url": "https://www.brightedge.com/optimize-for-google-ai-overviews",
-          "status_code": 502,
-          "error": "HTTP error response: text/html"
+          "status_code": 200,
+          "error": null,
+          "kept": true
         },
         {
           "url": "https://www.brightedge.com/products/ai-catalyst",
@@ -641,8 +728,9 @@
         },
         {
           "url": "https://www.brightedge.com/products/ai-hyper-cube",
-          "status_code": 0,
-          "error": "HTTPSConnectionPool(host='www.brightedge.com', port=443): Read timed out. (read timeout=12)"
+          "status_code": 200,
+          "error": null,
+          "kept": true
         },
         {
           "url": "https://www.brightedge.com/products/content-advisor",
@@ -671,7 +759,7 @@
       "name": "Authoritas",
       "category": "seo-platform",
       "homepage": "https://www.authoritas.com/blog",
-      "checked_at": "2026-11-12T13:31:35+00:00",
+      "checked_at": "2026-11-13T12:51:28+00:00",
       "seed_urls": [
         "https://www.authoritas.com/blog"
       ],
@@ -686,7 +774,7 @@
           "summary": "Compare 100+ AI search engine optimisation tools with Authoritas. Get detailed feature comparisons, pricing analysis, and performance insights for AI trackers, SEO tools, and competitor analysis platforms.",
           "signal_hash": "195d132495328934897327ccca7f637184a7dc48e80758ce797527eeb51407ba",
           "text_hash": "99bf4994bbbe3c553a19e2526406653254615808190d24926e0b383cb3788342",
-          "fetched_at": "2026-11-12T13:31:34+00:00",
+          "fetched_at": "2026-11-13T12:51:28+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: AI search",
@@ -775,7 +863,7 @@
       "name": "seoClarity",
       "category": "enterprise-seo-platform",
       "homepage": "https://www.seoclarity.net/blog",
-      "checked_at": "2026-11-12T13:31:37+00:00",
+      "checked_at": "2026-11-13T12:51:31+00:00",
       "seed_urls": [
         "https://www.seoclarity.net/blog"
       ],
@@ -790,7 +878,7 @@
           "summary": "Discover some of the most effective SEO strategies that enterprise companies must prioritize. Manage the challenges and gain the insights for solutions to boost your overall search visibility.",
           "signal_hash": "040660e843fef99db0cfe6ed933ecede3cda3f9535c1fbdeac37ddfbd53cba32",
           "text_hash": "488708c051623957b6aeeaa499ec1b4882e02c9efd899d67f07f3c52dcc59d43",
-          "fetched_at": "2026-11-12T13:31:35+00:00",
+          "fetched_at": "2026-11-13T12:51:29+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: search visibility",
@@ -809,7 +897,7 @@
           "summary": "Win in SEO and AEO with industry-leading capabilities for enhancing search visibility, accelerating execution, and delivering actionable insights.",
           "signal_hash": "aca584d4ac40828aef1bbe7df671336f391603657eec36a2d80879557db59b48",
           "text_hash": "852f595a3511772a35d4c1d02b24eb9042b5e1b624affaefca911d47a9922ffc",
-          "fetched_at": "2026-11-12T13:31:35+00:00",
+          "fetched_at": "2026-11-13T12:51:29+00:00",
           "status_code": 200,
           "relevance_score": 4,
           "relevance_reason": "Matched GEO keywords: AEO, search visibility",
@@ -829,7 +917,7 @@
           "summary": "Visibility data only matters if you can act on it. seoClarity helps you track and improve your brand\u2019s mentions across AI search engines and LLMs.",
           "signal_hash": "2434cf68dcd3be9eb605f32610ebab6311602f96573d816c648b9c2e9b751bc8",
           "text_hash": "3ce0c88574cffdb3d8398bd739196e412d3a61a208e2abec9c873cd4be66e4b1",
-          "fetched_at": "2026-11-12T13:31:36+00:00",
+          "fetched_at": "2026-11-13T12:51:29+00:00",
           "status_code": 200,
           "relevance_score": 8,
           "relevance_reason": "Matched GEO keywords: AI search, citation, citations, search visibility",
@@ -919,7 +1007,7 @@
       "name": "Profound",
       "category": "geo-platform",
       "homepage": "https://www.profound.so/",
-      "checked_at": "2026-11-12T13:31:37+00:00",
+      "checked_at": "2026-11-13T12:51:31+00:00",
       "seed_urls": [
         "https://www.profound.so/",
         "https://www.profound.so/blog"
@@ -942,7 +1030,7 @@
       "name": "Scrunch AI",
       "category": "geo-platform",
       "homepage": "https://www.scrunchai.com/",
-      "checked_at": "2026-11-12T13:31:47+00:00",
+      "checked_at": "2026-11-13T12:51:38+00:00",
       "seed_urls": [
         "https://www.scrunchai.com/",
         "https://www.scrunchai.com/blog"
@@ -958,7 +1046,7 @@
           "summary": "Monitor brand presence in AI search, analyze and optimize your website, and deliver content directly to AI agents with Scrunch.",
           "signal_hash": "d29e957238594b956bacac1999ad5ff1916ba7c632d96009477221f79a549366",
           "text_hash": "3ff0a1b7058d03062b785d0af7f665819150e9969735798db5874bb585dd86f7",
-          "fetched_at": "2026-11-12T13:31:38+00:00",
+          "fetched_at": "2026-11-13T12:51:32+00:00",
           "status_code": 200,
           "relevance_score": 4,
           "relevance_reason": "Matched GEO keywords: AI search, search visibility",
@@ -978,7 +1066,7 @@
           "summary": "Stay up to date on AI search news, trends, tips, and takes to improve brand performance.",
           "signal_hash": "8ba337d13846927c4661023e7ab48fdcd6b285220769e14e760c60e13bc54ad1",
           "text_hash": "724b0c58719fc386a87e768e38df2170ef35ca24996c5a37dcdedb26b448e196",
-          "fetched_at": "2026-11-12T13:31:39+00:00",
+          "fetched_at": "2026-11-13T12:51:32+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: AI search",
@@ -997,7 +1085,7 @@
           "summary": "Compare the top ai search & answer engine tools: Scrunch, Adobe LLM Optimizer, AirOps, AthenaHQ, Bluefish & more. Side-by-side comparisons, pricing, and reviews to find the right tool.",
           "signal_hash": "adc1e4193e0d3d060638a30f6f4d15edcfc7f65da18ed37004cedd8abb57a317",
           "text_hash": "81fb8d42166417738dd64199b1956e27cdf8d1ae148e0624623c7dabb4f93dda",
-          "fetched_at": "2026-11-12T13:31:40+00:00",
+          "fetched_at": "2026-11-13T12:51:32+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, answer engine",
@@ -1018,7 +1106,7 @@
           "summary": "Scrunch helps agencies deliver for clients with tools designed specifically for agency workflows and multi-brand management.",
           "signal_hash": "2c7e5ba5045d51b207aebe91f1d045bc9c4c785d817957f81f440068a4bf9d6a",
           "text_hash": "1995e70e53c14f029dd7968c38d7bd15dab3caec6f7d2dfd8fccf0d3aa83241b",
-          "fetched_at": "2026-11-12T13:31:40+00:00",
+          "fetched_at": "2026-11-13T12:51:33+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: AI search",
@@ -1036,8 +1124,8 @@
           "headline": "Scrunch home",
           "summary": "Find the sources AI cites, get added to the ones you can win, fact-check the ones getting you wrong, and take down impostors with Citation Optimization.",
           "signal_hash": "bca1d6b49e9fa7f4bc7fc7f0cb6c1d8988a1f4e61335d8b34f4af2b84156b194",
-          "text_hash": "a59f74aefaba5760f8029b234b5a0df7d77449434f316ea12677bc7c803548f4",
-          "fetched_at": "2026-11-12T13:31:43+00:00",
+          "text_hash": "bd4b1d06194d457b91a396aa41b8b093b811cc2d8b7130a253bb46e513b00b9b",
+          "fetched_at": "2026-11-13T12:51:36+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: citation",
@@ -1056,7 +1144,7 @@
           "summary": "Resources for understanding how your brand appears inside of generative AI platforms like ChatGPT, Gemini, Perplexity, and more.",
           "signal_hash": "3599f7ae6449af944b1f63be1e14477e738c8da878878b38fbc7d6f450c7f93e",
           "text_hash": "46d05c705ef435c975e9aa3b777aa21dfdd128bcd7ef7ccff37e1c7e2332ba49",
-          "fetched_at": "2026-11-12T13:31:47+00:00",
+          "fetched_at": "2026-11-13T12:51:38+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: Perplexity",
@@ -1140,7 +1228,7 @@
       "name": "Peec AI",
       "category": "geo-platform",
       "homepage": "https://www.peec.ai/",
-      "checked_at": "2026-11-12T13:31:50+00:00",
+      "checked_at": "2026-11-13T12:51:41+00:00",
       "seed_urls": [
         "https://www.peec.ai/",
         "https://www.peec.ai/blog"
@@ -1156,7 +1244,7 @@
           "summary": "Peec AI helps marketing teams understand and improve how their brands are discovered, represented and recommended by AI platforms like ChatGPT, Perplexity, and Gemini. Track visibility, benchmark competitors, and optimize AI search presence.",
           "signal_hash": "8ca85dad041975189a95e319aba7774b2e92a4ee5d07b6db4fb1d5f0fdf84377",
           "text_hash": "5222e82797f2a433cf4740bcb6c978aa40969bc7fbf9198d93612f5ba0a160de",
-          "fetched_at": "2026-11-12T13:31:48+00:00",
+          "fetched_at": "2026-11-13T12:51:40+00:00",
           "status_code": 200,
           "relevance_score": 4,
           "relevance_reason": "Matched GEO keywords: AI search, Perplexity",
@@ -1176,7 +1264,7 @@
           "summary": "Insights, interviews, and how-to guides on AI search analytics, Generative Engine Optimization (GEO), sources/citations, and adapting SEO strategies for AI-driven discovery.",
           "signal_hash": "7587bc1f89560df75a736db0cb9ca826694c3a12747c6e826641aa63c1b4a575",
           "text_hash": "bcacfae564cd53660c37e10a6d2f4c7625989d3b682556cf75c18cb499dcfe58",
-          "fetched_at": "2026-11-12T13:31:48+00:00",
+          "fetched_at": "2026-11-13T12:51:40+00:00",
           "status_code": 200,
           "relevance_score": 10,
           "relevance_reason": "Matched GEO keywords: AI search, citation, citations, generative engine optimization, GEO",
@@ -1199,7 +1287,7 @@
           "summary": "Find AI search experts who can help you turn visibility insights into rankings, traffic, and revenue. The Peec AI Agency Directory features vetted agencies specializing in AEO and GEO services.",
           "signal_hash": "1b6cc8c23f5115dbcdfccfd9878f64e2770aaa5f2e91ac4a9b9e0eea5bd540fb",
           "text_hash": "e5229ae7de6dabb5c0802872ff5ff720b4ba2960ebb275e4dc3c1ba07ad0c945",
-          "fetched_at": "2026-11-12T13:31:48+00:00",
+          "fetched_at": "2026-11-13T12:51:40+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -1220,7 +1308,7 @@
           "summary": "Structured, verified facts about Peec AI for AI assistants such as ChatGPT, Claude, Perplexity and Gemini, to describe the company and its product accurately.",
           "signal_hash": "51d8d35f6b31a30b96efca625e6279232b032f3876a4fd611194e1f2847318de",
           "text_hash": "500bf23ff05737b4cb1c43f7e16c8861b478c1b63af6eca1a66ea2e295ded1bb",
-          "fetched_at": "2026-11-12T13:31:48+00:00",
+          "fetched_at": "2026-11-13T12:51:40+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: Perplexity",
@@ -1239,7 +1327,7 @@
           "summary": "AI Mode draws from a different source pool than AI Overviews - and Peec AI tracks your brand across both, separately. Visibility, sentiment, citations, and tips on how to improve.",
           "signal_hash": "e03c67865ce0806091ec4760822e049d48f4bcf1a366b018e99e6890ac63dc2c",
           "text_hash": "710685032bf8bab015a0583029b50cfe41e5043b785dff47c3118e3256f78fce",
-          "fetched_at": "2026-11-12T13:31:49+00:00",
+          "fetched_at": "2026-11-13T12:51:40+00:00",
           "status_code": 200,
           "relevance_score": 12,
           "relevance_reason": "Matched GEO keywords: AI Mode, AI Overview, AI Overviews, citation, citations, Google AI",
@@ -1263,7 +1351,7 @@
           "summary": "A structured 2026 reference for Generative Engine Optimization statistics, trends, and measurement priorities.",
           "signal_hash": "afa8174d406f1128647889072e5354e9f3dd56b05590427034f8863e438da822",
           "text_hash": "7953da630b0059ffc12c5fb1c9b87563e07cf0afa3cf919508ec6759310fb723",
-          "fetched_at": "2026-11-12T13:31:49+00:00",
+          "fetched_at": "2026-11-13T12:51:40+00:00",
           "status_code": 200,
           "relevance_score": 4,
           "relevance_reason": "Matched GEO keywords: generative engine optimization, GEO",
@@ -1283,7 +1371,7 @@
           "summary": "A guide to rerankers and citation-winning AI search content. Read more on the Peec AI blog.",
           "signal_hash": "9d7b79979db3e87b7f5ec2cabc2247fe4b45b293c42ad526560b62e0a13173e4",
           "text_hash": "7e6f80f94affb91e40d69858344807382baf948816c0a78accebf79090857b6e",
-          "fetched_at": "2026-11-12T13:31:50+00:00",
+          "fetched_at": "2026-11-13T12:51:40+00:00",
           "status_code": 200,
           "relevance_score": 8,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, citation, GEO",
@@ -1305,7 +1393,7 @@
           "summary": "Join Peec AI in Berlin or NYC and build the marketing engine for AI search. See open roles in engineering, sales, customer success and more.",
           "signal_hash": "d11d69366d875d96d43d272de4834c7afbdef8554527ed330fd5713a73875b1b",
           "text_hash": "125db1ad281ed5fc24cc4abb0bc8a38271f750eb9d96551ec493d39520383bcb",
-          "fetched_at": "2026-11-12T13:31:50+00:00",
+          "fetched_at": "2026-11-13T12:51:41+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: AI search",
@@ -1387,7 +1475,7 @@
       "name": "AthenaHQ",
       "category": "geo-platform",
       "homepage": "https://www.athenahq.ai/",
-      "checked_at": "2026-11-12T13:31:52+00:00",
+      "checked_at": "2026-11-13T12:51:43+00:00",
       "seed_urls": [
         "https://www.athenahq.ai/",
         "https://www.athenahq.ai/blog"
@@ -1402,8 +1490,8 @@
           "headline": "Become the Brand AI Trusts",
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "138609940846790eec0a773a4379281fb7ba0bb7f549def15a4b0480befce096",
-          "text_hash": "ecd0330a7a14c9e44327bc9a71b023d36d676e6f1296eff30a0ebb7015623c21",
-          "fetched_at": "2026-11-12T13:31:51+00:00",
+          "text_hash": "7dc54ec5898696d827e2034dd55c88b1397e57cb824e4f6b503df49e05543986",
+          "fetched_at": "2026-11-13T12:51:42+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -1423,8 +1511,8 @@
           "headline": "Blog",
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "f7384c17188dc2be1f8e0f9246b616775613e37fb22501a8a95f65ad3ff72472",
-          "text_hash": "e1b260190d8d2e19f457f3486a6181c8bbd265a4631fa57d62bd27dad992af1b",
-          "fetched_at": "2026-11-12T13:31:51+00:00",
+          "text_hash": "45783821f29604431e03bd6e2af00974274be81e2b678db78c55aaf143ad807c",
+          "fetched_at": "2026-11-13T12:51:42+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -1444,8 +1532,8 @@
           "headline": "The State of AI Search 2026 Report",
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "4461c643cd2127125b475b16a4be05cda45cbe3f6cbb70f528dd5a575d466e96",
-          "text_hash": "e53750970100a25f890476852716521178ca3e85c3e87568cfcd7eb0b757939c",
-          "fetched_at": "2026-11-12T13:31:51+00:00",
+          "text_hash": "0a380c49d4728ca96a4bebcf40c284481e4276641a788e004228f553e4d468c2",
+          "fetched_at": "2026-11-13T12:51:42+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -1465,8 +1553,8 @@
           "headline": "Case Studies",
           "summary": "AthenaHQ is a leading AEO & GEO platform trusted by commercial & enterprise businesses to become the answer AI gives and the brand AI trusts.",
           "signal_hash": "caa0e8c1461734a1be282c4e5acef22fd6c87902d8807b8c9b1195e08954f206",
-          "text_hash": "c30a21da837182a683bd07b72e79ef76a064948926de8337a1b62a3402bd7288",
-          "fetched_at": "2026-11-12T13:31:52+00:00",
+          "text_hash": "0c928b776c29be8b972a92c1bf36b4f6b036a0f41f7160954a8d28a7f4cfbb0c",
+          "fetched_at": "2026-11-13T12:51:42+00:00",
           "status_code": 200,
           "relevance_score": 6,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO",
@@ -1486,8 +1574,8 @@
           "headline": "Purpose-built for your industry",
           "summary": "Purpose-built AI search optimization for every industry. Explore how Athena delivers custom query libraries, compliance monitoring, and benchmarks tailored to your vertical.",
           "signal_hash": "fc8f5f9b4f17c6aa43e0c5b54981baaf19309d2621e60190b3e360e8546a6349",
-          "text_hash": "edd4fab32514d1e4d6442c169d0ff73015694de48421ab26389ff9a45ca11036",
-          "fetched_at": "2026-11-12T13:31:52+00:00",
+          "text_hash": "b7688bc5607f4ca938fa50ea0f550e4811e2fff172e3663a2b441d603b3579ee",
+          "fetched_at": "2026-11-13T12:51:42+00:00",
           "status_code": 200,
           "relevance_score": 2,
           "relevance_reason": "Matched GEO keywords: AI search",
@@ -1505,8 +1593,8 @@
           "headline": "Be the Brand AI Recommends First",
           "summary": "The GEO and AEO platform for beauty brands. See how AI answers skincare, haircare, and makeup prompts, then optimize your brand visibility with Athena.",
           "signal_hash": "002dc2572ec32ec3dfa4b36d80dd36253278693b7fa165c3d9e92b4bf9aff0db",
-          "text_hash": "0c0b1010b8d0504884fafb8937ef13dd09d2d2873e058b6b1794b01b731e2d2a",
-          "fetched_at": "2026-11-12T13:31:52+00:00",
+          "text_hash": "8c22bc99ad8e44c354dc09532c087da49f12726133218b898c5a5903026083ab",
+          "fetched_at": "2026-11-13T12:51:42+00:00",
           "status_code": 200,
           "relevance_score": 4,
           "relevance_reason": "Matched GEO keywords: AEO, GEO",
@@ -1525,8 +1613,8 @@
           "headline": "Win the AI Shelf",
           "summary": "Athena is the AEO and GEO platform built for CPG brands. Track your AI Search visibility across ChatGPT, Gemini, and Perplexity, then take action.",
           "signal_hash": "76acee887e317b3b0d980060ff2abc5cebcc80f3281f00445c8a3961fae23a5f",
-          "text_hash": "5214cee84c8a6fc950d05301f27dd9105ab1f5b9e250bc3e25a7469b81e2790a",
-          "fetched_at": "2026-11-12T13:31:52+00:00",
+          "text_hash": "c22cda504815619206633dab2492e96dab8dea364a827a40af3c00fd89767438",
+          "fetched_at": "2026-11-13T12:51:43+00:00",
           "status_code": 200,
           "relevance_score": 10,
           "relevance_reason": "Matched GEO keywords: AEO, AI search, GEO, Perplexity, search visibility",
